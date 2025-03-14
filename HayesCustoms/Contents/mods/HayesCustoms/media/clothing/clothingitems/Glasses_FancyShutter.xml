@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_FancyShutter</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_FancyShutter</m_FemaleModel>
+	<m_GUID>1fb73c62-c329-44c8-8818-d155c3864fdc</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\FancyShutter1</textureChoices>
+	<textureChoices>clothes\glasses\FancyShutter2</textureChoices>
+	<textureChoices>clothes\glasses\FancyShutter3</textureChoices>
+	<textureChoices>clothes\glasses\FancyShutter4</textureChoices>
+	<textureChoices>clothes\glasses\FancyShutter5</textureChoices>
+	<textureChoices>clothes\glasses\FancyShutter6</textureChoices>
+	<textureChoices>clothes\glasses\FancyShutter7</textureChoices>
+	<textureChoices>clothes\glasses\FancyShutter8</textureChoices>
+	<textureChoices>clothes\glasses\FancyShutter9</textureChoices>
+</clothingItem>

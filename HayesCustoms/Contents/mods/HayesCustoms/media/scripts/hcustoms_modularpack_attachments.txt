@@ -1,0 +1,2370 @@
+module Base
+{
+	model FemaleBody
+	{
+		mesh = Skinned/FemaleBody,
+
+		attachment BackpackSecondary_SchoolbagPlasticBag
+		{
+			offset = 0.0470 0.1750 -0.2340,
+			rotate = -62.0000 -81.0000 3.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagGarbageBag
+		{
+			offset = 0.0470 0.2280 -0.0070,
+			rotate = 152.0000 -72.0000 141.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagToteBag
+		{
+			offset = 0.0640 0.1260 -0.2450,
+			rotate = 55.0000 76.0000 -131.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagPurse
+		{
+			offset = 0.0850 0.0770 -0.0530,
+			rotate = 0.0000 47.0000 -160.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagEmptySandbag
+		{
+			offset = 0.0240 0.1420 -0.0640,
+			rotate = -7.0000 -87.0000 -21.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagSeedbag
+		{
+			offset = 0.0610 0.0810 -0.0330,
+			rotate = 101.0000 17.0000 -153.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagHandbag
+		{
+			offset = 0.1490 0.1120 -0.0590,
+			rotate = 27.0000 36.0000 -93.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagToolbox
+		{
+			offset = 0.1300 0.0630 -0.0190,
+			rotate = 8.0000 21.0000 -91.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagFirstAidKit
+		{
+			offset = 0.0740 0.1000 -0.0360,
+			rotate = 38.0000 37.0000 -102.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagBag_L4DeadMedkit
+		{
+			offset = 0.0200 0.0970 -0.0350,
+			rotate = -179.0000 -2.0000 0.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagPistolCase
+		{
+			offset = 0.0890 0.1090 -0.0360,
+			rotate = 38.0000 37.0000 -102.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagLunchbox
+		{
+			offset = 0.1100 0.1250 -0.0140,
+			rotate = 167.0000 -33.0000 -118.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagPlasticBag
+		{
+			offset = 0.1350 0.0660 -0.3260,
+			rotate = 84.0000 -14.0000 -176.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagGarbageBag
+		{
+			offset = 0.2740 0.1230 -0.1320,
+			rotate = -83.0000 -14.0000 -96.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagToteBag
+		{
+			offset = 0.1330 0.3040 -0.2390,
+			rotate = -114.0000 -86.0000 -58.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagPurse
+		{
+			offset = 0.1260 0.1600 -0.0940,
+			rotate = -8.0000 51.0000 -135.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagEmptySandbag
+		{
+			offset = 0.0440 0.2120 -0.1010,
+			rotate = 99.0000 -85.0000 76.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagSeedbag
+		{
+			offset = 0.0720 0.2060 -0.0690,
+			rotate = 154.0000 -14.0000 -159.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagHandbag
+		{
+			offset = 0.1860 0.0780 -0.2170,
+			rotate = 96.0000 -2.0000 -158.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagToolbox
+		{
+			offset = 0.1400 0.0940 -0.2080,
+			rotate = 110.0000 -5.0000 -163.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagFirstAidKit
+		{
+			offset = 0.1160 0.2220 -0.0480,
+			rotate = -155.0000 -64.0000 -123.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagBag_L4DeadMedkit
+		{
+			offset = 0.0830 0.1610 -0.0070,
+			rotate = -146.0000 33.0000 1.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagPistolCase
+		{
+			offset = 0.1160 0.2220 -0.0480,
+			rotate = -155.0000 -64.0000 -123.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagLunchbox
+		{
+			offset = 0.1160 0.2220 -0.0480,
+			rotate = -155.0000 -64.0000 -123.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagPlasticBag
+		{
+			offset = 0.0650 0.1000 -0.3420,
+			rotate = 83.0000 32.0000 -164.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagGarbageBag
+		{
+			offset = 0.0810 0.2280 -0.2170,
+			rotate = -159.0000 -76.0000 -154.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagToteBag
+		{
+			offset = 0.1130 0.0950 -0.3750,
+			rotate = 86.0000 37.0000 -162.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagPurse
+		{
+			offset = 0.0190 0.0850 -0.2020,
+			rotate = 140.0000 70.0000 65.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagEmptySandbag
+		{
+			offset = 0.0650 0.1160 -0.1940,
+			rotate = -82.0000 -79.0000 -83.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagSeedbag
+		{
+			offset = 0.0560 0.1040 -0.0340,
+			rotate = -77.0000 -2.0000 2.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagHandbag
+		{
+			offset = 0.0620 0.0740 -0.2700,
+			rotate = 88.0000 31.0000 -171.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagToolbox
+		{
+			offset = 0.0670 0.0390 -0.2470,
+			rotate = 89.0000 12.0000 -158.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagFirstAidKit
+		{
+			offset = 0.0260 0.0970 -0.2140,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagBag_L4DeadMedkit
+		{
+			offset = 0.0180 -0.0030 -0.1780,
+			rotate = 91.0000 1.0000 -10.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagPistolCase
+		{
+			offset = 0.0260 0.0930 -0.2290,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagLunchbox
+		{
+			offset = 0.0190 0.0910 -0.2330,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagPlasticBag
+		{
+			offset = 0.0720 0.1000 -0.3570,
+			rotate = 83.0000 32.0000 -164.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagGarbageBag
+		{
+			offset = 0.0810 0.2280 -0.2370,
+			rotate = -159.0000 -76.0000 -154.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagToteBag
+		{
+			offset = 0.1200 0.0800 -0.3600,
+			rotate = 86.0000 37.0000 -162.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagPurse
+		{
+			offset = 0.0420 0.0510 -0.2170,
+			rotate = 140.0000 70.0000 65.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagEmptySandbag
+		{
+			offset = 0.0580 0.1160 -0.1940,
+			rotate = -82.0000 -79.0000 -83.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingbagSeedbag
+		{
+			offset = 0.0560 0.1040 -0.0340,
+			rotate = -77.0000 -2.0000 2.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagHandbag
+		{
+			offset = 0.0610 0.0750 -0.2790,
+			rotate = 88.0000 31.0000 -171.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagToolbox
+		{
+			offset = 0.0780 0.0670 -0.2650,
+			rotate = 89.0000 12.0000 -158.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagFirstAidKit
+		{
+			offset = 0.0190 0.0910 -0.2530,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagBag_L4DeadMedkit
+		{
+			offset = 0.0170 -0.0040 -0.1910,
+			rotate = 91.0000 1.0000 -10.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagLunchbox
+		{
+			offset = 0.0190 0.1100 -0.2450,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackPlasticBag
+		{
+			offset = 0.1220 0.1090 -0.2670,
+			rotate = 83.0000 32.0000 -164.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackGarbageBag
+		{
+			offset = 0.0810 0.2280 -0.1750,
+			rotate = -159.0000 -76.0000 -154.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackToteBag
+		{
+			offset = 0.1520 0.1240 -0.3150,
+			rotate = 86.0000 37.0000 -162.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackPurse
+		{
+			offset = 0.0640 0.1240 -0.1440,
+			rotate = 140.0000 70.0000 65.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackEmptySandbag
+		{
+			offset = 0.0670 0.1630 -0.1500,
+			rotate = -82.0000 -79.0000 -83.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackSeedbag
+		{
+			offset = 0.0230 0.1430 -0.1330,
+			rotate = 120.0000 1.0000 180.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackHandbag
+		{
+			offset = 0.0900 0.0760 -0.2320,
+			rotate = 88.0000 31.0000 -171.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackToolbox
+		{
+			offset = 0.1280 0.0830 -0.1840,
+			rotate = 89.0000 12.0000 -158.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackFirstAidKit
+		{
+			offset = 0.0390 0.1160 -0.1840,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackBag_L4DeadMedkit
+		{
+			offset = 0.0440 -0.0040 -0.1170,
+			rotate = 91.0000 1.0000 -10.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackPistolCase
+		{
+			offset = 0.0400 0.1190 -0.1730,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackLunchbox
+		{
+			offset = 0.0400 0.1230 -0.1750,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment A_Leg_Holster_Right
+		{
+			offset = 0.0560 0.0600 -0.0420,
+			rotate = 180.0000 3.0000 -90.0000,
+			bone = Bip01_R_Thigh,
+		}
+
+		attachment A_Leg_Holster_Right2
+		{
+			offset = -0.0340 0.0590 -0.0370,
+			rotate = 179.0000 -4.0000 -96.0000,
+			bone = Bip01_R_Thigh,
+		}
+
+		attachment A_Leg_Holster_Left
+		{
+			offset = 0.0210 -0.0540 -0.0370,
+			rotate = 180.0000 3.0000 -90.0000,
+			bone = Bip01_L_Thigh,
+		}
+
+		attachment A_ModularPack_Saw
+		{
+			offset = 0.0300 0.0940 -0.1100,
+			rotate = -178.0000 13.0000 91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Torch
+		{
+			offset = -0.0100 0.0990 -0.1930,
+			rotate = 0.0000 -15.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PillBottle_Left
+		{
+			offset = 0.0580 0.1140 -0.1120,
+			rotate = 134.0000 6.0000 -75.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Bottle_Left
+		{
+			offset = 0.0990 0.1080 -0.0900,
+			rotate = 81.0000 -10.0000 -76.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Waterbottle_Left
+		{
+			offset = 0.0990 0.1080 -0.0900,
+			rotate = 81.0000 -10.0000 -76.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Canteen_Left
+		{
+			offset = 0.0670 0.1140 -0.1100,
+			rotate = -89.0000 8.0000 -103.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_CanteenModular_Left
+		{
+			offset = 0.1320 0.0850 -0.0830,
+			rotate = 180.0000 7.0000 -87.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Sodacan_Left
+		{
+			offset = 0.0700 0.1130 -0.1070,
+			rotate = -137.0000 15.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PillBottle_Right
+		{
+			offset = 0.0550 -0.1150 -0.1120,
+			rotate = -83.0000 -7.0000 -109.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Bottle_Right
+		{
+			offset = 0.1060 -0.1130 -0.1130,
+			rotate = -92.0000 -7.0000 -105.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Waterbottle_Right
+		{
+			offset = 0.1060 -0.1130 -0.1130,
+			rotate = -92.0000 -7.0000 -105.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Canteen_Right
+		{
+			offset = 0.0650 -0.1140 -0.1100,
+			rotate = -95.0000 -5.0000 -110.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_CanteenModular_Right
+		{
+			offset = 0.1330 -0.0870 -0.0970,
+			rotate = 4.0000 -33.0000 -86.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Sodacan_Right
+		{
+			offset = 0.0630 -0.1140 -0.1050,
+			rotate = -129.0000 8.0000 -106.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Flashlight
+		{
+			offset = 0.1610 -0.0700 -0.0190,
+			rotate = -77.0000 66.0000 164.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Big_Flashlight
+		{
+			offset = 0.1420 0.0740 0.0020,
+			rotate = 63.0000 77.0000 28.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Prepper_Flashlight
+		{
+			offset = 0.0520 -0.0820 0.0590,
+			rotate = -64.0000 74.0000 155.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Military_Flashlight
+		{
+			offset = 0.0060 -0.0970 0.0540,
+			rotate = 84.0000 14.0000 110.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Lantern
+		{
+			offset = -0.0600 -0.1070 -0.1350,
+			rotate = -168.0000 20.0000 -105.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieSpiffoR
+		{
+			offset = -0.1890 -0.0790 -0.2190,
+			rotate = -30.0000 -2.0000 82.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieDollR
+		{
+			offset = -0.1530 -0.0670 -0.2410,
+			rotate = 1.0000 74.0000 40.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieTeddyBearR
+		{
+			offset = -0.1880 -0.0930 -0.2730,
+			rotate = -28.0000 -9.0000 93.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieRubberDuckR
+		{
+			offset = -0.0940 -0.0900 -0.2410,
+			rotate = -28.0000 -4.0000 81.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieSpiffoL
+		{
+			offset = -0.1870 0.0880 -0.2130,
+			rotate = 37.0000 0.0000 88.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieDollL
+		{
+			offset = -0.1510 0.0670 -0.2310,
+			rotate = 0.0000 79.0000 134.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieTeddyBearL
+		{
+			offset = -0.1780 0.1070 -0.2470,
+			rotate = 38.0000 -3.0000 90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieRubberDuckL
+		{
+			offset = -0.0850 0.0790 -0.2430,
+			rotate = 35.0000 -3.0000 90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Rope
+		{
+			offset = 0.0810 0.0400 -0.2290,
+			rotate = -89.0000 -1.0000 77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_SheetRope
+		{
+			offset = 0.0020 0.0440 -0.2450,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_FlareGun
+		{
+			offset = 0.0790 0.0490 -0.2320,
+			rotate = -90.0000 -5.0000 77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Explosive
+		{
+			offset = -0.0470 0.0570 -0.2730,
+			rotate = 90.0000 0.0000 -77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_AuthenticExplosive
+		{
+			offset = -0.0310 0.0300 -0.2750,
+			rotate = 179.0000 14.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_GasMask
+		{
+			offset = -0.0200 0.0520 -0.2740,
+			rotate = -177.0000 -74.0000 93.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Walkie
+		{
+			offset = -0.0110 0.0480 -0.2560,
+			rotate = 89.0000 0.0000 -78.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Hammer
+		{
+			offset = -0.0630 0.0420 -0.2640,
+			rotate = 90.0000 0.0000 -74.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Screwdriver
+		{
+			offset = 0.0680 0.0440 -0.2320,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Knife
+		{
+			offset = -0.0400 0.0420 -0.2580,
+			rotate = 89.0000 -1.0000 -78.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Saucepan
+		{
+			offset = -0.0540 0.0490 -0.2530,
+			rotate = -47.0000 -8.0000 -99.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Pan
+		{
+			offset = -0.1250 0.0420 -0.2730,
+			rotate = -136.0000 8.0000 -97.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Wrench
+		{
+			offset = -0.1420 0.0470 -0.2790,
+			rotate = 0.0000 -13.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Cleaver
+		{
+			offset = -0.0670 0.0380 -0.2630,
+			rotate = 95.0000 0.0000 -79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_MaskRH
+		{
+			offset = 0.0470 0.0560 -0.2140,
+			rotate = 110.0000 6.0000 19.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Rope
+		{
+			offset = 0.0830 -0.0520 -0.2340,
+			rotate = -89.0000 -1.0000 77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_SheetRope
+		{
+			offset = 0.0050 -0.0530 -0.2480,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_FlareGun
+		{
+			offset = 0.0740 -0.0620 -0.2320,
+			rotate = 90.0000 -8.0000 101.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Explosive
+		{
+			offset = -0.0510 -0.0630 -0.2700,
+			rotate = 87.0000 0.0000 -78.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_AuthenticExplosive
+		{
+			offset = -0.0370 -0.0300 -0.2610,
+			rotate = 1.0000 -13.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_GasMask
+		{
+			offset = -0.0310 -0.0680 -0.2590,
+			rotate = -178.0000 -74.0000 96.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Walkie
+		{
+			offset = -0.0120 -0.0560 -0.2540,
+			rotate = 89.0000 0.0000 -77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Hammer
+		{
+			offset = -0.1100 -0.0480 -0.2820,
+			rotate = 90.0000 0.0000 -73.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Screwdriver
+		{
+			offset = 0.0680 -0.0480 -0.2310,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Knife
+		{
+			offset = -0.0350 -0.0440 -0.2590,
+			rotate = -91.0000 1.0000 -101.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Saucepan
+		{
+			offset = 0.1110 -0.0520 -0.2230,
+			rotate = 47.0000 -8.0000 98.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Pan
+		{
+			offset = 0.0580 -0.0510 -0.2470,
+			rotate = 135.0000 1.0000 98.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Wrench
+		{
+			offset = -0.1420 -0.0530 -0.2770,
+			rotate = 0.0000 -12.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Cleaver
+		{
+			offset = -0.0640 -0.0530 -0.2650,
+			rotate = 95.0000 0.0000 -80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_MaskRH
+		{
+			offset = 0.0530 -0.0590 -0.2120,
+			rotate = 70.0000 -3.0000 8.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Rope
+		{
+			offset = 0.2110 -0.0900 -0.1270,
+			rotate = 0.0000 20.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_SheetRope
+		{
+			offset = 0.2080 0.0000 -0.1160,
+			rotate = 0.0000 19.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_FlareGun
+		{
+			offset = 0.2200 0.0540 -0.1090,
+			rotate = 2.0000 20.0000 180.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Explosive
+		{
+			offset = 0.2150 -0.0720 -0.1220,
+			rotate = 0.0000 32.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_AuthenticExplosive
+		{
+			offset = 0.2070 -0.0770 -0.1150,
+			rotate = 3.0000 56.0000 -2.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_GasMask
+		{
+			offset = 0.2240 -0.0730 -0.1030,
+			rotate = 94.0000 -3.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Walkie
+		{
+			offset = 0.2140 -0.0410 -0.1280,
+			rotate = 0.0000 26.0000 2.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Hammer
+		{
+			offset = 0.2150 0.1180 -0.0800,
+			rotate = 0.0000 -11.0000 180.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Screwdriver
+		{
+			offset = 0.1940 -0.0730 -0.1320,
+			rotate = 1.0000 78.0000 -1.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Knife
+		{
+			offset = 0.2100 -0.0770 -0.0970,
+			rotate = -3.0000 13.0000 -1.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Wrench
+		{
+			offset = 0.1960 -0.1410 -0.1270,
+			rotate = -2.0000 -68.0000 -1.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Cleaver
+		{
+			offset = 0.2120 -0.1350 -0.1280,
+			rotate = -177.0000 -17.0000 -175.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_MaskRH
+		{
+			offset = 0.2060 -0.0070 -0.1030,
+			rotate = 2.0000 17.0000 86.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Rope
+		{
+			offset = 0.1280 -0.1120 -0.1760,
+			rotate = -142.0000 8.0000 84.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_SheetRope
+		{
+			offset = 0.0660 -0.1020 -0.1890,
+			rotate = -155.0000 9.0000 85.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_FlareGun
+		{
+			offset = 0.1790 -0.1100 -0.1540,
+			rotate = 53.0000 -5.0000 100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Explosive
+		{
+			offset = -0.0330 -0.1250 -0.2010,
+			rotate = 73.0000 -3.0000 -76.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_AuthenticExplosive
+		{
+			offset = -0.0270 -0.1220 -0.2040,
+			rotate = -180.0000 11.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Walkie
+		{
+			offset = 0.0470 -0.1160 -0.1890,
+			rotate = 29.0000 -10.0000 -85.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Hammer
+		{
+			offset = 0.1840 -0.1070 -0.1500,
+			rotate = 47.0000 -11.0000 101.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Screwdriver
+		{
+			offset = 0.1330 -0.0980 -0.1640,
+			rotate = -89.0000 -1.0000 77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Knife
+		{
+			offset = -0.0460 -0.1140 -0.2060,
+			rotate = 44.0000 -10.0000 -80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Saucepan
+		{
+			offset = -0.0430 -0.0880 -0.2050,
+			rotate = -103.0000 4.0000 -104.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Wrench
+		{
+			offset = -0.0710 -0.1110 -0.2120,
+			rotate = -53.0000 -10.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Cleaver
+		{
+			offset = -0.0290 -0.1040 -0.1950,
+			rotate = -34.0000 -10.0000 -97.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_BigBlade
+		{
+			offset = -0.0700 -0.0970 -0.2190,
+			rotate = -53.0000 -8.0000 -102.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackPlasticBag
+		{
+			offset = -0.2540 -0.0080 -0.1970,
+			rotate = 90.0000 0.0000 103.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackGarbageBag
+		{
+			offset = -0.2220 0.0050 -0.1320,
+			rotate = 88.0000 4.0000 52.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackToteBag
+		{
+			offset = -0.2460 0.0000 -0.2210,
+			rotate = 89.0000 1.0000 102.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackPurse
+		{
+			offset = -0.1410 -0.0050 -0.1570,
+			rotate = 90.0000 -1.0000 10.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackEmptySandbag
+		{
+			offset = -0.1420 0.1460 -0.1800,
+			rotate = -10.0000 -11.0000 -3.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackSeedbag
+		{
+			offset = -0.1260 0.0000 -0.2330,
+			rotate = 0.0000 -11.0000 90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackHandbag
+		{
+			offset = -0.1610 0.0000 -0.2020,
+			rotate = 91.0000 0.0000 104.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackECBPack
+		{
+			offset = -0.0500 -0.0020 -0.1890,
+			rotate = 180.0000 16.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackToolbox
+		{
+			offset = -0.1740 -0.0050 -0.1660,
+			rotate = 91.0000 0.0000 99.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackCooler
+		{
+			offset = -0.1740 -0.0050 -0.1660,
+			rotate = 91.0000 0.0000 99.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackPistolCase
+		{
+			offset = -0.1000 0.0000 -0.1190,
+			rotate = -90.0000 0.0000 169.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackLunchbox
+		{
+			offset = -0.1590 -0.0010 -0.1920,
+			rotate = -90.0000 0.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackPackExtra
+		{
+			offset = -0.0030 0.0850 -0.1270,
+			rotate = 180.0000 13.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Bedroll
+		{
+			offset = 0.1590 -0.0060 -0.0850,
+			rotate = 0.0000 -11.0000 90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_ModFirstAidKit
+		{
+			offset = 0.0000 -0.0930 -0.1320,
+			rotate = -180.0000 18.0000 179.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_FirstAidKit
+		{
+			offset = -0.0160 -0.1180 -0.0870,
+			rotate = -2.0000 73.0000 89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPackBag_L4DeadMedkit
+		{
+			offset = -0.0040 -0.1130 -0.1440,
+			rotate = 0.0000 73.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Patch
+		{
+			offset = 0.1770 -0.0030 -0.1800,
+			rotate = -178.0000 -63.0000 92.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Handgun
+		{
+			offset = 0.1830 0.1150 -0.1660,
+			rotate = -40.0000 -8.0000 81.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Rifle
+		{
+			offset = 0.2230 0.1120 -0.1750,
+			rotate = 134.0000 2.0000 97.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_BigBlade
+		{
+			offset = 0.3220 0.0920 -0.1640,
+			rotate = 55.0000 -7.0000 95.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_BiggerBlade
+		{
+			offset = 0.3220 0.0920 -0.1640,
+			rotate = 55.0000 -7.0000 95.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Shovel
+		{
+			offset = 0.3220 0.1030 -0.1640,
+			rotate = -118.0000 5.0000 83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_BigWeapon
+		{
+			offset = 0.3220 0.0920 -0.1640,
+			rotate = 55.0000 -7.0000 95.0000,
+			bone = Bip01_Spine1,
+		}
+	}
+	model MaleBody
+	{
+		mesh = Skinned/MaleBody,
+
+		attachment BackpackSecondary_SchoolbagPlasticBag
+		{
+			offset = 0.0650 0.1780 -0.2450,
+			rotate = -62.0000 -81.0000 3.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagGarbageBag
+		{
+			offset = 0.0420 0.2380 -0.0370,
+			rotate = 152.0000 -72.0000 141.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagToteBag
+		{
+			offset = 0.0820 0.1300 -0.2450,
+			rotate = 55.0000 76.0000 -131.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagPurse
+		{
+			offset = 0.0850 0.0770 -0.0530,
+			rotate = 0.0000 47.0000 -160.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagEmptySandbag
+		{
+			offset = 0.0500 0.1480 -0.0640,
+			rotate = -7.0000 -87.0000 -21.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagSeedbag
+		{
+			offset = 0.0610 0.0810 -0.0330,
+			rotate = 101.0000 17.0000 -153.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagHandbag
+		{
+			offset = 0.1820 0.1020 -0.0590,
+			rotate = 27.0000 36.0000 -93.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagToolbox
+		{
+			offset = 0.1470 0.1050 -0.0480,
+			rotate = 8.0000 21.0000 -91.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagFirstAidKit
+		{
+			offset = 0.1150 0.1090 -0.0420,
+			rotate = 38.0000 37.0000 -102.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagBag_L4DeadMedkit
+		{
+			offset = 0.0480 0.0970 -0.0350,
+			rotate = -179.0000 -2.0000 0.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagPistolCase
+		{
+			offset = 0.1270 0.1000 -0.0360,
+			rotate = 38.0000 37.0000 -102.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_SchoolbagLunchbox
+		{
+			offset = 0.1100 0.1190 -0.0140,
+			rotate = 167.0000 -33.0000 -118.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagPlasticBag
+		{
+			offset = 0.1480 0.0660 -0.3260,
+			rotate = 84.0000 -14.0000 -176.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagGarbageBag
+		{
+			offset = 0.3030 0.1250 -0.1170,
+			rotate = -83.0000 -14.0000 -96.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagToteBag
+		{
+			offset = 0.1330 0.3040 -0.2390,
+			rotate = -114.0000 -86.0000 -58.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagPurse
+		{
+			offset = 0.1260 0.1600 -0.0940,
+			rotate = -8.0000 51.0000 -135.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagEmptySandbag
+		{
+			offset = 0.0750 0.2130 -0.1010,
+			rotate = 99.0000 -85.0000 76.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagSeedbag
+		{
+			offset = 0.0720 0.2060 -0.0690,
+			rotate = 154.0000 -14.0000 -159.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagHandbag
+		{
+			offset = 0.2000 0.0800 -0.2170,
+			rotate = 96.0000 -2.0000 -158.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagToolbox
+		{
+			offset = 0.1320 0.0940 -0.2580,
+			rotate = 110.0000 -5.0000 -163.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagFirstAidKit
+		{
+			offset = 0.1160 0.2220 -0.0480,
+			rotate = -155.0000 -64.0000 -123.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagBag_L4DeadMedkit
+		{
+			offset = 0.0830 0.1610 -0.0070,
+			rotate = -146.0000 33.0000 1.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagPistolCase
+		{
+			offset = 0.1160 0.2220 -0.0480,
+			rotate = -155.0000 -64.0000 -123.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_DufflebagLunchbox
+		{
+			offset = 0.1160 0.2220 -0.0480,
+			rotate = -155.0000 -64.0000 -123.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagPlasticBag
+		{
+			offset = 0.0930 0.1000 -0.3460,
+			rotate = 83.0000 32.0000 -164.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagGarbageBag
+		{
+			offset = 0.0690 0.2270 -0.2160,
+			rotate = -159.0000 -76.0000 -154.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagToteBag
+		{
+			offset = 0.1330 0.0950 -0.3480,
+			rotate = 86.0000 37.0000 -162.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagPurse
+		{
+			offset = 0.0360 0.0870 -0.1900,
+			rotate = 140.0000 70.0000 65.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagEmptySandbag
+		{
+			offset = 0.0790 0.1170 -0.1940,
+			rotate = -82.0000 -79.0000 -83.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagSeedbag
+		{
+			offset = 0.0560 0.1040 -0.0340,
+			rotate = -77.0000 -2.0000 2.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagHandbag
+		{
+			offset = 0.0900 0.0760 -0.2790,
+			rotate = 88.0000 31.0000 -171.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagToolbox
+		{
+			offset = 0.0940 0.0520 -0.2610,
+			rotate = 89.0000 12.0000 -158.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagFirstAidKit
+		{
+			offset = 0.0220 0.1100 -0.2330,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagBag_L4DeadMedkit
+		{
+			offset = 0.0180 -0.0030 -0.1780,
+			rotate = 91.0000 1.0000 -10.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagPistolCase
+		{
+			offset = 0.0190 0.1000 -0.2330,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_HikingbagLunchbox
+		{
+			offset = 0.0300 0.1100 -0.2290,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagPlasticBag
+		{
+			offset = 0.0940 0.0990 -0.3570,
+			rotate = 83.0000 32.0000 -164.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagGarbageBag
+		{
+			offset = 0.0810 0.2280 -0.2370,
+			rotate = -159.0000 -76.0000 -154.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagToteBag
+		{
+			offset = 0.1390 0.0940 -0.3750,
+			rotate = 86.0000 37.0000 -162.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagPurse
+		{
+			offset = 0.0460 0.0870 -0.1900,
+			rotate = 140.0000 70.0000 65.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagEmptySandbag
+		{
+			offset = 0.0460 0.1250 -0.1950,
+			rotate = -82.0000 -79.0000 -83.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingbagSeedbag
+		{
+			offset = 0.0560 0.1040 -0.0340,
+			rotate = -77.0000 -2.0000 2.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagHandbag
+		{
+			offset = 0.0900 0.0760 -0.2790,
+			rotate = 88.0000 31.0000 -171.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagToolbox
+		{
+			offset = 0.1030 0.0680 -0.2600,
+			rotate = 89.0000 12.0000 -158.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagFirstAidKit
+		{
+			offset = 0.0410 0.1110 -0.2450,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagBag_L4DeadMedkit
+		{
+			offset = 0.0170 -0.0040 -0.1910,
+			rotate = 91.0000 1.0000 -10.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_BigHikingBagLunchbox
+		{
+			offset = 0.0410 0.1110 -0.2450,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackPlasticBag
+		{
+			offset = 0.1460 0.1170 -0.3140,
+			rotate = 83.0000 32.0000 -164.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackGarbageBag
+		{
+			offset = 0.0980 0.2270 -0.1860,
+			rotate = -159.0000 -76.0000 -154.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackToteBag
+		{
+			offset = 0.1710 0.1250 -0.3320,
+			rotate = 86.0000 37.0000 -162.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackPurse
+		{
+			offset = 0.0600 0.1320 -0.1780,
+			rotate = 140.0000 70.0000 65.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackEmptySandbag
+		{
+			offset = 0.0760 0.1650 -0.1770,
+			rotate = -82.0000 -79.0000 -83.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackSeedbag
+		{
+			offset = 0.0710 0.1170 -0.1730,
+			rotate = 111.0000 1.0000 -179.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackHandbag
+		{
+			offset = 0.0900 0.0760 -0.2460,
+			rotate = 88.0000 31.0000 -171.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackToolbox
+		{
+			offset = 0.1290 0.0610 -0.2170,
+			rotate = 89.0000 12.0000 -158.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackFirstAidKit
+		{
+			offset = 0.0410 0.1110 -0.2130,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackBag_L4DeadMedkit
+		{
+			offset = 0.0590 -0.0040 -0.1340,
+			rotate = 91.0000 1.0000 -10.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackPistolCase
+		{
+			offset = 0.0400 0.1100 -0.2060,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment BackpackSecondary_AlicepackLunchbox
+		{
+			offset = 0.0410 0.1110 -0.1980,
+			rotate = 112.0000 21.0000 170.0000,
+			bone = Bip01_BackPack,
+		}
+
+		attachment A_Leg_Holster_Right
+		{
+			offset = 0.0560 0.0600 -0.0420,
+			rotate = 180.0000 3.0000 -90.0000,
+			bone = Bip01_R_Thigh,
+		}
+
+		attachment A_Leg_Holster_Right2
+		{
+			offset = -0.0340 0.0590 -0.0370,
+			rotate = 179.0000 -4.0000 -96.0000,
+			bone = Bip01_R_Thigh,
+		}
+
+		attachment A_Leg_Holster_Left
+		{
+			offset = 0.0550 -0.0640 -0.0430,
+			rotate = 180.0000 3.0000 -90.0000,
+			bone = Bip01_L_Thigh,
+		}
+
+		attachment A_ModularPack_Saw
+		{
+			offset = 0.0100 0.1000 -0.1230,
+			rotate = -178.0000 14.0000 91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Torch
+		{
+			offset = -0.0580 0.1060 -0.2070,
+			rotate = 0.0000 -10.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PillBottle_Left
+		{
+			offset = 0.0430 0.1140 -0.1430,
+			rotate = -89.0000 6.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Bottle_Left
+		{
+			offset = 0.0720 0.1080 -0.1470,
+			rotate = -89.0000 6.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Waterbottle_Left
+		{
+			offset = 0.0720 0.1080 -0.1470,
+			rotate = -89.0000 6.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Canteen_Left
+		{
+			offset = 0.0430 0.1140 -0.1430,
+			rotate = -89.0000 6.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_CanteenModular_Left
+		{
+			offset = 0.1110 0.0980 -0.1130,
+			rotate = 179.0000 -1.0000 -88.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Sodacan_Left
+		{
+			offset = 0.0430 0.1140 -0.1430,
+			rotate = -89.0000 6.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PillBottle_Right
+		{
+			offset = 0.0430 -0.1150 -0.1410,
+			rotate = -91.0000 -5.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Bottle_Right
+		{
+			offset = 0.0730 -0.1140 -0.1470,
+			rotate = -91.0000 -5.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Waterbottle_Right
+		{
+			offset = 0.0730 -0.1140 -0.1470,
+			rotate = -91.0000 -5.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Canteen_Right
+		{
+			offset = 0.0430 -0.1150 -0.1410,
+			rotate = -91.0000 -5.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_CanteenModular_Right
+		{
+			offset = 0.1130 -0.1050 -0.1340,
+			rotate = -4.0000 -24.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Sodacan_Right
+		{
+			offset = 0.0430 -0.1150 -0.1410,
+			rotate = -91.0000 -5.0000 -100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Flashlight
+		{
+			offset = 0.1610 -0.0700 -0.0190,
+			rotate = -77.0000 66.0000 164.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Big_Flashlight
+		{
+			offset = 0.1520 0.0680 -0.0030,
+			rotate = 62.0000 73.0000 22.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Prepper_Flashlight
+		{
+			offset = 0.0520 -0.0850 0.0570,
+			rotate = -68.0000 76.0000 156.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Military_Flashlight
+		{
+			offset = 0.0060 -0.0970 0.0540,
+			rotate = 84.0000 14.0000 110.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Lantern
+		{
+			offset = -0.0630 -0.1100 -0.1350,
+			rotate = 169.0000 8.0000 -99.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieSpiffoR
+		{
+			offset = -0.2340 -0.0790 -0.2360,
+			rotate = -28.0000 -2.0000 82.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieDollR
+		{
+			offset = -0.1780 -0.0730 -0.2560,
+			rotate = 1.0000 74.0000 40.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieTeddyBearR
+		{
+			offset = -0.2140 -0.0900 -0.2940,
+			rotate = -31.0000 -4.0000 81.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieRubberDuckR
+		{
+			offset = -0.1330 -0.0900 -0.2450,
+			rotate = -28.0000 -4.0000 81.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieSpiffoL
+		{
+			offset = -0.2340 0.0890 -0.2370,
+			rotate = 35.0000 0.0000 88.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieDollL
+		{
+			offset = -0.1740 0.0750 -0.2450,
+			rotate = 0.0000 79.0000 134.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieTeddyBearL
+		{
+			offset = -0.2070 0.1130 -0.2860,
+			rotate = 38.0000 -3.0000 90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_PlushieRubberDuckL
+		{
+			offset = -0.1280 0.0900 -0.2510,
+			rotate = 35.0000 -3.0000 90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Rope
+		{
+			offset = 0.0660 0.0440 -0.2610,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_SheetRope
+		{
+			offset = 0.0030 0.0400 -0.2750,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_FlareGun
+		{
+			offset = 0.0610 0.0510 -0.2690,
+			rotate = -90.0000 -5.0000 80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Explosive
+		{
+			offset = -0.0610 0.0410 -0.2850,
+			rotate = 90.0000 0.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_AuthenticExplosive
+		{
+			offset = -0.0530 0.0420 -0.2970,
+			rotate = 179.0000 9.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_GasMask
+		{
+			offset = -0.0510 0.0520 -0.3080,
+			rotate = -177.0000 -74.0000 93.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Walkie
+		{
+			offset = -0.0270 0.0470 -0.2880,
+			rotate = 89.0000 0.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Hammer
+		{
+			offset = -0.1080 0.0420 -0.2890,
+			rotate = 90.0000 0.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Screwdriver
+		{
+			offset = 0.0460 0.0460 -0.2670,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Knife
+		{
+			offset = -0.0410 0.0510 -0.2840,
+			rotate = 89.0000 -1.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Saucepan
+		{
+			offset = -0.1050 0.0490 -0.2920,
+			rotate = -47.0000 -7.0000 -97.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Pan
+		{
+			offset = -0.1210 0.0420 -0.2930,
+			rotate = -136.0000 5.0000 -94.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Wrench
+		{
+			offset = -0.1320 0.0450 -0.2940,
+			rotate = 0.0000 -8.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_Cleaver
+		{
+			offset = -0.0800 0.0350 -0.2840,
+			rotate = 95.0000 0.0000 -84.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT1_MaskRH
+		{
+			offset = -0.0090 0.0560 -0.2460,
+			rotate = 110.0000 6.0000 19.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Rope
+		{
+			offset = 0.0660 -0.0440 -0.2610,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_SheetRope
+		{
+			offset = 0.0030 -0.0480 -0.2750,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_FlareGun
+		{
+			offset = 0.0610 -0.0550 -0.2690,
+			rotate = 89.0000 -5.0000 96.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Explosive
+		{
+			offset = -0.0640 -0.0600 -0.2860,
+			rotate = 87.0000 0.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_AuthenticExplosive
+		{
+			offset = -0.0440 -0.0610 -0.2970,
+			rotate = 179.0000 9.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_GasMask
+		{
+			offset = -0.0510 -0.0780 -0.3080,
+			rotate = -178.0000 -74.0000 96.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Walkie
+		{
+			offset = -0.0270 -0.0560 -0.2880,
+			rotate = 89.0000 0.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Hammer
+		{
+			offset = -0.1080 -0.0430 -0.2890,
+			rotate = 90.0000 0.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Screwdriver
+		{
+			offset = 0.0460 -0.0480 -0.2670,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Knife
+		{
+			offset = -0.0420 -0.0510 -0.2830,
+			rotate = -91.0000 1.0000 -97.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Saucepan
+		{
+			offset = 0.0660 -0.0520 -0.2610,
+			rotate = 47.0000 -8.0000 98.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Pan
+		{
+			offset = 0.0710 -0.0380 -0.2690,
+			rotate = 135.0000 1.0000 98.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Wrench
+		{
+			offset = -0.1320 -0.0450 -0.2940,
+			rotate = 0.0000 -8.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_Cleaver
+		{
+			offset = -0.0810 -0.0410 -0.2910,
+			rotate = 95.0000 0.0000 -84.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT2_MaskRH
+		{
+			offset = -0.0090 -0.0540 -0.2460,
+			rotate = 70.0000 -3.0000 8.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Rope
+		{
+			offset = 0.1930 -0.0900 -0.1830,
+			rotate = 0.0000 25.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_SheetRope
+		{
+			offset = 0.1990 0.0000 -0.1760,
+			rotate = 0.0000 19.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_FlareGun
+		{
+			offset = 0.1940 0.0540 -0.1670,
+			rotate = 2.0000 20.0000 180.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Explosive
+		{
+			offset = 0.1930 -0.0930 -0.1780,
+			rotate = 0.0000 32.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_AuthenticExplosive
+		{
+			offset = 0.2130 -0.0730 -0.1840,
+			rotate = 178.0000 12.0000 180.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_GasMask
+		{
+			offset = 0.2260 -0.0730 -0.1800,
+			rotate = 93.0000 0.0000 64.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Walkie
+		{
+			offset = 0.2040 -0.0410 -0.1830,
+			rotate = 0.0000 34.0000 2.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Hammer
+		{
+			offset = 0.2100 0.1180 -0.1070,
+			rotate = 0.0000 -11.0000 180.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Screwdriver
+		{
+			offset = 0.1930 -0.0720 -0.1850,
+			rotate = 1.0000 78.0000 -1.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Knife
+		{
+			offset = 0.1940 -0.0770 -0.1810,
+			rotate = -3.0000 29.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Wrench
+		{
+			offset = 0.1880 -0.1410 -0.1730,
+			rotate = -2.0000 -63.0000 -1.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_Cleaver
+		{
+			offset = 0.1920 -0.1270 -0.1680,
+			rotate = -176.0000 -27.0000 -171.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT3_MaskRH
+		{
+			offset = 0.1850 -0.0070 -0.1600,
+			rotate = 4.0000 31.0000 86.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Rope
+		{
+			offset = 0.1270 -0.1070 -0.2100,
+			rotate = -142.0000 8.0000 84.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_SheetRope
+		{
+			offset = 0.0560 -0.1010 -0.2160,
+			rotate = -155.0000 9.0000 85.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_FlareGun
+		{
+			offset = 0.1620 -0.1100 -0.1850,
+			rotate = 53.0000 -5.0000 100.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Explosive
+		{
+			offset = -0.0500 -0.1150 -0.2400,
+			rotate = 40.0000 -8.0000 -82.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_AuthenticExplosive
+		{
+			offset = -0.0410 -0.1180 -0.2430,
+			rotate = -180.0000 11.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Walkie
+		{
+			offset = 0.0720 -0.1040 -0.2020,
+			rotate = 29.0000 -10.0000 -85.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Hammer
+		{
+			offset = 0.1760 -0.1070 -0.1820,
+			rotate = 47.0000 -11.0000 101.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Screwdriver
+		{
+			offset = 0.1390 -0.1010 -0.1900,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Knife
+		{
+			offset = -0.0460 -0.1110 -0.2280,
+			rotate = 44.0000 -10.0000 -84.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Wrench
+		{
+			offset = -0.0630 -0.1100 -0.2360,
+			rotate = -57.0000 -7.0000 -98.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_BigBlade
+		{
+			offset = -0.0700 -0.0970 -0.2190,
+			rotate = -53.0000 -8.0000 -102.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_UT4_Cleaver
+		{
+			offset = -0.0360 -0.1100 -0.2270,
+			rotate = -34.0000 -7.0000 -95.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackPlasticBag
+		{
+			offset = -0.3000 -0.0100 -0.2450,
+			rotate = 90.0000 0.0000 92.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackGarbageBag
+		{
+			offset = -0.2450 0.0000 -0.1300,
+			rotate = 95.0000 3.0000 31.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackToteBag
+		{
+			offset = -0.2700 0.0000 -0.2500,
+			rotate = -89.0000 0.0000 80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackPurse
+		{
+			offset = -0.1800 -0.0050 -0.2050,
+			rotate = 90.0000 -1.0000 10.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackEmptySandbag
+		{
+			offset = -0.1600 0.1500 -0.1950,
+			rotate = -10.0000 -11.0000 -3.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackSeedbag
+		{
+			offset = -0.1600 0.0000 -0.2650,
+			rotate = 0.0000 -11.0000 90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackHandbag
+		{
+			offset = -0.2100 0.0000 -0.2500,
+			rotate = 90.0000 0.0000 104.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackECBPack
+		{
+			offset = -0.0830 -0.0020 -0.2030,
+			rotate = 180.0000 16.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackToolbox
+		{
+			offset = -0.2100 -0.0050 -0.1850,
+			rotate = 91.0000 0.0000 94.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackCooler
+		{
+			offset = -0.2920 -0.0040 -0.2500,
+			rotate = 92.0000 1.0000 101.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackPistolCase
+		{
+			offset = -0.1450 0.0000 -0.1400,
+			rotate = -90.0000 0.0000 169.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackLunchbox
+		{
+			offset = -0.2000 0.0000 -0.2300,
+			rotate = -90.0000 0.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_Container_ModularPackPackExtra
+		{
+			offset = -0.0340 0.0970 -0.1460,
+			rotate = -180.0000 4.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Bedroll
+		{
+			offset = 0.1660 -0.0050 -0.1140,
+			rotate = 0.0000 -11.0000 90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_ModFirstAidKit
+		{
+			offset = -0.0230 -0.1000 -0.1570,
+			rotate = -180.0000 11.0000 179.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_FirstAidKit
+		{
+			offset = -0.0350 -0.1260 -0.1030,
+			rotate = -5.0000 79.0000 92.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPackBag_L4DeadMedkit
+		{
+			offset = -0.0270 -0.1130 -0.1680,
+			rotate = 0.0000 79.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Patch
+		{
+			offset = 0.1550 -0.0060 -0.2350,
+			rotate = -178.0000 -69.0000 92.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Handgun
+		{
+			offset = 0.1830 0.1150 -0.1660,
+			rotate = -40.0000 -8.0000 81.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Rifle
+		{
+			offset = 0.2230 0.1120 -0.1750,
+			rotate = 134.0000 2.0000 97.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_BigBlade
+		{
+			offset = 0.3220 0.0920 -0.1640,
+			rotate = 55.0000 -7.0000 95.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_BiggerBlade
+		{
+			offset = 0.3220 0.0920 -0.1640,
+			rotate = 55.0000 -7.0000 95.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_Shovel
+		{
+			offset = 0.3220 0.1030 -0.1640,
+			rotate = -118.0000 5.0000 83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment A_ModularPack_BigWeapon
+		{
+			offset = 0.3220 0.0920 -0.1640,
+			rotate = 55.0000 -7.0000 95.0000,
+			bone = Bip01_Spine1,
+		}
+	}
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\Clothes\M_DerbyHat</m_MaleModel>
+	<m_FemaleModel>static\Clothes\F_DerbyHat</m_FemaleModel>
+	<m_GUID>ace8950c-622c-47ec-973b-f021e498f934</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>default</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\headwear\DerbyHatPurple</textureChoices>
+	<textureChoices>clothes\headwear\DerbyHatBlue</textureChoices>
+	<textureChoices>clothes\headwear\DerbyHatGreen</textureChoices>
+	<textureChoices>clothes\headwear\DerbyHatRed</textureChoices>
+	<textureChoices>clothes\headwear\DerbyHatPink</textureChoices>
+	<textureChoices>clothes\headwear\DerbyHatWhite</textureChoices>
+	<textureChoices>clothes\headwear\DerbyHatBlack</textureChoices>
+</clothingItem>

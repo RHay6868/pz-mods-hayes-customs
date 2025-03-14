@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\BackPacks\M_GolfBag.X</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\BackPacks\F_GolfBag.X</m_FemaleModel>
+	<m_GUID>d04cbab8-848f-45fb-810a-93fa12cbcd76</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\backpacks\GolfBagUpgrade1</textureChoices>
+	<textureChoices>clothes\backpacks\GolfBagUpgrade2</textureChoices>
+	<textureChoices>clothes\backpacks\GolfBagUpgrade3</textureChoices>
+	<textureChoices>clothes\backpacks\GolfBagUpgrade4</textureChoices>
+	<textureChoices>clothes\backpacks\GolfBagUpgrade5</textureChoices>
+	<textureChoices>clothes\backpacks\GolfBagUpgrade6</textureChoices>
+	<textureChoices>clothes\backpacks\GolfBagUpgrade7</textureChoices>
+	<textureChoices>clothes\backpacks\GolfBagUpgrade8</textureChoices>
+</clothingItem>

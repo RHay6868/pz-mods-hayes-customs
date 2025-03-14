@@ -1,0 +1,15 @@
+name=Hayes Customs
+id=HayesCustoms
+
+description=Added new things to PZ over time and now sharing.
+
+poster=Preview1.png
+icon=logo_mini.png
+
+tiledef=custom_PA2 9622
+pack=CustomPA2
+pack=CustomPA2.floor
+tiledef=posters_pa2	9624
+pack=posters_PA2
+tiledef=posters_pa3 2623
+pack=posters_PA3

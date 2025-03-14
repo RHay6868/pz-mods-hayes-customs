@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_CuteDress</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_CuteDress</m_FemaleModel>
+	<m_GUID>1cfa78d0-0f04-4a25-8cb6-e051c4f2c2c4</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\CuteDressPink</textureChoices>
+	<textureChoices>clothes\CuteDressBlue</textureChoices>
+	<textureChoices>clothes\CuteDressYellow</textureChoices>
+	<textureChoices>clothes\CuteDressGreen</textureChoices>
+	<textureChoices>clothes\CuteDressPurple</textureChoices>
+	<textureChoices>clothes\CuteDressWhite</textureChoices>
+	<textureChoices>clothes\CuteDressBlack</textureChoices>
+</clothingItem>

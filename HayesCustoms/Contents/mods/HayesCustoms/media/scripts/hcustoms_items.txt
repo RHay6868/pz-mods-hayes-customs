@@ -1,0 +1,758 @@
+module HCustoms
+{
+ 	/****************************** EVEN MORE PLUSHIES ******************************/
+
+	item ZiffoPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Ziffo Spiffo,
+		Icon 					= 	ZiffoPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	ZiffoPlush,
+		StaticModel 			= 	ZiffoPlush_Static,
+	}
+
+	item GnomeAmericanPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Gnome USA,
+		Icon 					= 	GnomeAmericanPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	GnomeAmericanPlush,
+		StaticModel 			= 	GnomeAmericanPlush_Static,
+	}
+
+	item ShredderPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Shredder,
+		Icon 					= 	ShredderPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	ShredderPlush,
+		StaticModel 			= 	ShredderPlush_Static,
+	}
+
+	item SplinterPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Splinter,
+		Icon 					= 	SplinterPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	SplinterPlush,
+		StaticModel 			= 	SplinterPlush_Static,
+	}
+
+	item LeonardoPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Leonardo,
+		Icon 					= 	LeonardoPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	LeonardoPlush,
+		StaticModel 			= 	LeonardoPlush_Static,
+	}
+
+	item RaphaelPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Raphael,
+		Icon 					= 	RaphaelPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	RaphaelPlush,
+		StaticModel 			= 	RaphaelPlush_Static,
+	}
+
+	item DonatelloPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Donatello,
+		Icon 					= 	DonatelloPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	DonatelloPlush,
+		StaticModel 			= 	DonatelloPlush_Static,
+	}
+
+	item MichelangeloPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Michelangelo,
+		Icon 					= 	MichelangeloPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	MichelangeloPlush,
+		StaticModel 			= 	MichelangeloPlush_Static,
+	}
+
+	item PinkKittenPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Pink Kitten,
+		Icon 					= 	PinkKittenPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	PinkKittenPlush,
+		StaticModel 			= 	PinkKittenPlush_Static,
+	}
+
+	item FloppyPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Floppy Plushie,
+		Icon 					= 	FloppyPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	FloppyPlush,
+		StaticModel 			= 	FloppyPlush_Static,
+	}
+
+	item GoatPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Goat Plushie,
+		Icon 					= 	GoatPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	GoatPlush,
+		StaticModel 			= 	GoatPlush_Static,
+	}
+
+	item UnicornPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Unicorn Plushie,
+		Icon 					= 	UnicornPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	UnicornPlush,
+		StaticModel 			= 	UnicornPlush_Static,
+	}
+
+	item TurtlePlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Turtle Plushie,
+		Icon 					= 	TurtlePlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	TurtlePlush,
+		StaticModel 			= 	TurtlePlush_Static,
+	}
+
+	item OtterPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Otter Plushie,
+		Icon 					= 	OtterPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	OtterPlush,
+		StaticModel 			= 	OtterPlush_Static,
+	}
+
+	item Porg1Plushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Porg Plushie,
+		Icon 					= 	Porg1Plushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	Porg1Plush,
+		StaticModel 			= 	Porg1Plush_Static,
+	}
+
+	item Porg2Plushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Porg Plushie,
+		Icon 					= 	Porg2Plushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	Porg2Plush,
+		StaticModel 			= 	Porg2Plush_Static,
+	}
+
+	item Ewok1Plushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Ewok Plushie,
+		Icon 					= 	Ewok1Plushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	Ewok1Plush,
+		StaticModel 			= 	Ewok1Plush_Static,
+	}
+
+	item Ewok2Plushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Ewok Plushie,
+		Icon 					= 	Ewok2Plushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	Ewok2Plush,
+		StaticModel 			= 	Ewok2Plush_Static,
+	}
+
+	item MikeWazowskiPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Mike Wazowski Plushie,
+		Icon 					= 	MikeWazowskiPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	MikeWazowskiPlush,
+		StaticModel 			= 	MikeWazowskiPlush_Static,
+	}
+
+	item SullyPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Sully Plushie,
+		Icon 					= 	SullyPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	SullyPlush,
+		StaticModel 			= 	SullyPlush_Static,
+	}
+
+	item StitchPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Stitch Plushie,
+		Icon 					= 	StitchPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	StitchPlush,
+		StaticModel 			= 	StitchPlush_Static,
+	}
+
+	item HexDollPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Hex Doll Plushie,
+		Icon 					= 	HexDollPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	HexDollPlush,
+		StaticModel 			= 	HexDollPlush_Static,
+	}
+
+	item MurderMonkeyPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Murder Monkey Plushie,
+		Icon 					= 	MurderMonkeyPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	MurderMonkeyPlush,
+		StaticModel 			= 	MurderMonkeyPlush_Static,
+	}
+
+	item PuarPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Puar Plushie,
+		Icon 					= 	PuarPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	PuarPlush,
+		StaticModel 			= 	PuarPlush_Static,
+	}
+
+	item PiranhaPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Piranha Plushie,
+		Icon 					= 	PiranhaPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	PiranhaPlush,
+		StaticModel 			= 	PiranhaPlush_Static,
+	}
+
+	item DarthVaderPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Darth Vader,
+		Icon 					= 	DarthVaderPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	DarthVaderPlush,
+		StaticModel 			= 	DarthVaderPlush_Static,
+	}
+
+	item OptimusPrimePlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Optimus Prime Plushie,
+		Icon 					= 	OptimusPrimePlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	OptimusPrimePlush,
+		StaticModel 			= 	OptimusPrimePlush_Static,
+	}
+
+	item MegatronPlushie
+	{
+		DisplayCategory 		= 	Raccoon,
+		Weight 					= 	0.2,
+		Type 					= 	Normal,
+		DisplayName 			= 	Megatron Plushie,
+		Icon 					= 	MegatronPlushie,
+		AttachmentType 			= 	SpiffoPlushie,
+		WorldStaticModel 		= 	MegatronPlush,
+		StaticModel 			= 	MegatronPlush_Static,
+	}
+
+	item DeadpoolPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Deadpool Plushie,
+		Icon 				= 	DeadpoolPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	DeadpoolPlush,
+		StaticModel 		= 	DeadpoolPlush_Static,
+	}
+
+	item SpongebobPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Spongebob Plushie,
+		Icon 				= 	SpongebobPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	SpongebobPlush,
+		StaticModel 		= 	SpongebobPlush_Static,
+	}
+
+	item PatrickStarPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Patrick Star Plushie,
+		Icon 				= 	PatrickStarPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	PatrickStarPlush,
+		StaticModel 		= 	PatrickStarPlush_Static,
+	}
+
+	item SquidwardPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Squidward Plushie,
+		Icon 				= 	SquidwardPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	SquidwardPlush,
+		StaticModel 		= 	SquidwardPlush_Static,
+	}
+
+	item MrKrabsPlushie
+	{
+		DisplayCategory 	= 	Raccoon,
+		Weight 				= 	0.2,
+		Type 				= 	Normal,
+		DisplayName 		= 	Mr Krabs Plushie,
+		Icon 				= 	MrKrabsPlushie,
+		AttachmentType 		= 	SpiffoPlushie,
+		WorldStaticModel 	= 	MrKrabsPlush,
+		StaticModel 		= 	MrKrabsPlush_Static,
+	}
+
+    item BearSkinRug
+    {
+        DisplayCategory 		= 	Junk,
+        Weight					=	5,
+        Type					=	Normal,
+        DisplayName				=	Bear Skin Rug,
+        Icon					=	BearSkinRug,
+        WorldStaticModel 		= 	BearSkinRug_Ground,
+    }
+
+    item StuffedDuck
+    {
+        DisplayCategory 		= 	Junk,
+        Weight					=	2,
+        Type					=	Normal,
+        DisplayName				=	Stuffed Duck,
+        Icon					=	StuffedDuck,
+        WorldStaticModel 		= 	StuffedDuck_Ground,
+    }
+
+    item StuffedPeacock
+    {
+        DisplayCategory 		= 	Junk,
+        Weight					=	2,
+        Type					=	Normal,
+        DisplayName				=	Stuffed Peacock,
+        Icon					=	StuffedPeacock,
+        WorldStaticModel 		= 	StuffedPeacock_Ground,
+    }
+
+	/****************************** PATCHES ******************************/
+
+	item PatchSpiffo
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Spiffo,
+		Icon 					= 	PatchSpiffo,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchSpiffo,
+		StaticModel 			= 	PatchSpiffo,		
+	}
+
+    item PatchZiffo
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Ziffo,
+		Icon 					= 	PatchZiffo,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchZiffo,
+		StaticModel 			= 	PatchZiffo,		
+	}
+
+    item PatchSkull
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Skull,
+		Icon 					= 	PatchSkull,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchSkull,
+		StaticModel 			= 	PatchSkull,		
+	}
+
+    item PatchParkRangers
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Park Rangers,
+		Icon 					= 	PatchParkRangers,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchParkRangers,
+		StaticModel 			= 	PatchParkRangers,		
+	}
+
+    item PatchZombieHead
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Zombie Head,
+		Icon 					= 	PatchZombieHead,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchZombieHead,
+		StaticModel 			= 	PatchZombieHead,		
+	}
+
+    item PatchMoneyBags
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Money Bags,
+		Icon 					= 	PatchMoneyBags,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchMoneyBags,
+		StaticModel 			= 	PatchMoneyBags,		
+	}
+
+    item PatchCat
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Cat,
+		Icon 					= 	PatchCat,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchCat,
+		StaticModel 			= 	PatchCat,		
+	}
+
+    item PatchLove
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Love,
+		Icon 					= 	PatchLove,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchLove,
+		StaticModel 			= 	PatchLove,		
+	}
+
+    item PatchRainbow
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Rainbow,
+		Icon 					= 	PatchRainbow,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchRainbow,
+		StaticModel 			= 	PatchRainbow,		
+	}
+
+    item PatchSmiley
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Smiley,
+		Icon 					= 	PatchSmiley,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchSmiley,
+		StaticModel 			= 	PatchSmiley,		
+	}
+
+    item PatchPotLeaf
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Pot Leaf,
+		Icon 					= 	PatchPotLeaf,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchPotLeaf,
+		StaticModel 			= 	PatchPotLeaf,		
+	}
+
+	item PatchAlien
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Alien,
+		Icon 					= 	PatchAlien,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchAlien,
+		StaticModel 			= 	PatchAlien,		
+	}
+
+	item PatchBiohazard
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Biohazard,
+		Icon 					= 	PatchBiohazard,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchBiohazard,
+		StaticModel 			= 	PatchBiohazard,		
+	}
+
+	item PatchWasteland
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Wasteland,
+		Icon 					= 	PatchWasteland,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchWasteland,
+		StaticModel 			= 	PatchWasteland,		
+	}
+
+	item PatchAnarchy
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch Anarchy,
+		Icon 					= 	PatchAnarchy,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchAnarchy,
+		StaticModel 			= 	PatchAnarchy,		
+	}
+
+	item PatchDARE
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch D.A.R.E.,
+		Icon 					= 	PatchDARE,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchDARE,
+		StaticModel 			= 	PatchDARE,		
+	}
+
+	item PatchSD
+	{
+        DisplayCategory 		= 	Household,		
+		Weight					=	0.1,
+		Type 					= 	Normal,
+		DisplayName 			=	Bag Patch SD,
+		Icon 					= 	PatchSD,
+        AttachmentType 			= 	BagPatch,
+		WorldStaticModel 		= 	PatchSD,
+		StaticModel 			= 	PatchSD,		
+	}
+
+  	/****************************** RECIPE MAGAZINES ******************************/
+
+	item SArmorMagazine
+	{
+		Weight					=	0.1,
+        Type					=	Literature,
+		DisplayCategory 		= 	SkillBook,
+		DisplayName				=	SArmor Gear Recipes,
+		Icon					=	SArmorMagazine,
+		TeachedRecipes  		=	Make SArmor;Make SArmorLite;Make SArmor Boots;Make SArmor Gloves;Make SArmor Helmet,
+		Tooltip 				= 	Tooltip_item_SArmorMagazine,
+		StaticModel 			= 	Magazine,
+		WorldStaticModel 		= 	SArmorMagazine_Ground,
+	}
+
+	item CazadorItemsMagazine
+	{
+		Weight					=	0.1,
+        Type					=	Literature,
+		DisplayCategory 		= 	SkillBook,
+		DisplayName				=	Cazador Gear Recipes,
+		Icon					=	CazadorItemsMagazine,
+		TeachedRecipes  		=	Make Cazador Hood;Make Cazador Gloves;Make Cazador Boots;Make Cazador Chest;Make Cazador Pants;Make Cazador Gas Mask;Make Cazador Bag;Make Cazador Long Coat,
+		Tooltip 				= 	Tooltip_item_CazadorItemsMagazine,
+		StaticModel 			= 	Magazine,
+		WorldStaticModel 		= 	CazadorItemsMagazine_Ground,
+	}
+
+	item AbsolutistTrenchcoatsMagazine
+	{
+		Weight					=	0.1,
+        Type					=	Literature,
+		DisplayCategory 		= 	SkillBook,
+		DisplayName				=	Absolutist Trenchcoat Recipes,
+		Icon					=	AbsolutistTrenchcoatsMagazine,
+		TeachedRecipes  		=	Make Absolutist Trenchcoat;Make Absolutist Trenchcoat Widowmaker;Make Absolutist Trenchcoat Nightstalker;Make Absolutist Trenchcoat Arctic,
+		Tooltip 				= 	Tooltip_item_AbsolutistTrenchcoatsMagazine,
+		StaticModel 			= 	Magazine,
+		WorldStaticModel 		= 	AbsolutistTrenchcoatsMagazine_Ground,
+	}
+
+	item PipoysMagazine
+	{
+		Weight					=	0.1,
+        Type					=	Literature,
+		DisplayCategory 		= 	SkillBook,
+		DisplayName				=	Pipoys Recipe,
+		Icon					=	PipoysMagazine,
+		TeachedRecipes  		=	Create Pipboy;Create Pipboy Platinum;Create Pipboy Lightbulb; Create Pipboy Lightbulb Bright,
+		Tooltip 				= 	Tooltip_item_PipoysMagazine,
+		StaticModel 			= 	Magazine,
+		WorldStaticModel 		= 	PipoysMagazine_Ground,
+	}
+
+	/****************************** New Flashlights ******************************/
+
+	item ClipFlashlight
+	{
+        DisplayCategory 	 = 	LightSource,	
+		DisplayName	 		 =	Clip Flashlight,
+		Icon			     =	ClipFlashlight,
+		Type		  		 =	Drainable,
+		cantBeConsolided 	 =  TRUE,
+		ActivatedItem		 =  TRUE,
+		DisappearOnUse		 =	FALSE,
+		TorchCone			 =	TRUE,
+		LightDistance		 =	30,
+		LightStrength		 =	0.9,
+		UseDelta			 =	0.0001,
+		MetalValue			 =	10,		
+		Weight		 		 =	0.35,
+		AttachmentType	 	 =  MilitaryFlashlight,
+		primaryAnimMask 	 =  HoldingTorchRight,
+        secondaryAnimMask	 =  HoldingTorchLeft,
+		StaticModel 		 =  ClipFlashlight,
+		WorldStaticModel 	 = 	ClipFlashlight,			
+	}  
+
+	item ReconFlashlight
+	{
+        DisplayCategory 	 = 	LightSource,	
+		DisplayName	 		 =	Recon Flashlight,
+		Icon			     =	TacticalFlashlight,
+		Type		  		 =	Drainable,
+		cantBeConsolided 	 =  TRUE,
+		ActivatedItem		 =  TRUE,
+		DisappearOnUse		 =	FALSE,
+		TorchCone			 =	TRUE,
+		LightDistance		 =	20,
+		LightStrength		 =	1.9,
+		UseDelta			 =	0.0003,
+		MetalValue			 =	10,		
+		Weight		 		 =	0.45,
+		AttachmentType	 	 =  MilitaryFlashlight,
+		primaryAnimMask 	 =  HoldingTorchRight,
+        secondaryAnimMask	 =  HoldingTorchLeft,
+		StaticModel 		 =  TacticalFlashlight,
+		WorldStaticModel 	 = 	TacticalFlashlight,			
+	}  
+
+	item AntiqueMilitaryFlashlight
+	{
+        DisplayCategory 	 = 	LightSource,	
+		DisplayName	 		 =	Antique Military Flashlight,
+		Icon			     =	AntiqueMilitaryFlashlight,
+		Type		  		 =	Drainable,
+		cantBeConsolided 	 =  TRUE,
+		ActivatedItem		 =  TRUE,
+		DisappearOnUse		 =	FALSE,
+		TorchCone			 =	TRUE,
+		LightDistance		 =	12,
+		LightStrength		 =	0.5,
+		UseDelta			 =	0.00009,
+		MetalValue			 =	10,		
+		Weight		 		 =	0.65,
+		AttachmentType	 	 =  MilitaryFlashlight,
+		primaryAnimMask 	 =  HoldingTorchRight,
+        secondaryAnimMask	 =  HoldingTorchLeft,
+		StaticModel 		 =  AntiqueMilitaryFlashlight,
+		WorldStaticModel 	 = 	AntiqueMilitaryFlashlight,			
+	}  	
+}

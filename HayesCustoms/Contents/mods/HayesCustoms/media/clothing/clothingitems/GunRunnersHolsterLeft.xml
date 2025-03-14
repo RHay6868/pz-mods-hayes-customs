@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_GunRunnersHolsterLeft</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_GunRunnersHolsterLeft</m_FemaleModel>
+	<m_GUID>3276818c-e1f3-4634-8675-e3f7f27e4bf8</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\GunRunnersOutfit</textureChoices>
+</clothingItem>

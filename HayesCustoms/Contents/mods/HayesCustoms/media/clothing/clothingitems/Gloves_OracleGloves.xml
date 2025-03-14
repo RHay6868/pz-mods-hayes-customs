@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_OracleGloves</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_OracleGloves</m_FemaleModel>
+	<m_GUID>71fcdcbb-ba85-42b3-9773-2bfaf0b8ed1a</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>4</m_Masks>	
+	<m_Masks>6</m_Masks>
+	<m_MasksFolder></m_MasksFolder>	
+	<textureChoices>clothes\OracleGloves</textureChoices>
+</clothingItem>

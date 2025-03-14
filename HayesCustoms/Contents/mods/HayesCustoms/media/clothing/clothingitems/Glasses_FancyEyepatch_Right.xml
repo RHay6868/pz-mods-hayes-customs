@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_FancyEyepatchRight</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_FancyEyepatchRight</m_FemaleModel>
+	<m_GUID>e1a1a117-589f-4265-b28b-f380a0dd91d2</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\FancyEyepatchZebra</textureChoices>
+	<textureChoices>clothes\glasses\FancyEyepatchLovely</textureChoices>
+	<textureChoices>clothes\glasses\FancyEyepatchSnake</textureChoices>
+	<textureChoices>clothes\glasses\FancyEyepatchLeather</textureChoices>
+	<textureChoices>clothes\glasses\FancyEyepatchSkull</textureChoices>
+</clothingItem>

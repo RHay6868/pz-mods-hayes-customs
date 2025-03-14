@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_BowTieFancy</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_BowTieFancy</m_FemaleModel>
+	<m_GUID>02490423-bcf2-4725-aa1f-e7a8f1dd70e9</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\ties\BowTieFancy1</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy2</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy3</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy4</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy5</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy6</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy7</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy8</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy9</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy10</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy11</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy12</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy13</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy14</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy15</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy16</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy17</textureChoices>
+	<textureChoices>clothes\ties\BowTieFancy18</textureChoices>
+</clothingItem>

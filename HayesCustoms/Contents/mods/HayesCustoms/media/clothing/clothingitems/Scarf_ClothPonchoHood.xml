@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_ClothPonchoHood</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ClothPonchoHood</m_FemaleModel>
+	<m_GUID>8935d449-5973-4a48-ba12-5446cb98c1b7</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>
+	<textureChoices>clothes\headwear\ClothPoncho</textureChoices>
+	<textureChoices>clothes\headwear\ClothPonchoCream</textureChoices>
+	<textureChoices>clothes\headwear\ClothPonchoRed</textureChoices>
+	<textureChoices>clothes\headwear\ClothPonchoAqua</textureChoices>
+</clothingItem>

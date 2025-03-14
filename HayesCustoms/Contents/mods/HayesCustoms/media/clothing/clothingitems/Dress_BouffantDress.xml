@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_BouffantDress</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_BouffantDress</m_FemaleModel>
+	<m_GUID>9be680fc-a914-4254-8e07-daa87de555e6</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\BouffantDressRed</textureChoices>
+	<textureChoices>clothes\BouffantDressYellow</textureChoices>
+	<textureChoices>clothes\BouffantDressWhite</textureChoices>
+	<textureChoices>clothes\BouffantDressBlack</textureChoices>
+</clothingItem>

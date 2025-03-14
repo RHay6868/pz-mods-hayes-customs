@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_MonocleRight</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_MonocleRight</m_FemaleModel>
+	<m_GUID>c7b62f65-725f-49ff-9af8-5018085b9ee8</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\headwear\Monocle</textureChoices>
+</clothingItem>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_ScrapShirt</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ScrapShirt</m_FemaleModel>
+	<m_GUID>1d6bfb18-880d-4e72-8c22-1d30ad679b0f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>12</m_Masks>
+	<m_Masks>13</m_Masks>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\ScrapShirt</textureChoices>
+</clothingItem>

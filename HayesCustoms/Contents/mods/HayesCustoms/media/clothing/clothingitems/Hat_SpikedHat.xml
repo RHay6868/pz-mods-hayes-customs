@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\Clothes\M_SpikedHat</m_MaleModel>
+	<m_FemaleModel>static\Clothes\F_SpikedHat</m_FemaleModel>
+	<m_GUID>c649e4dc-069c-4927-a074-d1fc3854b37d</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>default</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\headwear\SpikedHatBlack</textureChoices>
+	<textureChoices>clothes\headwear\SpikedHatBlue</textureChoices>
+	<textureChoices>clothes\headwear\SpikedHatGreen</textureChoices>
+	<textureChoices>clothes\headwear\SpikedHatOrange</textureChoices>
+	<textureChoices>clothes\headwear\SpikedHatPurple</textureChoices>
+	<textureChoices>clothes\headwear\SpikedHatRed</textureChoices>
+	<textureChoices>clothes\headwear\SpikedHatYellow</textureChoices>
+</clothingItem>

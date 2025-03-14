@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_Wayfarer</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_Wayfarer</m_FemaleModel>
+	<m_GUID>d67443ce-8b8e-42e9-90aa-f30bc86c0d86</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\Wayfarer1</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer2</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer3</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer4</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer5</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer6</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer7</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer8</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer9</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer10</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer11</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer12</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer13</textureChoices>
+	<textureChoices>clothes\glasses\Wayfarer14</textureChoices>
+</clothingItem>

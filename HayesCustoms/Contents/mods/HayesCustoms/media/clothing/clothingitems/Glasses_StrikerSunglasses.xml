@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_StrikerSunglasses</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_StrikerSunglasses</m_FemaleModel>
+	<m_GUID>e02319f5-832c-484c-baa3-5ca818c672db</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\StrikerSunglasses1</textureChoices>
+	<textureChoices>clothes\glasses\StrikerSunglasses2</textureChoices>
+	<textureChoices>clothes\glasses\StrikerSunglasses3</textureChoices>
+	<textureChoices>clothes\glasses\StrikerSunglasses4</textureChoices>
+	<textureChoices>clothes\glasses\StrikerSunglasses5</textureChoices>
+</clothingItem>

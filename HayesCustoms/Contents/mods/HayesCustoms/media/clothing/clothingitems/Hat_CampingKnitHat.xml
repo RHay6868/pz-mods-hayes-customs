@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\Clothes\M_CampingKnitHat</m_MaleModel>
+	<m_FemaleModel>static\Clothes\F_CampingKnitHat</m_FemaleModel>
+	<m_GUID>4cce0fee-74e9-4347-ae72-fac43deb0091</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>default</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\headwear\CampingKnitHatAqua</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatBlack</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatBlue</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatBrown</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatGreen</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatMaroon</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatPink</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatPurple</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatRed</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatTan</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatWhite</textureChoices>
+	<textureChoices>clothes\headwear\CampingKnitHatYellow</textureChoices>
+</clothingItem>

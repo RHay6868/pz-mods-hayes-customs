@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_MuteMask</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_MuteMask</m_FemaleModel>
+	<m_GUID>993d4f5f-9209-4ee7-ac46-836b96168588</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>nobeard</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\headwear\MuteGolemMask</textureChoices>
+</clothingItem>

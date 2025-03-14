@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_ReconRig</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ReconRig</m_FemaleModel>
+	<m_GUID>82ab3d01-66be-4c0a-b1f4-21c3527e6ba4</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\ReconRigBlack</textureChoices>
+</clothingItem>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_GasMaskRebreather</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_GasMaskRebreather</m_FemaleModel>
+	<m_GUID>3beb0730-e1d3-436e-992e-7003aabae408</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>nobeard</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\headwear\GasMaskRebreather</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskRebreatherRed</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskRebreatherGreen</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskRebreatherBlue</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskRebreatherPurple</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskRebreatherYellow</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskRebreatherWhite</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskRebreatherPink</textureChoices>
+</clothingItem>

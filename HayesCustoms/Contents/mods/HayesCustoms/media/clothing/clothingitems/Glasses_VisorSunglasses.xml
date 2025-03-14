@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_VisorSunglasses</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_VisorSunglasses</m_FemaleModel>
+	<m_GUID>15f6fa60-bc79-4ac5-9a59-16cb33e503f2</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\VisorSunglasses1</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses2</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses3</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses4</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses5</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses6</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses7</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses8</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses9</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses10</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses11</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses12</textureChoices>
+	<textureChoices>clothes\glasses\VisorSunglasses13</textureChoices>
+</clothingItem>

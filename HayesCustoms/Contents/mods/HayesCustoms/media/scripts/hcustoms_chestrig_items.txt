@@ -1,0 +1,212 @@
+module HCustoms
+{
+    item Bag_ReconRigBlack
+    {
+		DisplayCategory			=	Bag,
+		Weight					=	0.2,
+		Type					=	Container,
+		DisplayName				=	Recon Rig Black,
+		Icon					=	ReconRigBlack,
+		ClothingItem			=	Bag_ReconRigBlack,
+ 		ClothingItemExtra		=	HCustoms.Bag_ReconRigBlack,
+		ClothingItemExtraOption	=	Wear,
+		CanBeEquipped			=	TorsoRigPlus2,
+		WeightReduction			=	70,
+		Capacity				=	12,
+		OpenSound				=	OpenBag,
+		CloseSound				=	CloseBag,
+		PutInSound				=	PutItemInBag,
+		BodyLocation			=	TorsoRigPlus2,
+		AttachmentsProvided		=	ChestRigSlot1;ChestRigSlot2;ChestRigHolster;ChestRigWalkie;ChestRigFlashlight,
+		WorldStaticModel		=	ReconRigBlack_Ground,
+    }
+
+    item Bag_ReconRigBlue
+    {
+		DisplayCategory			=	Bag,
+		Weight					=	0.2,
+		Type					=	Container,
+		DisplayName				=	Recon Rig Blue,
+		Icon					=	ReconRigBlue,
+		ClothingItem			=	Bag_ReconRigBlue,
+ 		ClothingItemExtra		=	HCustoms.Bag_ReconRigBlue,
+		ClothingItemExtraOption	=	Wear,
+		CanBeEquipped			=	TorsoRigPlus2,
+		WeightReduction			=	70,
+		Capacity				=	12,
+		OpenSound				=	OpenBag,
+		CloseSound				=	CloseBag,
+		PutInSound				=	PutItemInBag,
+		BodyLocation			=	TorsoRigPlus2,
+		AttachmentsProvided		=	ChestRigSlot1;ChestRigSlot2;ChestRigHolster;ChestRigWalkie;ChestRigFlashlight,
+		WorldStaticModel		=	ReconRigBlue_Ground,
+    }
+
+    item Bag_ReconRigRed
+    {
+		DisplayCategory			=	Bag,
+		Weight					=	0.2,
+		Type					=	Container,
+		DisplayName				=	Recon Rig Red,
+		Icon					=	ReconRigRed,
+		ClothingItem			=	Bag_ReconRigRed,
+ 		ClothingItemExtra		=	HCustoms.Bag_ReconRigRed,
+		ClothingItemExtraOption	=	Wear,
+		CanBeEquipped			=	TorsoRigPlus2,
+		WeightReduction			=	70,
+		Capacity				=	12,
+		OpenSound				=	OpenBag,
+		CloseSound				=	CloseBag,
+		PutInSound				=	PutItemInBag,
+		BodyLocation			=	TorsoRigPlus2,
+		AttachmentsProvided		=	ChestRigSlot1;ChestRigSlot2;ChestRigHolster;ChestRigWalkie;ChestRigFlashlight,
+		WorldStaticModel		=	ReconRigRed_Ground,
+    }
+
+    item Bag_ReconRigOlive
+    {
+		DisplayCategory			=	Bag,
+		Weight					=	0.2,
+		Type					=	Container,
+		DisplayName				=	Recon Rig Olive,
+		Icon					=	ReconRigOlive,
+		ClothingItem			=	Bag_ReconRigOlive,
+ 		ClothingItemExtra		=	HCustoms.Bag_ReconRigOlive,
+		ClothingItemExtraOption	=	Wear,
+		CanBeEquipped			=	TorsoRigPlus2,
+		WeightReduction			=	70,
+		Capacity				=	12,
+		OpenSound				=	OpenBag,
+		CloseSound				=	CloseBag,
+		PutInSound				=	PutItemInBag,
+		BodyLocation			=	TorsoRigPlus2,
+		AttachmentsProvided		=	ChestRigSlot1;ChestRigSlot2;ChestRigHolster;ChestRigWalkie;ChestRigFlashlight,
+		WorldStaticModel		=	ReconRigOlive_Ground,
+    }
+
+    item Bag_ReconRigTan
+    {
+		DisplayCategory			=	Bag,
+		Weight					=	0.2,
+		Type					=	Container,
+		DisplayName				=	Recon Rig Tan,
+		Icon					=	ReconRigTan,
+		ClothingItem			=	Bag_ReconRigTan,
+ 		ClothingItemExtra		=	HCustoms.Bag_ReconRigTan,
+		ClothingItemExtraOption	=	Wear,
+		CanBeEquipped			=	TorsoRigPlus2,
+		WeightReduction			=	70,
+		Capacity				=	12,
+		OpenSound				=	OpenBag,
+		CloseSound				=	CloseBag,
+		PutInSound				=	PutItemInBag,
+		BodyLocation			=	TorsoRigPlus2,
+		AttachmentsProvided		=	ChestRigSlot1;ChestRigSlot2;ChestRigHolster;ChestRigWalkie;ChestRigFlashlight,
+		WorldStaticModel		=	ReconRigTan_Ground,
+    }
+
+    item Bag_ReconRigWoodland
+    {
+		DisplayCategory			=	Bag,
+		Weight					=	0.2,
+		Type					=	Container,
+		DisplayName				=	Recon Rig Woodland,
+		Icon					=	ReconRigWoodland,
+		ClothingItem			=	Bag_ReconRigWoodland,
+ 		ClothingItemExtra		=	HCustoms.Bag_ReconRigWoodland,
+		ClothingItemExtraOption	=	Wear,
+		CanBeEquipped			=	TorsoRigPlus2,
+		WeightReduction			=	70,
+		Capacity				=	12,
+		OpenSound				=	OpenBag,
+		CloseSound				=	CloseBag,
+		PutInSound				=	PutItemInBag,
+		BodyLocation			=	TorsoRigPlus2,
+		AttachmentsProvided		=	ChestRigSlot1;ChestRigSlot2;ChestRigHolster;ChestRigWalkie;ChestRigFlashlight,
+		WorldStaticModel		=	ReconRigWoodland_Ground,
+    }
+
+    item Bag_ReconRigPink
+    {
+		DisplayCategory			=	Bag,
+		Weight					=	0.2,
+		Type					=	Container,
+		DisplayName				=	Recon Rig Pink,
+		Icon					=	ReconRigPink,
+		ClothingItem			=	Bag_ReconRigPink,
+ 		ClothingItemExtra		=	HCustoms.Bag_ReconRigPink,
+		ClothingItemExtraOption	=	Wear,
+		CanBeEquipped			=	TorsoRigPlus2,
+		WeightReduction			=	70,
+		Capacity				=	12,
+		OpenSound				=	OpenBag,
+		CloseSound				=	CloseBag,
+		PutInSound				=	PutItemInBag,
+		BodyLocation			=	TorsoRigPlus2,
+		AttachmentsProvided		=	ChestRigSlot1;ChestRigSlot2;ChestRigHolster;ChestRigWalkie;ChestRigFlashlight,
+		WorldStaticModel		=	ReconRigPink_Ground,
+    }
+
+    item Bag_ReconRigLeather
+    {
+		DisplayCategory			=	Bag,
+		Weight					=	0.2,
+		Type					=	Container,
+		DisplayName				=	Recon Rig Leather,
+		Icon					=	ReconRigLeather,
+		ClothingItem			=	Bag_ReconRigLeather,
+ 		ClothingItemExtra		=	HCustoms.Bag_ReconRigLeather,
+		ClothingItemExtraOption	=	Wear,
+		CanBeEquipped			=	TorsoRigPlus2,
+		WeightReduction			=	70,
+		Capacity				=	12,
+		OpenSound				=	OpenBag,
+		CloseSound				=	CloseBag,
+		PutInSound				=	PutItemInBag,
+		BodyLocation			=	TorsoRigPlus2,
+		AttachmentsProvided		=	ChestRigSlot1;ChestRigSlot2;ChestRigHolster;ChestRigWalkie;ChestRigFlashlight,
+		WorldStaticModel		=	ReconRigLeather_Ground,
+    }
+
+    item Bag_ReconRigWhite
+    {
+		DisplayCategory			=	Bag,
+		Weight					=	0.2,
+		Type					=	Container,
+		DisplayName				=	Recon Rig White,
+		Icon					=	ReconRigWhite,
+		ClothingItem			=	Bag_ReconRigWhite,
+ 		ClothingItemExtra		=	HCustoms.Bag_ReconRigWhite,
+		ClothingItemExtraOption	=	Wear,
+		CanBeEquipped			=	TorsoRigPlus2,
+		WeightReduction			=	70,
+		Capacity				=	12,
+		OpenSound				=	OpenBag,
+		CloseSound				=	CloseBag,
+		PutInSound				=	PutItemInBag,
+		BodyLocation			=	TorsoRigPlus2,
+		AttachmentsProvided		=	ChestRigSlot1;ChestRigSlot2;ChestRigHolster;ChestRigWalkie;ChestRigFlashlight,
+		WorldStaticModel		=	ReconRigWhite_Ground,
+    }
+
+    item Bag_ReconRigZoidberg
+    {
+		DisplayCategory			=	Bag,
+		Weight					=	0.2,
+		Type					=	Container,
+		DisplayName				=	Recon Rig Zoidberg,
+		Icon					=	ReconRigZoidberg,
+		ClothingItem			=	Bag_ReconRigZoidberg,
+ 		ClothingItemExtra		=	HCustoms.Bag_ReconRigZoidberg,
+		ClothingItemExtraOption	=	Wear,
+		CanBeEquipped			=	TorsoRigPlus2,
+		WeightReduction			=	70,
+		Capacity				=	12,
+		OpenSound				=	OpenBag,
+		CloseSound				=	CloseBag,
+		PutInSound				=	PutItemInBag,
+		BodyLocation			=	TorsoRigPlus2,
+		AttachmentsProvided		=	ChestRigSlot1;ChestRigSlot2;ChestRigHolster;ChestRigWalkie;ChestRigFlashlight,
+		WorldStaticModel		=	ReconRigZoidberg_Ground,
+    }
+}

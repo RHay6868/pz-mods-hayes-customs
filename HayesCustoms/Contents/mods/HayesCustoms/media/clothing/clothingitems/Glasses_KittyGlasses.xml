@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_KittyGlasses</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_KittyGlasses</m_FemaleModel>
+	<m_GUID>f7634a22-fe2a-4932-b6bc-b37418a94dc1</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\KittyGlasses1</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses2</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses3</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses4</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses5</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses6</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses7</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses8</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses9</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses10</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses11</textureChoices>
+	<textureChoices>clothes\glasses\KittyGlasses12</textureChoices>
+</clothingItem>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_PunkJacket</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_PunkJacket</m_FemaleModel>
+	<m_GUID>a492aa53-c6b6-4e23-af11-02396278085e</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\PunkJacket</textureChoices>
+</clothingItem>

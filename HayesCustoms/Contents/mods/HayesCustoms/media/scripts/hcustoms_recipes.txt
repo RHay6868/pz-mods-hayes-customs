@@ -1,0 +1,462 @@
+module HCustoms
+{
+
+	recipe Make SArmor
+	{
+		LeatherStrips=25,
+        Thread=50,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:SArmor,
+		Time:100.0,
+	   	SkillRequired:Tailoring=7,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make SArmorLite
+	{
+		LeatherStrips=18,
+        Thread=36,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:SArmorLite,
+		Time:100.0,
+	   	SkillRequired:Tailoring=7,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make SArmor Boots
+	{
+		LeatherStrips=10,
+        Thread=20,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:Shoes_SArmorTacticalBoots,
+		Time:100.0,
+	   	SkillRequired:Tailoring=8,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make SArmor Gloves
+	{
+		LeatherStrips=12,
+        Thread=24,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:Gloves_SArmorTacticalGloves,
+		Time:100.0,
+	   	SkillRequired:Tailoring=8,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make SArmor Helmet
+	{
+		SmallSheetMetal=6,
+		LeatherStrips=8,
+        Thread=16,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:Hat_SArmorTacticalHelmet,
+		Time:100.0,
+	   	SkillRequired:Tailoring=8,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Cazador Bag
+	{
+		LeatherStrips=15,
+        Thread=30,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:Bag_CazadorBackpack,
+		Time:100.0,
+	   	SkillRequired:Tailoring=8,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Cazador Long Coat
+	{
+		LeatherStrips=20,
+        Thread=40,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:LongCoat_Cazador,
+		Time:100.0,
+	   	SkillRequired:Tailoring=7,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Cazador Gas Mask
+	{
+		Hat_GasMask/Hat_GasMaskPBF/Hat_GasMaskPMK1/Hat_GasMaskPPM88/Hat_GasMaskRebreather,
+		LeatherStrips=8,
+        Thread=16,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:Hat_CazadorGasMask,
+		Time:100.0,
+	   	SkillRequired:Tailoring=8,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Cazador Pants
+	{
+		LeatherStrips=10,
+        Thread=20,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:CazadorPants,
+		Time:100.0,
+	   	SkillRequired:Tailoring=6,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Cazador Chest
+	{
+		LeatherStrips=10,
+        Thread=20,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:CazadorChest,
+		Time:100.0,
+	   	SkillRequired:Tailoring=6,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Cazador Boots
+	{
+		LeatherStrips=10,
+        Thread=20,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:Shoes_CazadorBoots,
+		Time:100.0,
+	   	SkillRequired:Tailoring=6,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Cazador Gloves
+	{
+		LeatherStrips=12,
+        Thread=24,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:Gloves_CazadorGloves,
+		Time:100.0,
+	   	SkillRequired:Tailoring=7,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Cazador Hood
+	{
+		LeatherStrips=10,
+        Thread=20,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:Hat_CazadorHood,
+		Time:100.0,
+	   	SkillRequired:Tailoring=7,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Absolutist Trenchcoat
+	{
+		LeatherStrips=20,
+        Thread=40,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:LongCoat_AbsolutistTrenchcoatHood,
+		Time:100.0,
+	   	SkillRequired:Tailoring=7,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Absolutist Trenchcoat Widowmaker
+	{
+		LeatherStrips=20,
+        Thread=40,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:LongCoat_AbsolutistTrenchcoatWidowmakerHood,
+		Time:100.0,
+	   	SkillRequired:Tailoring=7,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Absolutist Trenchcoat Nightstalker
+	{
+		LeatherStrips=20,
+        Thread=40,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:LongCoat_AbsolutistTrenchcoatNightstalkerHood,
+		Time:100.0,
+	   	SkillRequired:Tailoring=7,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Make Absolutist Trenchcoat Arctic
+	{
+		LeatherStrips=20,
+        Thread=40,
+        keep Needle/SutureNeedle,
+        keep [Recipe.GetItemTypes.Scissors],
+
+		Result:LongCoat_AbsolutistTrenchcoatArcticHood,
+		Time:100.0,
+	   	SkillRequired:Tailoring=7,
+	   	Category:Tailoring,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:True,
+	}
+
+	recipe Remove Goggles from Helmet
+	{
+		Hat_AntiqueHelmetGoggles,
+
+		Result:Hat_AntiqueHelmet,
+		OnCreate: Recipe.OnCreate.RemoveDustGoggles,
+		Time:20.0,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:false,
+	}
+
+	recipe Add Goggles on Helmet
+	{
+		Hat_AntiqueHelmet,
+        Glasses_DustGoggles,
+
+		Result:Hat_AntiqueHelmetGoggles,
+		Time:20.0,
+		CanBeDoneFromFloor:false,
+		NeedToBeLearn:false,
+	}
+
+	recipe Leviathan Axe 1H Mode
+	{
+		LeviathanAxe2H,
+
+		Result: LeviathanAxe1H,
+		Time: 2,
+		OnCreate: onKeepWeaponStats_OnCreate,
+		IsHidden: true,
+	}
+	
+	recipe Leviathan Axe 2H Mode
+	{
+		LeviathanAxe1H,
+
+		Result: LeviathanAxe2H,
+		Time: 2,
+		OnCreate: onKeepWeaponStats_OnCreate,
+		IsHidden: true,
+	}
+
+	fixing Fix Leviathan Axe 2H
+	{
+		Require: LeviathanAxe2H,
+
+       	Fixer : Woodglue=2; Woodwork=2,
+       	Fixer : DuctTape=2,
+       	Fixer : Glue=2,
+       	Fixer : Scotchtape=4,	
+	}
+
+	fixing Fix Leviathan Axe 1H
+	{
+		Require: LeviathanAxe1H,
+
+       	Fixer : Woodglue=2; Woodwork=2,
+       	Fixer : DuctTape=2,
+       	Fixer : Glue=2,
+       	Fixer : Scotchtape=4,
+	}
+
+	recipe Swordfish "Spear" Mode
+	{
+		SwordFish,
+
+		Result: SpearFish,
+		Time: 2,
+		OnCreate: onKeepWeaponStats_OnCreate,
+		IsHidden: true,
+	}
+	
+	recipe Swordfish "Sword" Mode
+	{
+		SpearFish,
+
+		Result: SwordFish,
+		Time: 2,
+		OnCreate: onKeepWeaponStats_OnCreate,
+		IsHidden: true,
+	}
+
+	fixing Fix Swordfish Sword
+	{
+		Require: SwordFish,
+
+       	Fixer : Woodglue=2; Woodwork=2,
+       	Fixer : DuctTape=2,
+       	Fixer : Glue=2,
+       	Fixer : Scotchtape=4,	
+	}
+
+	fixing Fix Swordfish Spear
+	{
+		Require: SpearFish,
+
+       	Fixer : Woodglue=2; Woodwork=2,
+       	Fixer : DuctTape=2,
+       	Fixer : Glue=2,
+       	Fixer : Scotchtape=4,
+	}
+
+	fixing Fix Homelite XL Chainsaw
+	{
+		Require: HomeliteXLChainsaw,
+
+       	Fixer : Woodglue=2; Woodwork=2,
+       	Fixer : DuctTape=2,
+       	Fixer : Glue=2,
+       	Fixer : Scotchtape=4,
+	}
+
+	recipe Take off One Suspender
+	{
+		Trousers_Suspenders/Trousers_SuspendersLoose,
+
+		Result				:Trousers_SuspendersSingle,
+		Time				:20.0,
+		CanBeDoneFromFloor	:false,
+		NeedToBeLearn		:false,
+		OnTest				:HCustoms_OnTest_KeepColor,
+		OnCreate			:Recipe.OnCreate.KeepClothingColor,
+		IsHidden			:true,
+	}
+
+	recipe Attach One Suspender
+	{
+		Trousers_SuspendersSingle/Trousers_SuspendersSingleLoose,
+
+		Result				:Trousers_Suspenders,
+		Time				:20.0,
+		CanBeDoneFromFloor	:false,
+		NeedToBeLearn		:false,
+		OnTest				:HCustoms_OnTest_KeepColor,
+		OnCreate			:Recipe.OnCreate.KeepClothingColor,
+		IsHidden			:true,
+	}	
+
+	/************************ MANAGE FLASHLIGHT BATTERIES ************************/
+
+	recipe Remove Battery
+	{
+		keep AntiqueMilitaryFlashlight/ClipFlashlight/ReconFlashlight,
+
+		Result				:Battery,
+		Time				:30,
+		OnTest				:Recipe.OnTest.TorchBatteryRemoval,
+		OnCreate			:Recipe.OnCreate.HCustoms_TorchBatteryRemoval,
+		StopOnWalk			:false,
+	}
+
+	recipe Insert Battery into Flashlight
+	{
+		destroy AntiqueMilitaryFlashlight,
+		destroy Battery,
+
+		Result				:AntiqueMilitaryFlashlight,
+		Time				:30,
+		OnTest				:Recipe.OnTest.HCustoms_TorchBatteryInsert,
+		OnCreate			:Recipe.OnCreate.TorchBatteryInsert,
+		StopOnWalk			:false,
+	}
+
+	recipe Insert Battery into Flashlight
+	{
+		destroy ClipFlashlight,
+		destroy Battery,
+
+		Result				:ClipFlashlight,
+		Time				:30,
+		OnTest				:Recipe.OnTest.HCustoms_TorchBatteryInsert,
+		OnCreate			:Recipe.OnCreate.TorchBatteryInsert,
+		StopOnWalk			:false,
+	}
+
+	recipe Insert Battery into Flashlight
+	{
+		destroy ReconFlashlight,
+		destroy Battery,
+
+		Result				:ReconFlashlight,
+		Time				:30,
+		OnTest				:Recipe.OnTest.HCustoms_TorchBatteryInsert,
+		OnCreate			:Recipe.OnCreate.TorchBatteryInsert,
+		StopOnWalk			:false,
+	}
+
+	recipe Dismantle Upgradable Flashlight
+	{
+		destroy AntiqueMilitaryFlashlight/ClipFlashlight/ReconFlashlight,
+		keep [Recipe.GetItemTypes.Screwdriver],
+
+		Result				:ElectronicsScrap,
+		Time				:30.0,
+		OnGiveXP			:Recipe.OnGiveXP.DismantleElectronics,
+		OnCreate			:Recipe.OnCreate.HCustoms_DismantleFlashlight,
+		Category			:Electrical,
+		AnimNode			:Disassemble,
+		Prop1				:Screwdriver,
+		Prop2				:Source=1,
+	}	
+}

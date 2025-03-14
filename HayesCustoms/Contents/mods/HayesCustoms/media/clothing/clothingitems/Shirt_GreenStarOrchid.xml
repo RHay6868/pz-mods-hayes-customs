@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_JungleBird</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_JungleBird</m_FemaleModel>
+	<m_GUID>fa7bcaa8-2f28-4617-839f-9acd6d39d458</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\GreenStarOrchid</textureChoices>
+</clothingItem>

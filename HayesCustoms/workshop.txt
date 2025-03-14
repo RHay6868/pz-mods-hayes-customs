@@ -1,0 +1,11 @@
+version=1
+id=2884278892
+title=Hayes Customs
+description=Sharing new items
+description=
+description=[quote=author] Do not copy, modify, redistribute, or repackage this mod without explicit permission from the creator. This includes on or off of steam, within another mod or modpack, or a different modified version. This item can be published on Steam only through an account with the name Mackus103.
+description=
+description=If no permission is received you may not alter the mod, and it must be treated as a mod that is 'On Lockdown'.
+description=© 2022-2023 Mackus103  [/quote]
+tags=
+visibility=unlisted

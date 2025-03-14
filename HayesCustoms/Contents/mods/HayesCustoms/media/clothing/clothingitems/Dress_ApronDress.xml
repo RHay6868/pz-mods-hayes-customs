@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_ApronDress</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ApronDress</m_FemaleModel>
+	<m_GUID>8819ee2f-ae77-4bcd-8ace-a37f850fe006</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\ApronDressBlue</textureChoices>
+	<textureChoices>clothes\ApronDressRed</textureChoices>
+	<textureChoices>clothes\ApronDressPink</textureChoices>
+	<textureChoices>clothes\ApronDressYellow</textureChoices>
+	<textureChoices>clothes\ApronDressBlack</textureChoices>
+	<textureChoices>clothes\ApronDressWhite</textureChoices>
+</clothingItem>

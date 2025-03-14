@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_GasMaskPMK1</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_GasMaskPMK1</m_FemaleModel>
+	<m_GUID>f9173975-a3ea-444d-94fd-ef916e7f9732</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>nobeard</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\headwear\GasMaskPMK1</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskPMK1Red</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskPMK1Green</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskPMK1Blue</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskPMK1Purple</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskPMK1Yellow</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskPMK1White</textureChoices>
+	<textureChoices>clothes\headwear\GasMaskPMK1Pink</textureChoices>
+</clothingItem>

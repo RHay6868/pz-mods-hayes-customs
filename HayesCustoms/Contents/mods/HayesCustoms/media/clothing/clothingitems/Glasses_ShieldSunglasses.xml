@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_ShieldSunglasses</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_ShieldSunglasses</m_FemaleModel>
+	<m_GUID>679d3176-d24a-482b-a10f-4ec6169b20b0</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\ShieldSunglasses1</textureChoices>
+	<textureChoices>clothes\glasses\ShieldSunglasses2</textureChoices>
+	<textureChoices>clothes\glasses\ShieldSunglasses3</textureChoices>
+	<textureChoices>clothes\glasses\ShieldSunglasses4</textureChoices>
+	<textureChoices>clothes\glasses\ShieldSunglasses5</textureChoices>
+	<textureChoices>clothes\glasses\ShieldSunglasses6</textureChoices>
+	<textureChoices>clothes\glasses\ShieldSunglasses7</textureChoices>
+	<textureChoices>clothes\glasses\ShieldSunglasses8</textureChoices>
+	<textureChoices>clothes\glasses\ShieldSunglasses9</textureChoices>
+</clothingItem>

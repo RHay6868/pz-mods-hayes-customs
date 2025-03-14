@@ -1,0 +1,49 @@
+module HCustoms
+{
+    item Bag_MedicalBackpackNew
+    {
+        DisplayCategory         = Bag,
+        Type                    = Container,
+        DisplayName             = Medical Backpack,
+        ClothingItem            = Bag_MedicalBackpackNew,
+        CanBeEquipped           = Back,
+        WeightReduction	        = 85,
+        Weight	                = 1.4,
+        Capacity	            = 31,
+        IconsForTexture	        = MedicalBackpackNew1;MedicalBackpackNew2;MedicalBackpackNew3;MedicalBackpackNew4;MedicalBackpackNew5,
+        OpenSound               = OpenBag,
+        CloseSound              = CloseBag,
+        PutInSound              = PutItemInBag,
+        BloodLocation           = Bag,
+        CanHaveHoles            = false,
+        AttachmentReplacement   = Bag,
+        AttachmentsProvided     = MedicalBackpackContainer;MedicalBackpackUtilitySlot1;MedicalBackpackUtilitySlot2;MedicalBackpackUtilitySlot3;MedicalBackpackRight;MedicalBackpackLeft;MedicalBackpackPlushie1;MedicalBackpackPlushie2;MedicalBackpackFirstAid;MedicalBackpackFlashlight,
+        Medical                 = TRUE,
+        ReplaceInSecondHand     = Bag_MedicalBackpackNew_Lhand holdingbagleft,
+        ReplaceInPrimaryHand    = Bag_MedicalBackpackNew_Rhand holdingbagright,
+        WorldStaticModel        = MedicalBackpackNew_Ground,
+    }
+
+    item Bag_GolfBagUpgrade
+    {
+        DisplayCategory         = Bag,
+        Type	                = Container,
+        WeightReduction	        = 85,
+        Weight	                = 0.9,
+        Capacity	            = 30,
+        DisplayName	            = Golf Bag,
+        IconsForTexture         = GolfBagUpgrade1;GolfBagUpgrade2;GolfBagUpgrade3;GolfBagUpgrade4;GolfBagUpgrade5;GolfBagUpgrade6;GolfBagUpgrade7;GolfBagUpgrade8,
+        CanBeEquipped           = Back,
+        OpenSound               = OpenBag,
+        CloseSound              = CloseBag,
+        PutInSound              = PutItemInBag,
+        ClothingItem            = Bag_GolfBagUpgrade,
+        BloodLocation           = Bag,
+        RunSpeedModifier        = 1.05,
+        AttachmentReplacement   = Bag,
+        AttachmentsProvided     = GolfBagUtilitySlot1;GolfBagUtilitySlot2;GolfBagUtilitySlot3;GolfBagDrink;GolfBagPlushie;GolfBagSling1;GolfBagSling2;GolfBagFlashlight,        
+        ReplaceInSecondHand     = Bag_GolfBagUpgrade_LHand holdingbagleft,
+        ReplaceInPrimaryHand    = Bag_GolfBagUpgrade_RHand holdingbagright,
+        WorldStaticModel        = GolfBag_Ground,
+    }        
+}

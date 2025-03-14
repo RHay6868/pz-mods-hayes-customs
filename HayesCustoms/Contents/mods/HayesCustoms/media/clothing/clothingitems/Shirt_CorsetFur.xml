@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_CorsetFur</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_CorsetFur</m_FemaleModel>
+	<m_GUID>f884c9bb-5367-4c1e-84d0-8f68a5f9fbad</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\CorsetFurWhite</textureChoices>
+	<textureChoices>clothes\CorsetFurRed</textureChoices>
+	<textureChoices>clothes\CorsetFurPink</textureChoices>
+	<textureChoices>clothes\CorsetFurDenim</textureChoices>
+	<textureChoices>clothes\CorsetFurBlack</textureChoices>
+</clothingItem>

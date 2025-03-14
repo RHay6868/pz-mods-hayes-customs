@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_KeyholeSunglasses</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_KeyholeSunglasses</m_FemaleModel>
+	<m_GUID>7ada07b6-2776-4636-a8f3-020bdbfdeabe</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\KeyholeSunglasses1</textureChoices>
+	<textureChoices>clothes\glasses\KeyholeSunglasses2</textureChoices>
+	<textureChoices>clothes\glasses\KeyholeSunglasses3</textureChoices>
+	<textureChoices>clothes\glasses\KeyholeSunglasses4</textureChoices>
+	<textureChoices>clothes\glasses\KeyholeSunglasses5</textureChoices>
+	<textureChoices>clothes\glasses\KeyholeSunglasses6</textureChoices>
+</clothingItem>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_ManhunterBoots</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ManhunterBoots</m_FemaleModel>
+	<m_GUID>b65d1c7f-8626-42ca-9bac-44b570951c00</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\ManhunterPurpleBoots</textureChoices>
+</clothingItem>

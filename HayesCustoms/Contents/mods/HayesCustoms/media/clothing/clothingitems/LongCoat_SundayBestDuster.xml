@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_SundayBestDuster</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_SundayBestDuster</m_FemaleModel>
+	<m_GUID>9605c747-904d-415d-a4ea-d1f144033ab0</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>3</m_Masks>
+	<m_Masks>5</m_Masks>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\SundayBestDuster</textureChoices>
+</clothingItem>

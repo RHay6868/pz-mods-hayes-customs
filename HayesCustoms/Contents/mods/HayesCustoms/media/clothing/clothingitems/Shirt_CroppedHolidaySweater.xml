@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_CroppedHolidaySweater</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_CroppedHolidaySweater</m_FemaleModel>
+	<m_GUID>e5c43973-7bb0-481b-a206-1c5cdb4d3471</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>11</m_Masks>
+	<m_Masks>12</m_Masks>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\CroppedHolidaySweater1</textureChoices>
+	<textureChoices>clothes\CroppedHolidaySweater2</textureChoices>
+	<textureChoices>clothes\CroppedHolidaySweater3</textureChoices>
+	<textureChoices>clothes\CroppedHolidaySweater4</textureChoices>
+	<textureChoices>clothes\CroppedHolidaySweater5</textureChoices>
+	<textureChoices>clothes\CroppedHolidaySweater6</textureChoices>
+	<textureChoices>clothes\CroppedHolidaySweater7</textureChoices>
+	<textureChoices>clothes\CroppedHolidaySweater8</textureChoices>
+	<textureChoices>clothes\CroppedHolidaySweater9</textureChoices>
+</clothingItem>

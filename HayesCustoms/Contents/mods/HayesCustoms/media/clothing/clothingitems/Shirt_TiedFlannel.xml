@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_TiedFlannel</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_TiedFlannel</m_FemaleModel>
+	<m_GUID>f537e8d2-a2a4-4aef-a600-749dd03424f6</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\TiedFlannelRed</textureChoices>
+	<textureChoices>clothes\TiedFlannelRock</textureChoices>
+	<textureChoices>clothes\TiedFlannelFlower</textureChoices>
+	<textureChoices>clothes\TiedFlannelBright</textureChoices>
+	<textureChoices>clothes\TiedFlannelPinkCamo</textureChoices>
+	<textureChoices>clothes\TiedFlannelGold</textureChoices>
+</clothingItem>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_GunRunnersPants</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_GunRunnersPants</m_FemaleModel>
+	<m_GUID>62961190-b401-4835-9bf5-f6d32890f3b6</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>7</m_Masks>
+	<m_Masks>9</m_Masks>
+	<m_Masks>14</m_Masks>
+	<m_Masks>15</m_Masks>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\GunRunnersOutfit</textureChoices>
+</clothingItem>

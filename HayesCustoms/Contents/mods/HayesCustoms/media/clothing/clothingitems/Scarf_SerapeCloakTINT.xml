@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_SerapeCloak</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_SerapeCloak</m_FemaleModel>
+	<m_GUID>2e331268-12bc-42c8-9ab3-a59d445ed6bf</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>true</m_AllowRandomHue>
+	<m_AllowRandomTint>true</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\headwear\SerapeCloakTINT</textureChoices>
+</clothingItem>

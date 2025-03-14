@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_PlateArmorHelm</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_PlateArmorHelm</m_FemaleModel>
+	<m_GUID>50769181-7ed5-4bf3-a2e1-28f1621f20b0</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>nohairnobeard</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\PlateArmorHelm</textureChoices>
+</clothingItem>

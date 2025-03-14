@@ -1,0 +1,380 @@
+module Base
+{
+    model ModularPackBlack_Ground
+    {
+        mesh = WorldItems/Backpacks/ModularPack_Ground,
+        texture = Clothes/backpacks/ModularPackBlack,
+    }
+
+    model ModularPackBlue_Ground
+    {
+        mesh = WorldItems/Backpacks/ModularPack_Ground,
+        texture = Clothes/backpacks/ModularPackBlue,
+    }
+
+    model ModularPackRed_Ground
+    {
+        mesh = WorldItems/Backpacks/ModularPack_Ground,
+        texture = Clothes/backpacks/ModularPackRed,
+    }
+
+    model ModularPackLeather_Ground
+    {
+        mesh = WorldItems/Backpacks/ModularPack_Ground,
+        texture = Clothes/backpacks/ModularPackLeather,
+    }
+
+    model ModularPackOlive_Ground
+    {
+        mesh = WorldItems/Backpacks/ModularPack_Ground,
+        texture = Clothes/backpacks/ModularPackOlive,
+    }
+
+    model ModularPackPink_Ground
+    {
+        mesh = WorldItems/Backpacks/ModularPack_Ground,
+        texture = Clothes/backpacks/ModularPackPink,
+    }
+
+    model ModularPackTan_Ground
+    {
+        mesh = WorldItems/Backpacks/ModularPack_Ground,
+        texture = Clothes/backpacks/ModularPackTan,
+    }
+
+    model ModularPackWhite_Ground
+    {
+        mesh = WorldItems/Backpacks/ModularPack_Ground,
+        texture = Clothes/backpacks/ModularPackWhite,
+    }
+
+    model ModularPackWoodland_Ground
+    {
+        mesh = WorldItems/Backpacks/ModularPack_Ground,
+        texture = Clothes/backpacks/ModularPackWoodland,
+    }
+
+    model ModularCanteenBlack
+    {
+        mesh = WorldItems/ModularCanteen,
+        texture = Clothes/backpacks/ModularPackExtrasBlack,
+    }
+
+    model ModularCanteenBlue
+    {
+        mesh = WorldItems/ModularCanteen,
+        texture = Clothes/backpacks/ModularPackExtrasBlue,
+    }
+
+    model ModularCanteenRed
+    {
+        mesh = WorldItems/ModularCanteen,
+        texture = Clothes/backpacks/ModularPackExtrasRed,
+    }
+
+    model ModularCanteenLeather
+    {
+        mesh = WorldItems/ModularCanteen,
+        texture = Clothes/backpacks/ModularPackExtrasLeather,
+    }
+
+    model ModularCanteenOlive
+    {
+        mesh = WorldItems/ModularCanteen,
+        texture = Clothes/backpacks/ModularPackExtrasOlive,
+    }
+
+    model ModularCanteenPink
+    {
+        mesh = WorldItems/ModularCanteen,
+        texture = Clothes/backpacks/ModularPackExtrasPink,
+    }
+
+    model ModularCanteenTan
+    {
+        mesh = WorldItems/ModularCanteen,
+        texture = Clothes/backpacks/ModularPackExtrasTan,
+    }
+
+    model ModularCanteenWhite
+    {
+        mesh = WorldItems/ModularCanteen,
+        texture = Clothes/backpacks/ModularPackExtrasWhite,
+    }
+
+    model ModularCanteenWoodland
+    {
+        mesh = WorldItems/ModularCanteen,
+        texture = Clothes/backpacks/ModularPackExtrasWoodland,
+    }
+
+    model ModularCanteenBlack_Ground
+    {
+        mesh = WorldItems/ModularCanteen_Ground,
+        texture = Clothes/backpacks/ModularPackExtrasBlack,
+    }
+
+    model ModularCanteenBlue_Ground
+    {
+        mesh = WorldItems/ModularCanteen_Ground,
+        texture = Clothes/backpacks/ModularPackExtrasBlue,
+    }
+
+    model ModularCanteenRed_Ground
+    {
+        mesh = WorldItems/ModularCanteen_Ground,
+        texture = Clothes/backpacks/ModularPackExtrasRed,
+    }
+
+    model ModularCanteenLeather_Ground
+    {
+        mesh = WorldItems/ModularCanteen_Ground,
+        texture = Clothes/backpacks/ModularPackExtrasLeather,
+    }
+
+    model ModularCanteenOlive_Ground
+    {
+        mesh = WorldItems/ModularCanteen_Ground,
+        texture = Clothes/backpacks/ModularPackExtrasOlive,
+    }
+
+    model ModularCanteenPink_Ground
+    {
+        mesh = WorldItems/ModularCanteen_Ground,
+        texture = Clothes/backpacks/ModularPackExtrasPink,
+    }
+
+    model ModularCanteenTan_Ground
+    {
+        mesh = WorldItems/ModularCanteen_Ground,
+        texture = Clothes/backpacks/ModularPackExtrasTan,
+    }
+
+    model ModularCanteenWhite_Ground
+    {
+        mesh = WorldItems/ModularCanteen_Ground,
+        texture = Clothes/backpacks/ModularPackExtrasWhite,
+    }
+
+    model ModularCanteenWoodland_Ground
+    {
+        mesh = WorldItems/ModularCanteen_Ground,
+        texture = Clothes/backpacks/ModularPackExtrasWoodland,
+    }
+
+    model ModularMedkitBlack_Ground
+    {
+        mesh = WorldItems/ModularMedKit,
+        texture = Clothes/backpacks/ModularPackExtrasBlack,
+    }
+
+    model ModularMedkitBlue_Ground
+    {
+        mesh = WorldItems/ModularMedKit,
+        texture = Clothes/backpacks/ModularPackExtrasBlue,
+    }
+
+    model ModularMedkitRed_Ground
+    {
+        mesh = WorldItems/ModularMedKit,
+        texture = Clothes/backpacks/ModularPackExtrasRed,
+    }
+
+    model ModularMedkitLeather_Ground
+    {
+        mesh = WorldItems/ModularMedKit,
+        texture = Clothes/backpacks/ModularPackExtrasLeather,
+    }
+
+    model ModularMedkitOlive_Ground
+    {
+        mesh = WorldItems/ModularMedKit,
+        texture = Clothes/backpacks/ModularPackExtrasOlive,
+    }
+
+    model ModularMedkitPink_Ground
+    {
+        mesh = WorldItems/ModularMedKit,
+        texture = Clothes/backpacks/ModularPackExtrasPink,
+    }
+
+    model ModularMedkitTan_Ground
+    {
+        mesh = WorldItems/ModularMedKit,
+        texture = Clothes/backpacks/ModularPackExtrasTan,
+    }
+
+    model ModularMedkitWhite_Ground
+    {
+        mesh = WorldItems/ModularMedKit,
+        texture = Clothes/backpacks/ModularPackExtrasWhite,
+    }
+
+    model ModularMedkitWoodland_Ground
+    {
+        mesh = WorldItems/ModularMedKit,
+        texture = Clothes/backpacks/ModularPackExtrasWoodland,
+    }
+
+    model ModularPackExtraBlack_Ground
+    {
+        mesh = WorldItems/ModularPackExtra,
+        texture = Clothes/backpacks/ModularPackExtrasBlack,
+    }
+
+    model ModularPackExtraBlue_Ground
+    {
+        mesh = WorldItems/ModularPackExtra,
+        texture = Clothes/backpacks/ModularPackExtrasBlue,
+    }
+
+    model ModularPackExtraRed_Ground
+    {
+        mesh = WorldItems/ModularPackExtra,
+        texture = Clothes/backpacks/ModularPackExtrasRed,
+    }
+
+    model ModularPackExtraLeather_Ground
+    {
+        mesh = WorldItems/ModularPackExtra,
+        texture = Clothes/backpacks/ModularPackExtrasLeather,
+    }
+
+    model ModularPackExtraOlive_Ground
+    {
+        mesh = WorldItems/ModularPackExtra,
+        texture = Clothes/backpacks/ModularPackExtrasOlive,
+    }
+
+    model ModularPackExtraPink_Ground
+    {
+        mesh = WorldItems/ModularPackExtra,
+        texture = Clothes/backpacks/ModularPackExtrasPink,
+    }
+
+    model ModularPackExtraTan_Ground
+    {
+        mesh = WorldItems/ModularPackExtra,
+        texture = Clothes/backpacks/ModularPackExtrasTan,
+    }
+
+    model ModularPackExtraWhite_Ground
+    {
+        mesh = WorldItems/ModularPackExtra,
+        texture = Clothes/backpacks/ModularPackExtrasWhite,
+    }
+
+    model ModularPackExtraWoodland_Ground
+    {
+        mesh = WorldItems/ModularPackExtra,
+        texture = Clothes/backpacks/ModularPackExtrasWoodland,
+    }
+
+    model BillsRangerBag_Ground
+    {
+        mesh = WorldItems/Backpacks/ModularPack_Ground,
+        texture = Clothes/backpacks/BillsRangerBag,
+    }
+
+    model PatchSpiffo
+    {
+        mesh = WorldItems/PatchCircle,
+        texture = Clothes/backpacks/PatchSpiffo,
+    }
+
+    model PatchZiffo
+    {
+        mesh = WorldItems/PatchSquare,
+        texture = Clothes/backpacks/PatchZiffo,
+    }
+
+    model PatchSkull
+    {
+        mesh = WorldItems/PatchCircle,
+        texture = Clothes/backpacks/PatchSkull,
+    }
+
+    model PatchParkRangers
+    {
+        mesh = WorldItems/PatchCircle,
+        texture = Clothes/backpacks/PatchParkRangers,
+    }
+
+    model PatchZombieHead
+    {
+        mesh = WorldItems/PatchSquare,
+        texture = Clothes/backpacks/PatchZombieHead,
+    }
+
+    model PatchMoneyBags
+    {
+        mesh = WorldItems/PatchSquare,
+        texture = Clothes/backpacks/PatchMoneyBags,
+    }
+
+    model PatchCat
+    {
+        mesh = WorldItems/PatchSquare,
+        texture = Clothes/backpacks/PatchCat,
+    }
+
+    model PatchLove
+    {
+        mesh = WorldItems/PatchSquare,
+        texture = Clothes/backpacks/PatchLove,
+    }
+
+    model PatchRainbow
+    {
+        mesh = WorldItems/PatchRectangle,
+        texture = Clothes/backpacks/PatchRainbow,
+    }
+
+    model PatchSmiley
+    {
+        mesh = WorldItems/PatchCircle,
+        texture = Clothes/backpacks/PatchSmiley,
+    }
+
+    model PatchPotLeaf
+    {
+        mesh = WorldItems/PatchSquare,
+        texture = Clothes/backpacks/PatchPotLeaf,
+    }
+
+    model PatchAlien
+    {
+        mesh = WorldItems/Patchsquare,
+        texture = Clothes/backpacks/PatchAlien,
+    }
+
+    model PatchBiohazard
+    {
+        mesh = WorldItems/PatchCircle,
+        texture = Clothes/backpacks/PatchBiohazard,
+    }
+
+    model PatchWasteland
+    {
+        mesh = WorldItems/PatchRectangle,
+        texture = Clothes/backpacks/PatchWasteland,
+    }
+
+    model PatchAnarchy
+    {
+        mesh = WorldItems/Patchsquare,
+        texture = Clothes/backpacks/PatchAnarchy,
+    }
+
+    model PatchDARE
+    {
+        mesh = WorldItems/PatchRectangle,
+        texture = Clothes/backpacks/PatchDARE,
+    }
+
+    model PatchSD
+    {
+        mesh = WorldItems/PatchCircle,
+        texture = Clothes/backpacks/PatchSD,
+    }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_HeartSunglasses</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_HeartSunglasses</m_FemaleModel>
+	<m_GUID>25c245b1-970b-4ced-a002-1c5b56fead32</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\HeartSunglasses1</textureChoices>
+	<textureChoices>clothes\glasses\HeartSunglasses2</textureChoices>
+	<textureChoices>clothes\glasses\HeartSunglasses3</textureChoices>
+	<textureChoices>clothes\glasses\HeartSunglasses4</textureChoices>
+</clothingItem>

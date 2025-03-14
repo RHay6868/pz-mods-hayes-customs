@@ -1,0 +1,158 @@
+module HCustoms
+{
+	/************************ SWAP BAGS ************************/
+
+	recipe Swap to Lite Version Graffiti
+  	{
+		Bag_EliteCombatMaxGraffiti,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatLiteGraffiti,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Graffiti
+  	{
+		Bag_EliteCombatLiteGraffiti,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatMaxGraffiti,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Retro
+  	{
+		Bag_EliteCombatMaxRetro,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatLiteRetro,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Retro
+  	{
+		Bag_EliteCombatLiteRetro,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatMaxRetro,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Sunrise
+  	{
+		Bag_EliteCombatMaxSunrise,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatLiteSunrise,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Sunrise
+  	{
+		Bag_EliteCombatLiteSunrise,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatMaxSunrise,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Celadon
+  	{
+		Bag_EliteCombatMaxCeladon,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatLiteCeladon,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Celadon
+  	{
+		Bag_EliteCombatLiteCeladon,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatMaxCeladon,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Gamboge
+  	{
+		Bag_EliteCombatMaxGamboge,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatLiteGamboge,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Gamboge
+  	{
+		Bag_EliteCombatLiteGamboge,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatMaxGamboge,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Watchet
+  	{
+		Bag_EliteCombatMaxWatchet,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatLiteWatchet,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Watchet
+  	{
+		Bag_EliteCombatLiteWatchet,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatMaxWatchet,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Laguna
+  	{
+		Bag_EliteCombatMaxLaguna,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatLiteLaguna,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Laguna
+  	{
+		Bag_EliteCombatLiteLaguna,
+
+		OnCreate:KeepContents,
+		Result:Bag_EliteCombatMaxLaguna,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+}

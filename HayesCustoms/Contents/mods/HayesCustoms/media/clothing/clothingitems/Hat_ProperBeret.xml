@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\Clothes\M_ProperBeret</m_MaleModel>
+	<m_FemaleModel>static\Clothes\F_ProperBeret</m_FemaleModel>
+	<m_GUID>b3bdf594-3125-410a-b9ba-4dc66987a95b</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\headwear\ProperBeret1</textureChoices>
+	<textureChoices>clothes\headwear\ProperBeret2</textureChoices>
+	<textureChoices>clothes\headwear\ProperBeret3</textureChoices>
+	<textureChoices>clothes\headwear\ProperBeret4</textureChoices>
+	<textureChoices>clothes\headwear\ProperBeret5</textureChoices>
+	<textureChoices>clothes\headwear\ProperBeret6</textureChoices>
+	<textureChoices>clothes\headwear\ProperBeret7</textureChoices>
+	<textureChoices>clothes\headwear\ProperBeret8</textureChoices>
+	<textureChoices>clothes\headwear\ProperBeret9</textureChoices>
+	<textureChoices>clothes\headwear\ProperBeret10</textureChoices>
+</clothingItem>

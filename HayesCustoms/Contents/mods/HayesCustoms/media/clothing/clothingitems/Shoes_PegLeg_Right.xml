@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\Clothes\M_PegLegRight.fbx</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\Clothes\F_PegLegRight.fbx</m_FemaleModel>
+	<m_GUID>0abd0fbc-9883-4d4f-b6cb-bc121e321c34</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>	
+	<m_Masks>8</m_Masks>
+	<m_Masks>10</m_Masks>
+	<m_Masks>9</m_Masks>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>Clothes\PegLegSingle</textureChoices>
+</clothingItem>

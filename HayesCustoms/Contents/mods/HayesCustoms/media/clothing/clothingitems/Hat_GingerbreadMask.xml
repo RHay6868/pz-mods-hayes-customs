@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_GingerbreadMask</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_GingerbreadMask</m_FemaleModel>
+	<m_GUID>47660cf5-e700-454d-b243-655358bb840d</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>|
+	<m_HatCategory>default</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\headwear\GingerbreadMask</textureChoices>
+</clothingItem>

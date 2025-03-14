@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_OracleFurCowlHood</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_OracleFurCowlHood</m_FemaleModel>
+	<m_GUID>a956ce1a-9605-4e5b-b3ce-d6f34c115623</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\OracleFurCowl</textureChoices>
+</clothingItem>

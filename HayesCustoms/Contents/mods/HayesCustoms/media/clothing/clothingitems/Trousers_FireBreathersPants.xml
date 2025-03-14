@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_FireBreathersPants</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_FireBreathersPants</m_FemaleModel>
+	<m_GUID>f02ed3a3-ea4b-4719-aa8a-a1fd417fd061</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>14</m_Masks>
+	<m_Masks>15</m_Masks>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\FireBreathersPants</textureChoices>
+</clothingItem>

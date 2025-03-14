@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_CazadorChest</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_CazadorChest</m_FemaleModel>
+	<m_GUID>d535c0c9-66cc-4a3d-81ad-f4961b8657a1</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>13</m_Masks>
+	<m_Masks>14</m_Masks>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\CazadorChest</textureChoices>
+</clothingItem>

@@ -1,0 +1,2891 @@
+module Base
+{
+    model Hat_SArmorHelmet_Ground
+    {
+        mesh = WorldItems/Clothing/SArmorHelmet_Ground,
+        texture = Clothes/SArmorHelmet,
+    }
+
+    model Hat_SArmorHelmet_Bag
+    {
+        mesh = WorldItems/Clothing/SArmorHelmet_Bag,
+        texture = Clothes/SArmorHelmet,
+    }
+
+    model SArmorTacticalBoots_Ground
+    {
+        mesh = WorldItems/Clothing/SArmorTacticalBoots_Ground,
+        texture = Clothes/SArmorBootsGloves,
+    }
+
+    model SArmorTacticalGloves_Ground
+    {
+        mesh = WorldItems/Clothing/SArmorTacticalGloves_Ground,
+        texture = Clothes/SArmorBootsGloves,
+    }
+
+    model SArmor_Ground
+    {
+        mesh = WorldItems/Clothing/SArmor_Ground,
+        texture = Clothes/SArmor,
+    }
+
+    model MFDoom_Ground
+    {
+        mesh = WorldItems/Clothing/MFDoom_Ground,
+        texture = Clothes/Headwear/MFDoom,
+    }
+
+    model MFDoomGold_Ground
+    {
+        mesh = WorldItems/Clothing/MFDoom_Ground,
+        texture = Clothes/Headwear/MFDoomGold,
+    }
+
+    model SakaiMask_Ground
+    {
+        mesh = WorldItems/Clothing/SakaiMask_Ground,
+        texture = Clothes/Headwear/SakaiMask,
+    }
+
+    model GuyFawkesMask_Ground
+    {
+        mesh = WorldItems/Clothing/GuyFawkesMask_Ground,
+        texture = Clothes/Headwear/GuyFawkesMask,
+    }
+
+    model JawBoneMask_Ground
+    {
+        mesh = WorldItems/Clothing/JawBoneMask_Ground,
+        texture = Clothes/Headwear/JawBoneMask,
+    }
+
+    model GasMaskPBF_Ground
+    {
+        mesh = WorldItems/Clothing/GasMaskPBF_Ground,
+    }
+
+    model GasMaskPPM88_Ground
+    {
+        mesh = WorldItems/Clothing/GasMaskPPM88_Ground,
+    }
+
+    model GasMaskPMK1_Ground
+    {
+        mesh = WorldItems/Clothing/GasMaskPMK1_Ground,
+    }
+
+    model GasMaskRebreather_Ground
+    {
+        mesh = WorldItems/Clothing/GasMaskRebreather_Ground,
+    }
+
+    model GasMaskPBF_Bag
+    {
+        mesh = WorldItems/Clothing/GasMaskPBF_Ground,
+        texture = Clothes/Headwear/GasMaskPBF,
+    }
+
+    model GasMaskPPM88_Bag
+    {
+        mesh = WorldItems/Clothing/GasMaskPPM88_Ground,
+        texture = Clothes/Headwear/GasMaskPPM88,
+    }
+
+    model GasMaskPMK1_Bag
+    {
+        mesh = WorldItems/Clothing/GasMaskPMK1_Ground,
+        texture = Clothes/Headwear/GasMaskPMK1,
+    }
+
+    model GasMaskRebreather_Bag
+    {
+        mesh = WorldItems/Clothing/GasMaskRebreather_Ground,
+        texture = Clothes/Headwear/GasMaskRebreather,
+    }
+
+    model CazadorBackpack_Ground
+    {
+        mesh = WorldItems/Backpacks/CazadorBackpack_Ground,
+        texture = Clothes/backpacks/CazadorBackpack,
+    }
+
+    model CazadorGasMask_Ground
+    {
+        mesh = WorldItems/Clothing/CazadorGasMask_Ground,
+        texture = Clothes/CazadorGasMask,
+    }
+
+    model CazadorHood_Ground
+    {
+        mesh = WorldItems/Clothing/CazadorHood_Ground,
+        texture = Clothes/CazadorHood,
+    }
+
+    model CazadorCoat_Ground
+    {
+        mesh = WorldItems/Clothing/CazadorCoat_Ground,
+        texture = Clothes/CazadorCoat,
+    }
+
+    model CazadorChest_Ground
+    {
+        mesh = WorldItems/Clothing/CazadorChest_Ground,
+        texture = Clothes/CazadorChest,
+    }
+
+    model CazadorPants_Ground
+    {
+        mesh = WorldItems/Clothing/CazadorPants_Ground,
+        texture = Clothes/CazadorPants,
+    }
+
+    model CazadorBoots_Ground
+    {
+        mesh = WorldItems/Clothing/CazadorBoots_Ground,
+        texture = Clothes/CazadorBoots,
+    }
+
+    model CazadorGloves_Ground
+    {
+        mesh = WorldItems/Clothing/CazadorGloves_Ground,
+        texture = Clothes/CazadorGloves,
+    }
+
+    model PaydayFlagMask_Ground
+    {
+        mesh = WorldItems/Clothing/PaydayFlagMask_Ground,
+        texture = Clothes/Headwear/PaydayFlagMask,
+    }
+
+    model PaydayFlagMask_Bag
+    {
+        mesh = WorldItems/Clothing/PaydayFlagMask_Ground,
+        texture = Clothes/Headwear/PaydayFlagMask,
+    }
+
+    model WeldingGoggles_Ground
+    {
+        mesh = WorldItems/Clothing/WeldingGoggles_Ground,
+        texture = Clothes/Headwear/WeldingGoggles,
+    }
+
+    model AbsolutistTrenchcoat_Ground
+    {
+        mesh = WorldItems/Clothing/AbsolutistTrenchcoat_Ground,
+        texture = Clothes/Headwear/AbsolutistTrenchcoat,
+    }
+
+    model AbsolutistTrenchcoatWidowmaker_Ground
+    {
+        mesh = WorldItems/Clothing/AbsolutistTrenchcoat_Ground,
+        texture = Clothes/AbsolutistTrenchcoatWidowmaker,
+    }
+
+    model AbsolutistTrenchcoatNightstalker_Ground
+    {
+        mesh = WorldItems/Clothing/AbsolutistTrenchcoat_Ground,
+        texture = Clothes/AbsolutistTrenchcoatNightstalker,
+    }
+
+    model AbsolutistTrenchcoatArctic_Ground
+    {
+        mesh = WorldItems/Clothing/AbsolutistTrenchcoat_Ground,
+        texture = Clothes/AbsolutistTrenchcoatArctic,
+    }
+
+    model RibbonHeadbandBlue_Ground
+    {
+        mesh = WorldItems/Clothing/RibbonHeadband_Ground,
+        texture = Clothes/Headwear/RibbonHeadbandBlue,
+    }
+
+    model RibbonHeadbandBlack_Ground
+    {
+        mesh = WorldItems/Clothing/RibbonHeadband_Ground,
+        texture = Clothes/Headwear/RibbonHeadbandBlack,
+    }
+
+    model RibbonHeadbandWhite_Ground
+    {
+        mesh = WorldItems/Clothing/RibbonHeadband_Ground,
+        texture = Clothes/Headwear/RibbonHeadbandWhite,
+    }
+
+    model RibbonHeadbandPink_Ground
+    {
+        mesh = WorldItems/Clothing/RibbonHeadband_Ground,
+        texture = Clothes/Headwear/RibbonHeadbandPink,
+    }
+
+    model LittleHatHeadbandRed_Ground
+    {
+        mesh = WorldItems/Clothing/LittleHatHeadband_Ground,
+        texture = Clothes/Headwear/LittleHatHeadbandRed,
+    }
+
+    model LittleHatHeadbandBlack_Ground
+    {
+        mesh = WorldItems/Clothing/LittleHatHeadband_Ground,
+        texture = Clothes/Headwear/LittleHatHeadbandBlack,
+    }
+
+    model HolidayTopHatRed_Ground
+    {
+        mesh = WorldItems/Clothing/HolidayTopHat_Ground,
+        texture = Clothes/Headwear/HolidayTopHatRed,
+    }
+
+    model HolidayTopHatBlack_Ground
+    {
+        mesh = WorldItems/Clothing/HolidayTopHat_Ground,
+        texture = Clothes/Headwear/HolidayTopHatBlack,
+    }
+
+    model WesternSheriffHatBrown_Ground
+    {
+        mesh = WorldItems/Clothing/WesternSheriffHat_Ground,
+        texture = Clothes/Headwear/WesternSheriffHatBrown,
+    }
+
+    model WesternSheriffHatBlack_Ground
+    {
+        mesh = WorldItems/Clothing/WesternSheriffHat_Ground,
+        texture = Clothes/Headwear/WesternSheriffHatBlack,
+    }
+
+    model SteampunkTopHat_Ground
+    {
+        mesh = WorldItems/Clothing/SteampunkTopHat_Ground,
+        texture = Clothes/Headwear/SteampunkTopHat,
+    }
+
+    model BuckleHat_Ground
+    {
+        mesh = WorldItems/Clothing/BuckleHat_Ground,
+        texture = Clothes/Headwear/BuckleHat,
+    }
+
+    model SpikedMask_Ground
+    {
+        mesh = WorldItems/Clothing/SpikedMask_Ground,
+        texture = Clothes/Headwear/SpikedMask,
+    }
+
+    model SpikedMaskWhite_Ground
+    {
+        mesh = WorldItems/Clothing/SpikedMask_Ground,
+        texture = Clothes/Headwear/SpikedMaskWhite,
+    }
+
+    model SpikedMaskPink_Ground
+    {
+        mesh = WorldItems/Clothing/SpikedMask_Ground,
+        texture = Clothes/Headwear/SpikedMaskPink,
+    }
+
+    model Monocle_Ground
+    {
+        mesh = WorldItems/Clothing/Monocle_Ground,
+        texture = Clothes/Headwear/Monocle,
+    }
+
+	model PZMagazine_Ground
+    {
+        mesh = WorldItems/Magazine,
+        texture = WorldItems/PZMagazine,
+        scale = 0.4,
+    }
+
+	model SArmorMagazine_Ground
+    {
+        mesh = WorldItems/Magazine,
+        texture = WorldItems/SArmorMagazine,
+        scale = 0.4,
+    }
+
+	model CazadorItemsMagazine_Ground
+    {
+        mesh = WorldItems/Magazine,
+        texture = WorldItems/CazadorItemsMagazine,
+        scale = 0.4,
+    }
+
+	model AbsolutistTrenchcoatsMagazine_Ground
+    {
+        mesh = WorldItems/Magazine,
+        texture = WorldItems/AbsolutistTrenchcoatsMagazine,
+        scale = 0.4,
+    }
+
+    model PipoysMagazine_Ground
+    {
+        mesh = WorldItems/Magazine,
+        texture = WorldItems/PZMagazine,
+        scale = 0.4,
+    }
+
+    model DunceCap_Ground
+   	 {
+      	mesh = WorldItems/Clothing/DunceCap_Ground,
+       	texture = Clothes/Headwear/DunceCap,
+        scale = 0.4,
+    }
+
+    model PiousMask_Ground
+    {
+        mesh = WorldItems/Clothing/PiousMask_Ground,
+        texture = Clothes/Headwear/PiousMask,
+    }
+
+
+    model JungleBird_Ground
+    {
+        mesh = WorldItems/Clothing/JungleBird_Ground,
+    }
+
+    model SpiffoSuitStitches_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes/SpiffoSuit/SpiffoSuitStitches,
+        scale = 0.4,
+    }
+
+    model SpiffoTailStitches_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes/SpiffoSuit/SpiffoSuitStitches,
+        scale = 0.4,
+    }
+
+    model WraithSuit_Ground
+    {
+        mesh = WorldItems/Clothing/WraithSuit_Ground,
+    }
+
+    model DarkFormSuit_Ground
+	{
+        mesh = WorldItems/Clothing/DarkFormSuit_Ground,
+	}	
+
+    model BigFootSuit_Ground
+    {
+        mesh = WorldItems/Clothing/BigFootSuit_Ground,
+        texture = Clothes/SpiffoSuit/BigFoot,
+    }
+
+    model BigFootHead_Ground
+    {
+        mesh = WorldItems/Clothing/BigFootHead_Ground,
+        texture = Clothes/Headwear/BigFootHead,
+    }
+
+    model PlateArmorGreaves_Ground
+    {
+        mesh = WorldItems/Clothing/PlateArmorGreaves_Ground,
+        texture = Clothes/PlateArmorGreaves,
+    }
+
+     model PlateArmorChausses_Ground
+    {
+        mesh = WorldItems/Clothing/PlateArmorChausses_Ground,
+        texture = Clothes/PlateArmorChausses,
+    }
+
+    model PlateArmorCuirass_Ground
+    {
+        mesh = WorldItems/Clothing/PlateArmorCuirass_Ground,
+        texture = Clothes/PlateArmorCuirass,
+    }
+
+    model PlateArmorBracers_Ground
+    {
+        mesh = WorldItems/Clothing/PlateArmorBracers_Ground,
+        texture = Clothes/PlateArmorBracers,
+    }
+
+    model PlateArmorHelm_Ground
+    {
+        mesh = WorldItems/Clothing/PlateArmorHelm_Ground,
+        texture = Clothes/PlateArmorHelm,
+    }
+
+    model HeadScarfFull_Ground
+    {
+        mesh = WorldItems/Clothing/HeadScarfFull_Ground,
+    }
+
+    model NeckGaiter_Ground
+    {
+        mesh = WorldItems/Clothing/NeckGaiter_Ground,
+    }
+
+    model ShemScarf_Ground
+    {
+        mesh = WorldItems/Clothing/ShemScarf_Ground,
+    }
+
+    model PandaKnitHat_Ground
+    {
+        mesh = WorldItems/Clothing/PandaKnitHat_Ground,
+        texture = Clothes/Headwear/PandaKnitHat,
+    }
+
+    model DavyCrockettHat_Ground
+    {
+        mesh = WorldItems/Clothing/DavyCrockettHat_Ground,
+        texture = Clothes/Headwear/DavyCrockettHat,
+    }
+
+    model IncognitoGlasses_Ground
+    {
+        mesh = WorldItems/Clothing/IncognitoGlasses_Ground,
+        texture = Clothes/Headwear/IncognitoGlasses,
+    }
+
+    model PlagueDoctorMask_Ground
+    {
+        mesh = WorldItems/Clothing/PlagueDoctorMask_Ground,
+        texture = Clothes/Headwear/PlagueDoctorMask,
+    }
+
+     model PaydaySokolMask_Ground
+    {
+        mesh = WorldItems/Clothing/PaydayMask_Ground,
+        texture = Clothes/Headwear/PaydaySokolMask,
+    }
+
+    model PaydayWolfMask_Ground
+    {
+        mesh = WorldItems/Clothing/PaydayMask_Ground,
+        texture = Clothes/Headwear/PaydayWolfMask,
+    }
+
+    model PaydayCrybabyMask_Ground
+    {
+        mesh = WorldItems/Clothing/PaydayMask_Ground,
+        texture = Clothes/Headwear/PaydayCrybabyMask,
+    }
+
+    model PaydayCloverMask_Ground
+    {
+        mesh = WorldItems/Clothing/PaydayMask_Ground,
+        texture = Clothes/Headwear/PaydayCloverMask,
+    }
+
+    model PaydayHoxtonMask_Ground
+    {
+        mesh = WorldItems/Clothing/PaydayMask_Ground,
+        texture = Clothes/Headwear/PaydayHoxtonMask,
+    }
+
+    model PaydayMrSinisterMask_Ground
+    {
+        mesh = WorldItems/Clothing/PaydayMask_Ground,
+        texture = Clothes/Headwear/PaydayMrSinisterMask,
+    }
+
+    model PaydaySydneyMask_Ground
+    {
+        mesh = WorldItems/Clothing/PaydaySydneyMask_Ground,
+        texture = Clothes/Headwear/PaydaySydneyMask,
+    }
+
+    model LegionMask_Ground
+    {
+        mesh = WorldItems/Clothing/LegionMask_Ground,
+        texture = Clothes/Headwear/LegionMask,
+    }
+
+    model MonkeyGlassesMask_Ground
+    {
+        mesh = WorldItems/Clothing/MonkeyGlassesMask_Ground,
+        texture = Clothes/Headwear/MonkeyGlassesMask,
+    }
+
+    model MonkeyBowMask_Ground
+    {
+        mesh = WorldItems/Clothing/MonkeyBowMask_Ground,
+        texture = Clothes/Headwear/MonkeyBowMask,
+    }
+
+    model EagleMask_Ground
+    {
+        mesh = WorldItems/Clothing/EagleMask_Ground,
+        texture = Clothes/Headwear/EagleMask,
+    }
+
+    model GingerbreadMask_Ground
+    {
+        mesh = WorldItems/Clothing/GingerbreadMask_Ground,
+        texture = Clothes/Headwear/GingerbreadMask,
+    }
+
+    model PenguinMask_Ground
+    {
+        mesh = WorldItems/Clothing/PenguinMask_Ground,
+        texture = Clothes/Headwear/PenguinMask,
+    }
+
+    model PigMask_Ground
+    {
+        mesh = WorldItems/Clothing/PigMask_Ground,
+        texture = Clothes/Headwear/PigMask,
+    }
+
+    model WolfMask_Ground
+    {
+        mesh = WorldItems/Clothing/WolfMask_Ground,
+        texture = Clothes/Headwear/WolfMask,
+    }
+
+    model SwanMask_Ground
+    {
+        mesh = WorldItems/Clothing/SwanMask_Ground,
+        texture = Clothes/Headwear/SwanMask,
+    }
+
+    model ZebraMask_Ground
+    {
+        mesh = WorldItems/Clothing/ZebraMask_Ground,
+        texture = Clothes/Headwear/ZebraMask,
+    }
+
+    model RabbitMask_Ground
+    {
+        mesh = WorldItems/Clothing/RabbitMask_Ground,
+        texture = Clothes/Headwear/RabbitMask,
+    }
+
+    model CobraMask_Ground
+    {
+        mesh = WorldItems/Clothing/CobraMask_Ground,
+        texture = Clothes/Headwear/CobraMask,
+    }
+
+    model BearMask_Ground
+    {
+        mesh = WorldItems/Clothing/BearMask_Ground,
+        texture = Clothes/Headwear/BearMask,
+    }
+
+    model UnicornMask_Ground
+    {
+        mesh = WorldItems/Clothing/UnicornMask_Ground,
+        texture = Clothes/Headwear/UnicornMask,
+    }
+
+    model OwlMask_Ground
+    {
+        mesh = WorldItems/Clothing/OwlMask_Ground,
+        texture = Clothes/Headwear/OwlMask,
+    }
+
+    model RatMask_Ground
+    {
+        mesh = WorldItems/Clothing/RatMask_Ground,
+        texture = Clothes/Headwear/RatMask,
+    }
+
+    model TigerMask_Ground
+    {
+        mesh = WorldItems/Clothing/TigerMask_Ground,
+        texture = Clothes/Headwear/TigerMask,
+    }
+
+    model SpikedHat_Ground
+    {
+        mesh = WorldItems/Clothing/SpikedHat_Ground,
+    }
+
+    model CampingKnitHat_Ground
+    {
+        mesh = WorldItems/Clothing/CampingKnitHat_Ground,
+    }
+
+    model CuddleTeamLeaderHelm_Ground
+    {
+        mesh = WorldItems/Clothing/CuddleTeamLeaderHelm_Ground,
+        texture = Clothes/Headwear/CuddleTeamLeaderHelm,
+    }
+
+	model ZiffoPlush
+	{
+		mesh = plushziffo,
+        texture = ZiffoTexture,
+        scale = 0.4,
+	}
+	
+	model ZiffoPlush_Static
+	{
+		mesh = plushziffo_static,
+        texture = ZiffoTexture,
+        scale = 0.4,
+	}
+
+	model GnomeAmericanPlush
+	{
+		mesh = plushgnomeamerican,
+        texture = GnomeAmericanTexture,
+        scale = 0.4,
+	}
+	
+	model GnomeAmericanPlush_Static
+	{
+		mesh = plushgnomeamerican_static,
+        texture = GnomeAmericanTexture,
+        scale = 0.4,
+	}
+
+	model ShredderPlush
+	{
+		mesh = plushShredder,
+        texture = ShredderTexture,
+        scale = 0.4,
+	}
+	
+	model ShredderPlush_Static
+	{
+		mesh = plushShredder_static,
+        texture = ShredderTexture,
+        scale = 0.4,
+	}
+
+	model SplinterPlush
+	{
+		mesh = plushSplinter,
+        texture = SplinterTexture,
+        scale = 0.4,
+	}
+	
+	model SplinterPlush_Static
+	{
+		mesh = plushSplinter_static,
+        texture = SplinterTexture,
+        scale = 0.4,
+	}
+
+	model LeonardoPlush
+	{
+		mesh = plushLeonardo,
+        texture = LeonardoTexture,
+        scale = 0.4,
+	}
+
+	model LeonardoPlush_Static
+	{
+		mesh = plushLeonardo_static,
+        texture = LeonardoTexture,
+        scale = 0.4,
+	}
+
+	model RaphaelPlush
+	{
+		mesh = plushRaphael,
+        texture = RaphaelTexture,
+        scale = 0.4,
+	}
+
+	model RaphaelPlush_Static
+	{
+		mesh = plushRaphael_static,
+        texture = RaphaelTexture,
+        scale = 0.4,
+	}
+
+	model DonatelloPlush
+	{
+		mesh = plushDonatello,
+        texture = DonatelloTexture,
+        scale = 0.4,
+	}
+
+	model DonatelloPlush_Static
+	{
+		mesh = plushDonatello_static,
+        texture = DonatelloTexture,
+        scale = 0.4,
+	}
+
+	model MichelangeloPlush
+	{
+		mesh = plushMichelangelo,
+        texture = MichelangeloTexture,
+        scale = 0.4,
+	}
+
+	model MichelangeloPlush_Static
+	{
+		mesh = plushMichelangelo_static,
+        texture = MichelangeloTexture,
+        scale = 0.4,
+	}
+
+    model PinkKittenPlush
+	{
+		mesh = plushPinkKitten,
+        texture = PinkKittenTexture,
+        scale = 0.4,
+	}
+
+	model PinkKittenPlush_Static
+	{
+		mesh = plushPinkKitten_static,
+        texture = PinkKittenTexture,
+        scale = 0.4,
+	}
+
+	model FloppyPlush
+	{
+		mesh = plushfloppy,
+        	texture = FloppyTexture,
+        	scale = 0.4,
+	}
+
+	model FloppyPlush_Static
+	{
+		mesh = plushfloppy_static,
+        	texture = FloppyTexture,
+        	scale = 0.4,
+	}
+
+    model GoatPlush
+	{
+		mesh = plushGoat,
+        	texture = GoatTexture,
+        	scale = 0.4,
+	}
+
+	model GoatPlush_Static
+	{
+		mesh = plushGoat_static,
+        	texture = GoatTexture,
+        	scale = 0.4,
+	}
+	
+	model UnicornPlush
+	{
+		mesh = plushUnicorn,
+        	texture = UnicornTexture,
+        	scale = 0.4,
+	}
+
+	model UnicornPlush_Static
+	{
+		mesh = plushUnicorn_static,
+        	texture = UnicornTexture,
+        	scale = 0.4,
+	}
+
+	model TurtlePlush
+	{
+		mesh = plushTurtle,
+        	texture = TurtleTexture,
+        	scale = 0.4,
+	}
+
+	model TurtlePlush_Static
+	{
+		mesh = plushTurtle_static,
+        	texture = TurtleTexture,
+        	scale = 0.4,
+	}
+
+	model OtterPlush
+	{
+		mesh = plushOtter,
+        	texture = OtterTexture,
+        	scale = 0.4,
+	}
+
+	model OtterPlush_Static
+	{
+		mesh = plushOtter_static,
+        	texture = OtterTexture,
+        	scale = 0.4,
+	}
+
+	model Porg1Plush
+	{
+		mesh = plushporg,
+        	texture = Porg1Texture,
+        	scale = 0.4,
+	}
+
+	model Porg1Plush_Static
+	{
+		mesh = plushporg_static,
+        	texture = Porg1Texture,
+        	scale = 0.4,
+	}
+
+	model Porg2Plush
+	{
+		mesh = plushporg,
+        	texture = Porg2Texture,
+        	scale = 0.4,
+	}
+
+	model Porg2Plush_Static
+	{
+		mesh = plushporg_static,
+        	texture = Porg2Texture,
+        	scale = 0.4,
+	}
+
+	model Ewok1Plush
+	{
+		mesh = plushewok,
+        	texture = Ewok1Texture,
+        	scale = 0.4,
+	}
+
+	model Ewok1Plush_Static
+	{
+		mesh = plushewok_static,
+        	texture = Ewok1Texture,
+        	scale = 0.4,
+	}
+
+	model Ewok2Plush
+	{
+		mesh = plushewok,
+        	texture = Ewok2Texture,
+        	scale = 0.4,
+	}
+
+	model Ewok2Plush_Static
+	{
+		mesh = plushewok_static,
+        	texture = Ewok2Texture,
+        	scale = 0.4,
+	}
+
+	model MikeWazowskiPlush
+	{
+		mesh = plushMikeWazowski,
+        	texture = MikeWazowskiTexture,
+        	scale = 0.4,
+	}
+
+	model MikeWazowskiPlush_Static
+	{
+		mesh = plushMikeWazowski_static,
+        	texture = MikeWazowskiTexture,
+        	scale = 0.4,
+	}
+
+	model SullyPlush
+	{
+		mesh = plushSully,
+        	texture = SullyTexture,
+        	scale = 0.4,
+	}
+
+	model SullyPlush_Static
+	{
+		mesh = plushSully_static,
+        	texture = SullyTexture,
+        	scale = 0.4,
+	}
+
+	model StitchPlush
+	{
+		mesh = plushStitch,
+        	texture = StitchTexture,
+        	scale = 0.4,
+	}
+
+	model StitchPlush_Static
+	{
+		mesh = plushStitch_static,
+        	texture = StitchTexture,
+        	scale = 0.4,
+	}
+
+	model HexDollPlush
+	{
+		mesh = plushHexDoll,
+        	texture = HexDollTexture,
+        	scale = 0.4,
+	}
+
+	model HexDollPlush_Static
+	{
+		mesh = plushHexDoll_static,
+        	texture = HexDollTexture,
+        	scale = 0.4,
+	}
+
+	model MurderMonkeyPlush
+	{
+		mesh = plushMurderMonkey,
+        	texture = MurderMonkeyTexture,
+        	scale = 0.4,
+	}
+
+	model MurderMonkeyPlush_Static
+	{
+		mesh = plushMurderMonkey_static,
+        	texture = MurderMonkeyTexture,
+        	scale = 0.4,
+	}
+
+	model PuarPlush
+	{
+		mesh = plushPuar,
+        	texture = PuarTexture,
+        	scale = 0.4,
+	}
+
+	model PuarPlush_Static
+	{
+		mesh = plushPuar_static,
+        	texture = PuarTexture,
+        	scale = 0.4,
+	}
+
+	model PiranhaPlush
+	{
+		mesh = plushPiranha,
+        	texture = PiranhaTexture,
+        	scale = 0.4,
+	}
+
+	model PiranhaPlush_Static
+	{
+		mesh = plushPiranha_static,
+        	texture = PiranhaTexture,
+        	scale = 0.4,
+	}
+
+    model DarthVaderPlush
+	{
+		mesh = plushdarthvader,
+        	texture = DarthVaderTexture,
+        	scale = 0.4,
+	}
+	
+	model DarthVaderPlush_Static
+	{
+		mesh = plushdarthvader_static,
+        	texture = DarthVaderTexture,
+        	scale = 0.4,
+	}
+
+    model OptimusPrimePlush
+	{
+		mesh = plushOptimusPrime,
+        	texture = OptimusPrimeTexture,
+        	scale = 0.4,
+	}
+
+	model OptimusPrimePlush_Static
+	{
+		mesh = plushOptimusPrime_static,
+        	texture = OptimusPrimeTexture,
+        	scale = 0.4,
+	}
+
+	model MegatronPlush
+	{
+		mesh = plushMegatron,
+        	texture = MegatronTexture,
+        	scale = 0.4,
+	}
+
+	model MegatronPlush_Static
+	{
+		mesh = plushMegatron_static,
+        	texture = MegatronTexture,
+        	scale = 0.4,
+	}
+
+	model DeadpoolPlush
+	{
+		mesh = plushDeadpool,
+        	texture = DeadpoolTexture,
+        	scale = 0.4,
+	}
+	
+	model DeadpoolPlush_Static
+	{
+		mesh = plushDeadpool_static,
+        	texture = DeadpoolTexture,
+        	scale = 0.4,
+	}
+
+	model SpongebobPlush
+	{
+		mesh = plushSpongebob,
+        	texture = SpongebobTexture,
+        	scale = 0.4,
+	}
+	
+	model SpongebobPlush_Static
+	{
+		mesh = plushSpongebob_static,
+        	texture = SpongebobTexture,
+        	scale = 0.4,
+	}
+
+	model PatrickStarPlush
+	{
+		mesh = plushPatrickStar,
+        	texture = PatrickStarTexture,
+        	scale = 0.4,
+	}
+	
+	model PatrickStarPlush_Static
+	{
+		mesh = plushPatrickStar_static,
+        	texture = PatrickStarTexture,
+        	scale = 0.4,
+	}
+
+	model SquidwardPlush
+	{
+		mesh = plushSquidward,
+        	texture = SquidwardTexture,
+        	scale = 0.4,
+	}
+	
+	model SquidwardPlush_Static
+	{
+		mesh = plushSquidward_static,
+        	texture = SquidwardTexture,
+        	scale = 0.4,
+	}
+
+	model MrKrabsPlush
+	{
+		mesh = plushMrKrabs,
+        	texture = MrKrabsTexture,
+        	scale = 0.4,
+	}
+	
+	model MrKrabsPlush_Static
+	{
+		mesh = plushMrKrabs_static,
+        	texture = MrKrabsTexture,
+        	scale = 0.4,
+	}
+
+    model YetiSuit_Ground
+    {
+        mesh = WorldItems/Clothing/BigFootSuit_Ground,
+        texture = Clothes/SpiffoSuit/Yeti,
+    }
+
+    model YetiHead_Ground
+    {
+        mesh = WorldItems/Clothing/BigFootHead_Ground,
+        texture = Clothes/Headwear/YetiHead,
+    }
+
+    model BearSkinRug_Ground
+    {
+        mesh    =   WorldItems/BearSkinRug,
+        texture =   BearSkinRug,
+    }
+
+    model StuffedDuck_Ground
+    {
+        mesh    =   WorldItems/StuffedDuck,
+        texture =   StuffedDuck,
+    }
+
+    model StuffedPeacock_Ground
+    {
+        mesh    =   WorldItems/StuffedPeacock,
+        texture =   StuffedPeacock,
+    }
+
+        model GunRunnersBalaclava_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersBalaclava_Ground,
+        texture =   Clothes/GunRunnersHelmet,
+    }
+
+    model GunRunnersBallisticMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersBallisticMask_Ground,
+        texture =   Clothes/GunRunnersBallisticMask,
+    }
+
+    model GunRunnersHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersHelmet_Ground,
+        texture =   Clothes/GunRunnersHelmet,
+    }
+
+    model GunRunnersHelmet_Bag
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersHelmet_Bag,
+        texture =   Clothes/GunRunnersHelmet,
+    }
+
+    model GunRunnersVest_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersVest_Ground,
+        texture =   Clothes/GunRunnersOutfit,
+    }
+
+    model GunRunnersShirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersShirt_Ground,
+        texture =   Clothes/GunRunnersOutfit,
+    }
+
+    model GunRunnersPants_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersPants_Ground,
+        texture =   Clothes/GunRunnersOutfit,
+    }
+
+    model GunRunnersShoes_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersShoes_Ground,
+        texture =   Clothes/GunRunnersOutfit,
+    }
+
+    model GunRunnersGloves_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersGloves_Ground,
+        texture =   Clothes/GunRunnersOutfit,
+    }
+
+    model GunRunnersHolster_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersHolster_Ground,
+        texture =   Clothes/GunRunnersOutfit,
+    }
+
+    model GunRunnersHolsterDouble_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersHolsterDouble_Ground,
+        texture =   Clothes/GunRunnersOutfit,
+    }
+
+    model GunRunnersWatch_Ground
+    {
+        mesh    =   WorldItems/Clothing/GunRunnersWatch_Ground,
+        texture =   Clothes/GunRunnersOutfit,
+    }
+
+    model OracleSkullMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/OracleSkullMask_Ground,
+        texture =   Clothes/OracleSkullMask,
+    }
+
+    model Zoidbag
+	{
+        mesh    =   WorldItems/Zoidbag_WI,
+        texture =   WorldItems/Bag_Zoidbag,
+		scale = 1.0,
+	}
+
+        model OracleBoots_Ground
+    {
+        mesh    =   WorldItems/Clothing/OracleBoots_Ground,
+        texture =   Clothes/OracleBoots,
+    }
+
+    model OracleFurSkirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/OracleFurSkirt_Ground,
+        texture =   Clothes/OracleFurSkirt,
+    }
+
+    model OracleGloves_Ground
+    {
+        mesh    =   WorldItems/Clothing/OracleGloves_Ground,
+        texture =   Clothes/OracleGloves,
+    }
+
+    model OracleShirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/OracleShirt_Ground,
+        texture =   Clothes/OracleShirt,
+    }
+
+    model OracleBodyCape_Ground
+     {
+        mesh    =   WorldItems/Clothing/OracleBodyCape_Ground,
+        texture =   Clothes/OracleBodyCape,
+    }
+
+    model OracleFurCowl_Ground
+    {
+        mesh    =   WorldItems/Clothing/OracleFurCowl_Ground,
+        texture =   Clothes/OracleFurCowl,
+    }
+
+    model OracleBelt_Ground
+    {
+        mesh    =   WorldItems/Clothing/OracleBelt_Ground,
+        texture =   Clothes/OracleBelt,
+    }
+
+    model DropLegBlack_Ground
+    {
+        mesh    =   WorldItems/Clothing/DropLeg_Ground,
+        texture =   Clothes/backpacks/DropLegBlack,
+    }
+
+    model DropLegBlue_Ground
+    {
+        mesh    =   WorldItems/Clothing/DropLeg_Ground,
+        texture =   Clothes/backpacks/DropLegBlue,
+    }
+
+    model DropLegRed_Ground
+    {
+        mesh    =   WorldItems/Clothing/DropLeg_Ground,
+        texture =   Clothes/backpacks/DropLegRed,
+    }
+
+    model DropLegOlive_Ground
+    {
+        mesh    =   WorldItems/Clothing/DropLeg_Ground,
+        texture =   Clothes/backpacks/DropLegOlive,
+    }
+
+    model DropLegTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/DropLeg_Ground,
+        texture =   Clothes/backpacks/DropLegTan,
+    }
+
+    model DropLegWoodland_Ground
+    {
+        mesh    =   WorldItems/Clothing/DropLeg_Ground,
+        texture =   Clothes/backpacks/DropLegWoodland,
+    }
+
+    model DropLegPink_Ground
+    {
+        mesh    =   WorldItems/Clothing/DropLeg_Ground,
+        texture =   Clothes/backpacks/DropLegPink,
+    }
+
+    model DropLegLeather_Ground
+    {
+        mesh    =   WorldItems/Clothing/DropLeg_Ground,
+        texture =   Clothes/backpacks/DropLegLeather,
+    }
+
+    model DropLegWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/DropLeg_Ground,
+        texture =   Clothes/backpacks/DropLegWhite,
+    }
+
+    model DropLegZoidberg_Ground
+    {
+        mesh    =   WorldItems/Clothing/DropLeg_Ground,
+        texture =   Clothes/backpacks/DropLegZoidberg,
+    }
+
+    model TaskForceBallisticMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceBallisticMask_Ground,
+        texture =   Clothes/TaskForceBallisticMask,
+    }
+
+    model TaskForceHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceHelmet_Ground,
+        texture =   Clothes/TaskForceHelmet,
+    }
+
+    model TaskForceGoggles_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceGoggles_Ground,
+        texture =   Clothes/TaskForceGoggles,
+    }
+
+    model TaskForceBoots_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceBoots_Ground,
+        texture =   Clothes/TaskForceBoots,
+    }
+
+    model TaskForcePants_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForcePants_Ground,
+        texture =   Clothes/TaskForcePants,
+    }
+
+    model TaskForceShirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceShirt_Ground,
+        texture =   Clothes/TaskForceShirt,
+    }
+
+    model TaskForceVest_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceVest_Ground,
+        texture =   Clothes/TaskForceVest,
+    }
+
+    model TaskForceBelt_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceBelt_Ground,
+        texture =   Clothes/TaskForceBelt,
+    }
+
+    model TaskForceHolster_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceHolster_Ground,
+        texture =   Clothes/TaskForceHolster,
+    }
+
+    model TaskForceDropLeg_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceDropLeg_Ground,
+        texture =   Clothes/backpacks/TaskForceDropLeg,
+    }
+
+    model TaskForceChestAttachments_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceChestAttachments_Ground,
+        texture =   Clothes/backpacks/TaskForceChestAttachments,
+    }
+
+    model TaskForceGloves_Ground
+    {
+        mesh    =   WorldItems/Clothing/TaskForceGloves_Ground,
+        texture =   Clothes/TaskForceGloves,
+    }
+
+    model WolfSkullMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/WolfSkullMask_Ground,
+        texture =   Clothes/WolfSkullMask,
+    }
+
+    model CougarSkullMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/CougarSkullMask_Ground,
+        texture =   Clothes/CougarSkullMask,
+    }
+
+    model RamSkullMask_Ground
+     {
+        mesh    =   WorldItems/Clothing/RamSkullMask_Ground,
+        texture =   Clothes/RamSkullMask,
+    }
+    
+    model BearSkullMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/BearSkullMask_Ground,
+        texture =   Clothes/BearSkullMask,
+    }
+
+    model FireBreathersPants_Ground
+    {
+        mesh    =   WorldItems/Clothing/FireBreathersPants_Ground,
+        texture =   Clothes/FireBreathersPants,
+    }
+
+    model FireBreathersBoots_Ground
+    {
+        mesh    =   WorldItems/Clothing/FireBreathersBoots_Ground,
+        texture =   Clothes/FireBreathersBoots,
+    }
+
+    model FireBreathersGloves_Ground
+    {
+        mesh    =   WorldItems/Clothing/FireBreathersGloves_Ground,
+        texture =   Clothes/FireBreathersGloves,
+    }
+
+    model FireBreathersJacket_Ground
+    {
+        mesh    =   WorldItems/Clothing/FireBreathersJacket_Ground,
+        texture =   Clothes/FireBreathersJacket,
+    }
+
+    model FireBreathersHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/FireBreathersHelmet_Ground,
+        texture =   Clothes/FireBreathersHelmet,
+    }
+
+    model FireBreathersPack_Ground
+    {
+        mesh    =   WorldItems/Backpacks/FireBreathersPack_Ground,
+        texture =   Clothes/backpacks/FireBreathersPack,
+    }
+
+    model FireBreathersMagazine_Ground
+    {
+        mesh    =   WorldItems/Magazine,
+        texture =   WorldItems/FireBreathersMagazine,
+        scale   =   0.4,
+    }
+
+    model WastelandAegisChest_Ground
+    {
+        mesh    =   WorldItems/Clothing/AegisChest_Ground,
+        texture =   Clothes/WastelandAegisChest,
+    }
+
+    model WastelandAegisPants_Ground
+    {
+        mesh    =   WorldItems/Clothing/AegisPants_Ground,
+        texture =   Clothes/WastelandAegisPants,
+    }
+
+    model WastelandAegisBoots_Ground
+    {
+        mesh    =   WorldItems/Clothing/AegisBoots_Ground,
+        texture =   Clothes/WastelandAegisBoots,
+    }
+
+    model WastelandAegisGloves_Ground
+    {
+        mesh    =   WorldItems/Clothing/AegisGloves_Ground,
+        texture =   Clothes/WastelandAegisGloves,
+    }
+
+    model WastelandAegisGasMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/AegisGasMask_Ground,
+        texture =   Clothes/WastelandAegisGasMask,
+    }
+
+    model WastelandAegisBackpack_Ground
+    {
+        mesh    =   WorldItems/Backpacks/AegisBackpack_Ground,
+        texture =   Clothes/backpacks/WastelandAegisBackpack,
+    }
+
+    model SundayBestBoots_Ground
+    {
+        mesh    =   WorldItems/Clothing/SundayBestBoots_Ground,
+        texture =   Clothes/SundayBestBoots,
+    }
+
+    model SundayBestPants_Ground
+    {
+        mesh    =   WorldItems/Clothing/SundayBestPants_Ground,
+        texture =   Clothes/SundayBestPants,
+    }
+
+    model SundayBestChestArmor_Ground
+    {
+        mesh    =   WorldItems/Clothing/SundayBestChestArmor_Ground,
+        texture =   Clothes/SundayBestChestArmor,
+    }
+
+    model SundayBestDuster_Ground
+    {
+        mesh    =   WorldItems/Clothing/SundayBestDuster_Ground,
+        texture =   Clothes/SundayBestDuster,
+    }
+
+    model SundayBestPauldrons_Ground
+    {
+        mesh    =   WorldItems/Clothing/SundayBestPauldrons_Ground,
+        texture =   Clothes/SundayBestPauldrons,
+    }
+
+    model SundayBestKneePads_Ground
+    {
+        mesh    =   WorldItems/Clothing/SundayBestKneePads_Ground,
+        texture =   Clothes/SundayBestPants,
+    }
+
+    model SundayBestGloves_Ground
+    {
+        mesh    =   WorldItems/Clothing/SundayBestGloves_Ground,
+        texture =   Clothes/SundayBestGloves,
+    }
+
+    model SundayBestHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/SundayBestHelmet_Ground,
+        texture =   Clothes/SundayBestHelmet,
+    }
+
+    model EliteCombatGasMaskBlush_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatGasMask_Ground,
+        texture =   Clothes/EliteCombatGasMaskBlush,
+    }
+
+    model EliteCombatHelmetBlush_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatHelmet_Ground,
+        texture =   Clothes/EliteCombatHelmetBlush,
+    }
+
+    model EliteCombatShirtBlush_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatShirt_Ground,
+        texture =   Clothes/EliteCombatShirtBlush,
+    }
+
+    model EliteCombatVestBlush_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatVest_Ground,
+        texture =   Clothes/EliteCombatVestBlush,
+    }
+
+    model EliteCombatPantsBlush_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatPants_Ground,
+        texture =   Clothes/EliteCombatPantsBlush,
+    }
+
+    model EliteCombatBootsBlush_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatBoots_Ground,
+        texture =   Clothes/EliteCombatBootsBlush,
+    }
+
+    model EliteCombatGasMaskTranquil_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatGasMask_Ground,
+        texture =   Clothes/EliteCombatGasMaskTranquil,
+    }
+
+    model EliteCombatHelmetTranquil_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatHelmet_Ground,
+        texture =   Clothes/EliteCombatHelmetTranquil,
+    }
+
+    model EliteCombatShirtTranquil_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatShirt_Ground,
+        texture =   Clothes/EliteCombatShirtTranquil,
+    }
+
+    model EliteCombatVestTranquil_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatVest_Ground,
+        texture =   Clothes/EliteCombatVestTranquil,
+    }
+
+    model EliteCombatPantsTranquil_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatPants_Ground,
+        texture =   Clothes/EliteCombatPantsTranquil,
+    }
+
+    model EliteCombatBootsTranquil_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatBoots_Ground,
+        texture =   Clothes/EliteCombatBootsTranquil,
+    }
+
+    model EliteCombatGasMaskAmber_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatGasMask_Ground,
+        texture =   Clothes/EliteCombatGasMaskAmber,
+    }
+
+    model EliteCombatHelmetAmber_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatHelmet_Ground,
+        texture =   Clothes/EliteCombatHelmetAmber,
+    }
+
+    model EliteCombatShirtAmber_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatShirt_Ground,
+        texture =   Clothes/EliteCombatShirtAmber,
+    }
+
+    model EliteCombatVestAmber_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatVest_Ground,
+        texture =   Clothes/EliteCombatVestAmber,
+    }
+
+    model EliteCombatPantsAmber_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatPants_Ground,
+        texture =   Clothes/EliteCombatPantsAmber,
+    }
+
+    model EliteCombatBootsAmber_Ground
+    {
+        mesh    =   WorldItems/Clothing/EliteCombatBoots_Ground,
+        texture =   Clothes/EliteCombatBootsAmber,
+    }
+
+    model GloveAsh_Ground
+    {
+        mesh    =   WorldItems/Clothing/GloveAsh_Ground,
+        texture =   Clothes/GloveAsh,
+    }
+
+    model StayPuftSuit_Ground
+    {
+        mesh = WorldItems/Clothing/StayPuftSuit_Ground,
+        texture = Clothes/SpiffoSuit/StayPuft,
+    }
+
+    model StayPuftHead_Ground
+    {
+        mesh = WorldItems/Clothing/StayPuftHead_Ground,
+        texture = Clothes/SpiffoSuit/StayPuft,
+    }
+
+    model GenkiSuit_Ground
+    {
+        mesh = WorldItems/Clothing/GenkiSuit_Ground,
+        texture = Clothes/SpiffoSuit/Genki,
+    }
+
+    model GenkiHead_Ground
+    {
+        mesh = WorldItems/Clothing/GenkiHead_Ground,
+        texture = Clothes/SpiffoSuit/Genki,
+    }
+
+    model MannequinFemaleBlack
+    {
+        mesh = WorldItems/Clothing/MannequinFemale_Ground,
+        texture = Clothes/SpiffoSuit/MannequinFemaleBlack,
+    }
+
+    model MannequinMaleBlack
+    {
+        mesh = WorldItems/Clothing/MannequinMale_Ground,
+        texture = Clothes/SpiffoSuit/MannequinMaleBlack,
+    }
+
+    model MannequinFemaleWhite
+    {
+        mesh = WorldItems/Clothing/MannequinFemale_Ground,
+        texture = Clothes/SpiffoSuit/MannequinFemaleWhite,
+    }
+
+    model MannequinMaleWhite
+    {
+        mesh = WorldItems/Clothing/MannequinMale_Ground,
+        texture = Clothes/SpiffoSuit/MannequinMaleWhite,
+    }
+
+    model MannequinFemaleScarecrow
+    {
+        mesh = WorldItems/Clothing/MannequinFemale_Ground,
+        texture = Clothes/SpiffoSuit/ScarecrowFemale,
+    }
+
+    model MannequinMaleScarecrow
+    {
+        mesh = WorldItems/Clothing/MannequinMale_Ground,
+        texture = Clothes/SpiffoSuit/ScarecrowMale,
+    }
+
+    model MannequinFemaleGreen
+    {
+        mesh = WorldItems/Clothing/MannequinFemale_Ground,
+        texture = Clothes/SpiffoSuit/MannequinFemaleGreen,
+    }
+
+    model MannequinMaleGreen
+    {
+        mesh = WorldItems/Clothing/MannequinMale_Ground,
+        texture = Clothes/SpiffoSuit/MannequinMaleGreen,
+    }
+
+    model MaxsonBattlecoat_Ground
+    {
+        mesh    =   WorldItems/Clothing/MaxsonBattlecoat_Ground,
+        texture =   Clothes/MaxsonBattlecoat,
+    }
+
+    model ScrapHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/ScrapHelmet_Ground,
+        texture =   Clothes/ScrapHelmet,
+    }
+
+    model ScrapPants_Ground
+    {
+        mesh    =   WorldItems/Clothing/ScrapPants_Ground,
+        texture =   Clothes/ScrapPants,
+    }
+
+    model ScrapBoots_Ground
+    {
+        mesh    =   WorldItems/Clothing/ScrapBoots_Ground,
+        texture =   Clothes/ScrapBoots,
+    }
+
+    model ScrapGloves_Ground
+    {
+        mesh    =   WorldItems/Clothing/ScrapGloves_Ground,
+        texture =   Clothes/ScrapGloves,
+    }
+
+    model ScrapShirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/ScrapShirt_Ground,
+        texture =   Clothes/ScrapShirt,
+    }
+
+    model ScrapArmor_Ground
+    {
+        mesh    =   WorldItems/Clothing/ScrapArmor_Ground,
+        texture =   Clothes/ScrapArmor,
+    }
+
+    model ManhunterHatBone_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Ground,
+        texture =   Clothes/ManhunterBoneMore,
+    }
+
+    model ManhunterHatBone_Bag
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Bag,
+        texture =   Clothes/ManhunterBoneMore,
+    }
+
+    model ManhunterGasMaskBone_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGasMask_Ground,
+        texture =   Clothes/ManhunterBoneMore,
+    }
+
+    model ManhunterVestBone_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterVest_Ground,
+        texture =   Clothes/ManhunterBoneMore,
+    }
+
+    model ManhunterShirtBone_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterShirt_Ground,
+        texture =   Clothes/ManhunterBone,
+    }
+
+    model ManhunterPantsBone_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterPants_Ground,
+        texture =   Clothes/ManhunterBone,
+    }
+
+    model ManhunterGlovesBone_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGloves_Ground,
+        texture =   Clothes/ManhunterBoneMore,
+    }
+
+    model ManhunterBootsBone_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBoots_Ground,
+        texture =   Clothes/ManhunterBoneBoots,
+    }
+
+    model ManhunterBeltBone_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBelt_Ground,
+        texture =   Clothes/ManhunterBone,
+    }
+
+    model ManhunterHolsterBone_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHolster_Ground,
+        texture =   Clothes/ManhunterBoneCoat,
+    }
+
+    model ManhunterCoatBone_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterCoat_Ground,
+        texture =   Clothes/ManhunterBoneCoat,
+    }
+
+    model ManhunterHatUlysses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Ground,
+        texture =   Clothes/ManhunterUlyssesMore,
+    }
+
+    model ManhunterHatUlysses_Bag
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Bag,
+        texture =   Clothes/ManhunterUlyssesMore,
+    }
+
+    model ManhunterGasMaskUlysses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGasMask_Ground,
+        texture =   Clothes/ManhunterUlyssesMore,
+    }
+
+    model ManhunterVestUlysses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterVest_Ground,
+        texture =   Clothes/ManhunterUlyssesMore,
+    }
+
+    model ManhunterShirtUlysses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterShirt_Ground,
+        texture =   Clothes/ManhunterUlysses,
+    }
+
+    model ManhunterPantsUlysses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterPants_Ground,
+        texture =   Clothes/ManhunterUlysses,
+    }
+
+    model ManhunterGlovesUlysses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGloves_Ground,
+        texture =   Clothes/ManhunterUlyssesMore,
+    }
+
+    model ManhunterBootsUlysses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBoots_Ground,
+        texture =   Clothes/ManhunterUlyssesBoots,
+    }
+
+    model ManhunterBeltUlysses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBelt_Ground,
+        texture =   Clothes/ManhunterUlysses,
+    }
+
+    model ManhunterHolsterUlysses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHolster_Ground,
+        texture =   Clothes/ManhunterUlyssesCoat,
+    }
+
+    model ManhunterCoatUlysses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterCoat_Ground,
+        texture =   Clothes/ManhunterUlyssesCoat,
+    }
+
+    model ManhunterHatNCR_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Ground,
+        texture =   Clothes/ManhunterNCRMore,
+    }
+
+    model ManhunterHatNCR_Bag
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Bag,
+        texture =   Clothes/ManhunterNCRMore,
+    }
+
+    model ManhunterGasMaskNCR_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGasMask_Ground,
+        texture =   Clothes/ManhunterNCRMore,
+    }
+
+    model ManhunterVestNCR_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterVest_Ground,
+        texture =   Clothes/ManhunterNCRMore,
+    }
+
+    model ManhunterShirtNCR_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterShirt_Ground,
+        texture =   Clothes/ManhunterNCR,
+    }
+
+    model ManhunterPantsNCR_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterPants_Ground,
+        texture =   Clothes/ManhunterNCR,
+    }
+
+    model ManhunterGlovesNCR_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGloves_Ground,
+        texture =   Clothes/ManhunterNCRMore,
+    }
+
+    model ManhunterBootsNCR_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBoots_Ground,
+        texture =   Clothes/ManhunterNCRBoots,
+    }
+
+    model ManhunterBeltNCR_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBelt_Ground,
+        texture =   Clothes/ManhunterNCR,
+    }
+
+    model ManhunterHolsterNCR_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHolster_Ground,
+        texture =   Clothes/ManhunterNCRCoat,
+    }
+
+    model ManhunterCoatNCR_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterCoat_Ground,
+        texture =   Clothes/ManhunterNCRCoat,
+    }
+
+    model ManhunterHat_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Ground,
+        texture =   Clothes/ManhunterMore,
+    }
+
+    model ManhunterHat_Bag
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Bag,
+        texture =   Clothes/ManhunterMore,
+    }
+
+    model ManhunterGasMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGasMask_Ground,
+        texture =   Clothes/ManhunterMore,
+    }
+
+    model ManhunterVest_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterVest_Ground,
+        texture =   Clothes/ManhunterMore,
+    }
+
+    model ManhunterShirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterShirt_Ground,
+        texture =   Clothes/Manhunter,
+    }
+
+    model ManhunterPants_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterPants_Ground,
+        texture =   Clothes/Manhunter,
+    }
+
+    model ManhunterGloves_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGloves_Ground,
+        texture =   Clothes/ManhunterMore,
+    }
+
+    model ManhunterBoots_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBoots_Ground,
+        texture =   Clothes/ManhunterBoots,
+    }
+
+    model ManhunterBelt_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBelt_Ground,
+        texture =   Clothes/Manhunter,
+    }
+
+    model ManhunterHolster_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHolster_Ground,
+        texture =   Clothes/Manhunter,
+    }
+
+    model ManhunterCoat_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterCoat_Ground,
+        texture =   Clothes/ManhunterCoat,
+    }
+
+    model ManhunterHatMilitary_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Ground,
+        texture =   Clothes/ManhunterMilitaryMore,
+    }
+
+    model ManhunterHatMilitary_Bag
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Bag,
+        texture =   Clothes/ManhunterMilitaryMore,
+    }
+
+    model ManhunterGasMaskMilitary_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGasMask_Ground,
+        texture =   Clothes/ManhunterMilitaryMore,
+    }
+
+    model ManhunterVestMilitary_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterVest_Ground,
+        texture =   Clothes/ManhunterMilitaryMore,
+    }
+
+    model ManhunterShirtMilitary_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterShirt_Ground,
+        texture =   Clothes/ManhunterMilitary,
+    }
+
+    model ManhunterPantsMilitary_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterPants_Ground,
+        texture =   Clothes/ManhunterMilitary,
+    }
+
+    model ManhunterGlovesMilitary_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGloves_Ground,
+        texture =   Clothes/ManhunterMilitaryMore,
+    }
+
+    model ManhunterBootsMilitary_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBoots_Ground,
+        texture =   Clothes/ManhunterMilitaryBoots,
+    }
+
+    model ManhunterBeltMilitary_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBelt_Ground,
+        texture =   Clothes/ManhunterMilitary,
+    }
+
+    model ManhunterHolsterMilitary_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHolster_Ground,
+        texture =   Clothes/ManhunterMilitaryCoat,
+    }
+
+    model ManhunterCoatMilitary_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterCoat_Ground,
+        texture =   Clothes/ManhunterMilitaryCoat,
+    }
+
+    model ManhunterHatTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Ground,
+        texture =   Clothes/ManhunterTanMore,
+    }
+
+    model ManhunterHatTan_Bag
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Bag,
+        texture =   Clothes/ManhunterTanMore,
+    }
+
+    model ManhunterGasMaskTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGasMask_Ground,
+        texture =   Clothes/ManhunterTanMore,
+    }
+
+    model ManhunterVestTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterVest_Ground,
+        texture =   Clothes/ManhunterTanMore,
+    }
+
+    model ManhunterShirtTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterShirt_Ground,
+        texture =   Clothes/ManhunterTan,
+    }
+
+    model ManhunterPantsTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterPants_Ground,
+        texture =   Clothes/ManhunterTan,
+    }
+
+    model ManhunterGlovesTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGloves_Ground,
+        texture =   Clothes/ManhunterTanMore,
+    }
+
+    model ManhunterBootsTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBoots_Ground,
+        texture =   Clothes/ManhunterTanBoots,
+    }
+
+    model ManhunterBeltTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBelt_Ground,
+        texture =   Clothes/ManhunterTan,
+    }
+
+    model ManhunterHolsterTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHolster_Ground,
+        texture =   Clothes/ManhunterTanCoat,
+    }
+
+    model ManhunterCoatTan_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterCoat_Ground,
+        texture =   Clothes/ManhunterTanCoat,
+    }
+
+    model ManhunterHatWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Ground,
+        texture =   Clothes/ManhunterWhiteMore,
+    }
+
+    model ManhunterHatWhite_Bag
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Bag,
+        texture =   Clothes/ManhunterWhiteMore,
+    }
+
+    model ManhunterGasMaskWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGasMask_Ground,
+        texture =   Clothes/ManhunterWhiteMore,
+    }
+
+    model ManhunterVestWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterVest_Ground,
+        texture =   Clothes/ManhunterWhiteMore,
+    }
+
+    model ManhunterShirtWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterShirt_Ground,
+        texture =   Clothes/ManhunterWhite,
+    }
+
+    model ManhunterPantsWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterPants_Ground,
+        texture =   Clothes/ManhunterWhite,
+    }
+
+    model ManhunterGlovesWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGloves_Ground,
+        texture =   Clothes/ManhunterWhiteMore,
+    }
+
+    model ManhunterBootsWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBoots_Ground,
+        texture =   Clothes/ManhunterWhiteBoots,
+    }
+
+    model ManhunterBeltWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBelt_Ground,
+        texture =   Clothes/ManhunterWhite,
+    }
+
+    model ManhunterHolsterWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHolster_Ground,
+        texture =   Clothes/ManhunterWhiteCoat,
+    }
+
+    model ManhunterCoatWhite_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterCoat_Ground,
+        texture =   Clothes/ManhunterWhiteCoat,
+    }
+
+    model ManhunterHatPurple_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Ground,
+        texture =   Clothes/ManhunterPurpleMore,
+    }
+
+    model ManhunterHatPurple_Bag
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHat_Bag,
+        texture =   Clothes/ManhunterPurpleMore,
+    }
+
+    model ManhunterGasMaskPurple_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGasMask_Ground,
+        texture =   Clothes/ManhunterPurpleMore,
+    }
+
+    model ManhunterVestPurple_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterVest_Ground,
+        texture =   Clothes/ManhunterPurpleMore,
+    }
+
+    model ManhunterShirtPurple_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterShirt_Ground,
+        texture =   Clothes/ManhunterPurple,
+    }
+
+    model ManhunterPantsPurple_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterPants_Ground,
+        texture =   Clothes/ManhunterPurple,
+    }
+
+    model ManhunterGlovesPurple_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterGloves_Ground,
+        texture =   Clothes/ManhunterPurpleMore,
+    }
+
+    model ManhunterBootsPurple_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBoots_Ground,
+        texture =   Clothes/ManhunterPurpleBoots,
+    }
+
+    model ManhunterBeltPurple_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterBelt_Ground,
+        texture =   Clothes/ManhunterPurple,
+    }
+
+    model ManhunterHolsterPurple_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterHolster_Ground,
+        texture =   Clothes/ManhunterPurpleCoat,
+    }
+
+    model ManhunterCoatPurple_Ground
+    {
+        mesh    =   WorldItems/Clothing/ManhunterCoat_Ground,
+        texture =   Clothes/ManhunterPurpleCoat,
+    }
+
+
+
+
+    model OniMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/OniMask_Ground,
+        texture =   Clothes/Headwear/TikiOniMask,
+    }
+
+    model TenguMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/TenguMask_Ground,
+        texture =   Clothes/Headwear/TenguMask,
+    }
+
+    model HannyaMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/HannyaMask_Ground,
+        texture =   Clothes/Headwear/HannyaMask,
+    }
+
+    model KitsuneMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/KitsuneMask_Ground,
+        texture =   Clothes/Headwear/KitsuneMask,
+    }
+
+    model ChemicalMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/ChemicalMask_Ground,
+    }
+
+    model ChemicalMask_Bag
+    {
+        mesh    =   WorldItems/Clothing/ChemicalMask_Bag,
+        texture =   Clothes/Headwear/ChemicalMask,
+    }
+
+    model CorvoMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/CorvoMask_Ground,
+        texture =   Clothes/Headwear/CorvoMask,
+    }
+
+    model TikiMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/TikiMask_Ground,
+        texture =   Clothes/Headwear/TikiOniMask,
+    }
+
+    model ArtificialMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/ArtificialMask_Ground,
+        texture =   Clothes/Headwear/ArtificialVenetianMask,
+    }
+
+    model VenetianMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/VenetianMask_Ground,
+        texture =   Clothes/Headwear/ArtificialVenetianMask,
+    }
+
+    model GolemMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/GolemMask_Ground,
+        texture =   Clothes/Headwear/MuteGolemMask,
+    }
+
+    model MuteMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/MuteMask_Ground,
+        texture =   Clothes/Headwear/MuteGolemMask,
+    }
+
+    model DecrepitMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/DecrepitMask_Ground,
+        texture =   Clothes/Headwear/CyberneticDecrepitMask,
+    }
+
+    model CyberneticMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/CyberneticMask_Ground,
+        texture =   Clothes/Headwear/CyberneticDecrepitMask,
+    }
+
+    model CarnivalMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/CarnivalMask_Ground,
+        texture =   Clothes/Headwear/CarnivalMask,
+    }
+
+    model SesterMaskFull_Ground
+    {
+        mesh    =   WorldItems/Clothing/SesterMaskFull_Ground,
+    }
+
+    model SesterMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/SesterMask_Ground,
+    }
+
+    model CowlHood_Ground
+    {
+        mesh    =   WorldItems/Clothing/CowlHood_Ground,
+    }
+
+    model FancySuitJacket_Ground
+    {
+        mesh    =   WorldItems/Clothing/FancySuitJacket_Ground,
+        texture =   Clothes/FancySuit,
+    }
+
+    model FancySuitPants_Ground
+    {
+        mesh    =   WorldItems/Clothing/FancySuitPants_Ground,
+        texture =   Clothes/FancySuit,
+    }
+
+    model DentistApprenticeApron_Ground
+    {
+        mesh    =   WorldItems/Clothing/DentistApprenticeApron_Ground,
+        texture =   Clothes/DentistApprenticeApron,
+    }
+
+    model DentistApron_Ground
+    {
+        mesh    =   WorldItems/Clothing/DentistApron_Ground,
+        texture =   Clothes/DentistApron,
+    }
+
+    model DentistGloves_Ground
+    {
+        mesh    =   WorldItems/Clothing/DentistGloves_Ground,
+        texture =   Clothes/DentistGloves,
+    }
+
+    model DentistShirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/DentistShirt_Ground,
+        texture =   Clothes/DentistShirt,
+    }    
+
+    model DentistSurgicalMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/DentistSurgicalMask_Ground,
+        texture =   Clothes/DentistSurgicalMask,
+    }
+
+    model DentistCap_Ground
+    {
+        mesh    =   WorldItems/Clothing/DentistCap_Ground,
+        texture =   Clothes/DentistCap,
+    }
+
+    model SerapeCloak_Ground
+    {
+        mesh    =   WorldItems/Clothing/SerapeCloak_Ground,
+    }
+
+    model MilitaryCloak_Ground
+    {
+        mesh    =   WorldItems/Clothing/MilitaryCloak_Ground,
+    }
+
+    model AviationGasMask_Ground
+    {
+        mesh    =   WorldItems/Clothing/AviationGasMask_Ground,
+        texture =   Clothes/Headwear/AviationGasMask,
+    }
+
+    model ClothPoncho_Ground
+    {
+        mesh    =   WorldItems/Clothing/ClothPoncho_Ground,
+    }
+
+    model GasMaskRebreatherSkull_Ground
+    {
+        mesh    =   WorldItems/Clothing/GasMaskRebreatherSkull_Ground,
+        texture =   Clothes/Headwear/GasMaskRebreatherSkull,
+    }
+
+    model BrodieHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/BrodieHelmet_Ground,
+        texture =   Clothes/Headwear/BrodieHelmet,
+    }
+
+    model SafariHat_Bag
+    {
+        mesh    =   WorldItems/Clothing/SafariHat_Bag,
+        texture =   Clothes/Headwear/SafariHat,
+    }
+
+    model SafariHat_Ground
+    {
+        mesh    =   WorldItems/Clothing/SafariHat_Ground,
+        texture =   Clothes/Headwear/SafariHat,
+    }
+
+    model CrocHat_Ground
+    {
+        mesh    =   WorldItems/Clothing/CrocHat_Ground,
+        texture =   Clothes/Headwear/CrocHat,
+    }
+
+    model DustGoggles_Ground
+    {
+        mesh    =   WorldItems/Clothing/DustGoggles_Ground,
+        texture =   Clothes/Headwear/AntiqueHelmet,
+    }
+
+    model AntiqueHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/AntiqueHelmet_Ground,
+        texture =   Clothes/Headwear/AntiqueHelmet,
+    }
+
+    model AntiqueHelmetGoggles_Ground
+    {
+        mesh    =   WorldItems/Clothing/AntiqueHelmetGoggles_Ground,
+        texture =   Clothes/Headwear/AntiqueHelmet,
+    }
+
+    model CorsetFur_Ground
+    {
+        mesh    =   WorldItems/Clothing/CorsetFur_Ground,
+    }
+
+    model Suspenders_Ground
+    {
+        mesh    =   WorldItems/Clothing/Suspenders_Ground,
+    }
+
+    model BouffantDress_Ground
+    {
+        mesh    =   WorldItems/Clothing/BouffantDress_Ground,
+    }
+
+    model CuteDress_Ground
+    {
+        mesh    =   WorldItems/Clothing/CuteDress_Ground,
+    }    
+
+    model FrilledCheongsam_Ground
+    {
+        mesh    =   WorldItems/Clothing/FrilledCheongsam_Ground,
+    }
+
+    model DancerDress_Ground
+    {
+        mesh    =   WorldItems/Clothing/DancerDress_Ground,
+    }
+
+    model ApronDress_Ground
+    {
+        mesh    =   WorldItems/Clothing/ApronDress_Ground,
+    }
+
+    model RockabillyDress_Ground
+    {
+        mesh    =   WorldItems/Clothing/RockabillyDress_Ground,
+    }
+
+    model ShortKimono_Ground
+    {
+        mesh    =   WorldItems/Clothing/ShortKimono_Ground,
+    }
+
+    model HalterTopDress_Ground
+    {
+        mesh    =   WorldItems/Clothing/HalterTopDress_Ground,
+    }
+
+    model ElegantDress_Ground
+    {
+        mesh    =   WorldItems/Clothing/ElegantDress_Ground,
+    }
+
+    model PunkSkirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/PunkSkirt_Ground,
+    }
+
+    model PencilSkirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/PencilSkirt_Ground,
+    }
+
+    model CroppedFurTop_Ground
+    {
+        mesh    =   WorldItems/Clothing/CroppedFurTop_Ground,
+    }
+
+    model CuffedJeanShorts_Ground
+    {
+        mesh    =   WorldItems/Clothing/CuffedJeanShorts_Ground,
+    }
+
+    model ShortJeanShorts_Ground
+    {
+        mesh    =   WorldItems/Clothing/ShortJeanShorts_Ground,
+    }
+
+    model TiedFlannel_Ground
+    {
+        mesh    =   WorldItems/Clothing/TiedFlannel_Ground,
+    }
+  
+    model PunkJacket_Ground
+    {
+        mesh    =   WorldItems/Clothing/PunkJacket_Ground,
+    }    
+
+    model ZipCropShirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/ZipCropShirt_Ground,
+    }
+
+    model SheerJacket_Ground
+    {
+        mesh    =   WorldItems/Clothing/SheerJacket_Ground,
+    }        
+
+    model NewHazmat_Ground
+    {
+        mesh    =   WorldItems/Clothing/NewHazmat_Ground,
+    }    
+
+    model WeatheredJacket_Ground
+    {
+        mesh    =   WorldItems/Clothing/WeatheredJacket_Ground,
+    }  
+
+    model SuspendersSkirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/SuspendersSkirt_Ground,
+    }  
+
+    model DerbyHat_Ground
+    {
+        mesh    =   WorldItems/Clothing/DerbyHat_Ground,
+    }
+
+    model FlowerCrown_Ground
+    {
+        mesh    =   WorldItems/Clothing/FlowerCrown_Ground,
+    }
+
+    model FlowerWreath_Ground
+    {
+        mesh    =   WorldItems/Clothing/FlowerWreath_Ground,
+    }    
+
+    model MageHat_Ground
+    {
+        mesh    =   WorldItems/Clothing/MageHat_Ground,
+    }
+
+    model SundayHat_Ground
+    {
+        mesh    =   WorldItems/Clothing/SundayHat_Ground,
+    }    
+
+    model BrimmedHat_Ground
+    {
+        mesh    =   WorldItems/Clothing/BrimmedHat_Ground,
+    }
+
+    model SarongWrapTop_Ground
+    {
+        mesh    =   WorldItems/Clothing/SarongWrapTop_Ground,
+    } 
+
+    model SarongWrapSkirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/SarongWrapSkirt_Ground,
+    } 
+
+    model CroppedOffShoulderShirt_Ground
+    {
+        mesh    =   WorldItems/Clothing/CroppedOffShoulderShirt_Ground,
+    }     
+
+    model WhiteRangerSuit_Ground
+    {
+        mesh    =   WorldItems/Clothing/WhiteRangerSuit_Ground,
+    } 
+
+    model GreenRangerSuit_Ground
+    {
+        mesh    =   WorldItems/Clothing/GreenRangerSuit_Ground,
+    } 
+
+    model MaleRangerSuit_Ground
+    {
+        mesh    =   WorldItems/Clothing/MaleRangerSuit_Ground,
+    } 
+
+    model FemaleRangerSuit_Ground
+    {
+        mesh    =   WorldItems/Clothing/FemaleRangerSuit_Ground,
+    } 
+
+    model RedRangerHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/RedRangerHelmet_Ground,
+    } 
+
+    model WhiteRangerHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/WhiteRangerHelmet_Ground,
+    } 
+
+    model GreenRangerHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/GreenRangerHelmet_Ground,
+    } 
+
+    model BlueRangerHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/BlueRangerHelmet_Ground,
+    } 
+
+    model BlackRangerHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/BlackRangerHelmet_Ground,
+    } 
+
+    model PinkRangerHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/PinkRangerHelmet_Ground,
+    } 
+
+    model YellowRangerHelmet_Ground
+    {
+        mesh    =   WorldItems/Clothing/YellowRangerHelmet_Ground,
+    } 
+
+    model 3DGlasses_Ground
+    {
+        mesh    =   WorldItems/Clothing/3DGlasses_Ground,
+    } 
+
+    model BlackoutWrap_Ground
+    {
+        mesh    =   WorldItems/Clothing/BlackoutWrap_Ground,
+    } 
+
+    model ButterflySunglasses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ButterflySunglasses_Ground,
+    } 
+
+    model CatEyeRetro_Ground
+    {
+        mesh    =   WorldItems/Clothing/CatEyeRetro_Ground,
+    } 
+
+    model CatEyeSunglasses_Ground
+    {
+        mesh    =   WorldItems/Clothing/CatEyeSunglasses_Ground,
+    } 
+
+    model CircleFlower_Ground
+    {
+        mesh    =   WorldItems/Clothing/CircleFlower_Ground,
+    } 
+
+    model CircleFrames_Ground
+    {
+        mesh    =   WorldItems/Clothing/CircleFrames_Ground,
+    } 
+
+    model DoubleRimmedAviators_Ground
+    {
+        mesh    =   WorldItems/Clothing/DoubleRimmedAviators_Ground,
+    } 
+
+    model FancyShutter_Ground
+    {
+        mesh    =   WorldItems/Clothing/FancyShutter_Ground,
+    } 
+
+    model HeartSunglasses_Ground
+    {
+        mesh    =   WorldItems/Clothing/HeartSunglasses_Ground,
+    } 
+
+    model HexagonGlasses_Ground
+    {
+        mesh    =   WorldItems/Clothing/HexagonGlasses_Ground,
+    } 
+
+    model KeyholeSunglasses_Ground
+    {
+        mesh    =   WorldItems/Clothing/KeyholeSunglasses_Ground,
+    } 
+
+    model KittyGlasses_Ground
+    {
+        mesh    =   WorldItems/Clothing/KittyGlasses_Ground,
+    } 
+
+    model ShieldSunglasses_Ground
+    {
+        mesh    =   WorldItems/Clothing/ShieldSunglasses_Ground,
+    } 
+
+    model VintageSquare_Ground
+    {
+        mesh    =   WorldItems/Clothing/VintageSquare_Ground,
+    } 
+
+    model VisorSunglasses_Ground
+    {
+        mesh    =   WorldItems/Clothing/VisorSunglasses_Ground,
+    } 
+
+    model Wayfarer_Ground
+    {
+        mesh    =   WorldItems/Clothing/Wayfarer_Ground,
+    }
+
+    model CorsetFur_Ground
+    {
+        mesh    =   WorldItems/Clothing/CorsetFur_Ground,
+    } 
+    
+    model Suspenders_Ground
+    {
+        mesh    =   WorldItems/Clothing/Suspenders_Ground,
+    } 
+
+    model CasualDenim_Ground
+    {
+        mesh    =   WorldItems/Clothing/CasualDenim_Ground,
+    } 
+
+    model KarateGi_Ground
+    {
+        mesh    =   WorldItems/Clothing/KarateGi_Ground,
+    } 
+
+    model CargoPants_Ground
+    {
+        mesh    =   WorldItems/Clothing/CargoPants_Ground,
+    } 
+
+    model CroppedHolidaySweater_Ground
+    {
+        mesh    =   WorldItems/Clothing/CroppedHolidaySweater_Ground,
+    } 
+
+    model CroppedSportsHoodie_Ground
+    {
+        mesh    =   WorldItems/Clothing/CroppedSportsHoodie_Ground,
+    } 
+
+    model BowTieFancy_Ground
+    {
+        mesh    =   WorldItems/Clothing/BowTieFancy_Ground,
+    } 
+
+    model TieFancy_Ground
+    {
+        mesh    =   WorldItems/Clothing/TieFancy_Ground,
+    } 
+
+    model PegLeg_Ground
+    {
+        mesh    =   WorldItems/Clothing/PegLeg_Ground,
+    }
+
+    model PegLegBoth_Ground
+    {
+        mesh    =   WorldItems/Clothing/PegLegBoth_Ground,
+    }
+
+    model CasquetteCap_Ground
+    {
+        mesh    =   WorldItems/Clothing/CasquetteCap_Ground,
+    }
+
+    model ProperBeret_Ground
+    {
+        mesh    =   WorldItems/Clothing/ProperBeret_Ground,
+    }
+
+    model OfficialOfficerCap_Ground
+    {
+        mesh    =   WorldItems/Clothing/OfficialOfficerCap_Ground,
+    }
+
+    model LeatherHuntingCap_Ground
+    {
+        mesh    =   WorldItems/Clothing/LeatherHuntingCap_Ground,
+    }    
+
+	model AntiqueMilitaryFlashlight
+	{
+		mesh = WorldItems/AntiqueMilitaryFlashlight,
+		texture = WorldItems/AntiqueMilitaryFlashlight,
+	}
+
+	model ClipFlashlight
+	{
+		mesh = WorldItems/ClipFlashlight,
+		texture = WorldItems/ClipFlashlight,
+	}
+
+	model TacticalFlashlight
+	{
+		mesh = WorldItems/TacticalFlashlight,
+		texture = WorldItems/TacticalFlashlight,
+	}    
+
+    model MedicalBackpackNew_Ground
+    {
+        mesh    =   WorldItems/Backpacks/MedicalBackpackNew_Ground,
+    }    
+}

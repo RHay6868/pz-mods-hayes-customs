@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_CatEyeSunglasses</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_CatEyeSunglasses</m_FemaleModel>
+	<m_GUID>76f16b3b-d7fd-4e8f-adb8-51ffcdf7da34</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\CatEyeSunglasses1</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeSunglasses2</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeSunglasses3</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeSunglasses4</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeSunglasses5</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeSunglasses6</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeSunglasses7</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeSunglasses8</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeSunglasses9</textureChoices>
+</clothingItem>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_FrilledCheongsam</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_FrilledCheongsam</m_FemaleModel>
+	<m_GUID>356c075e-b824-4c83-bf6a-ab2eb08c5905</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\FrilledCheongsamGreen</textureChoices>
+	<textureChoices>clothes\FrilledCheongsamOrange</textureChoices>
+	<textureChoices>clothes\FrilledCheongsamWhite</textureChoices>
+	<textureChoices>clothes\FrilledCheongsamBlack</textureChoices>
+	<textureChoices>clothes\FrilledCheongsamBlue</textureChoices>
+	<textureChoices>clothes\FrilledCheongsamMaroon</textureChoices>
+	<textureChoices>clothes\FrilledCheongsamPurple</textureChoices>
+	<textureChoices>clothes\FrilledCheongsamYellow</textureChoices>
+</clothingItem>

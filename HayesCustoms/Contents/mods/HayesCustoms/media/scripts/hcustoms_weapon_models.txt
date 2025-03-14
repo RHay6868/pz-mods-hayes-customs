@@ -1,0 +1,49 @@
+module Base
+{
+	model LeviathanAxe
+	{
+		mesh = Weapons/2Handed/LeviathanAxe,
+		texture = Weapons/2Handed/LeviathanAxe,
+
+		attachment world
+		{
+			offset = 0.0000 0.0000 0.0000,
+			rotate = 180.0000 0.0000 180.0000,
+		}
+	}
+	model SwordFish
+	{
+		mesh = Weapons/2Handed/SwordFish,
+		texture = Weapons/2Handed/SwordFish,
+
+		attachment world
+		{
+			offset = -0.0330 0.2130 0.0360,
+			rotate = 180.0000 90.0000 -180.0000,
+		}
+	}
+
+	model LeviathanAxe_Ground
+	{			
+		mesh = WorldItems/weapons/LeviathanAxe_Ground,	
+		texture = weapons/2Handed/LeviathanAxe,		
+	}
+
+	model HomeliteXLChainsaw
+	{
+		mesh = Weapons/1Handed/HomeliteXLChainsaw,
+		texture = Weapons/1Handed/HomeliteXLChainsaw,
+
+		attachment world
+		{
+			offset = 0.0000 0.0000 0.0000,
+			rotate = 180.0000 0.0000 180.0000,
+		}
+	}
+
+	model HomeliteXLChainsaw_Ground
+	{			
+		mesh = WorldItems/weapons/HomeliteXLChainsaw_Ground,	
+		texture = weapons/1Handed/HomeliteXLChainsaw,		
+	}
+}

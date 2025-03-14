@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_DoubleRimmedAviators</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_DoubleRimmedAviators</m_FemaleModel>
+	<m_GUID>279a8510-228b-41b9-9a9b-098c4a77c68b</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\DoubleRimmedAviators1</textureChoices>
+	<textureChoices>clothes\glasses\DoubleRimmedAviators2</textureChoices>
+	<textureChoices>clothes\glasses\DoubleRimmedAviators3</textureChoices>
+	<textureChoices>clothes\glasses\DoubleRimmedAviators4</textureChoices>
+	<textureChoices>clothes\glasses\DoubleRimmedAviators5</textureChoices>
+	<textureChoices>clothes\glasses\DoubleRimmedAviators6</textureChoices>
+	<textureChoices>clothes\glasses\DoubleRimmedAviators7</textureChoices>
+</clothingItem>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_ZipCropShirt</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ZipCropShirt</m_FemaleModel>
+	<m_GUID>aadbe16a-45c1-4cbe-a1a6-e79e50beb20a</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\ZipCropShirtBlack</textureChoices>
+	<textureChoices>clothes\ZipCropShirtLunar</textureChoices>
+</clothingItem>

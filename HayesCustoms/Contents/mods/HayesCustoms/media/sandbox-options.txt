@@ -1,0 +1,149 @@
+VERSION = 1,
+
+option HCustoms.Loot
+{
+	type = enum,
+	default = 1,
+	numValues = 5,
+	page = HCustoms_Loot,
+	translation = HCustoms_LootGeneral,
+}
+
+option HCustoms.RemoveEyewear
+{
+	type = boolean,
+	default = false,
+	page = HCustoms_Loot,
+	translation = HCustoms_RemoveEyewear,
+}
+
+option HCustoms.RemoveHats
+{
+	type = boolean,
+	default = false,
+	page = HCustoms_Loot,
+	translation = HCustoms_RemoveHats,
+}
+
+option HCustoms.RemoveMasks
+{
+	type = boolean,
+	default = false,
+	page = HCustoms_Loot,
+	translation = HCustoms_RemoveMasks,
+}
+
+option HCustoms.RemovePlushies
+{
+	type = boolean,
+	default = false,
+	page = HCustoms_Loot,
+	translation = HCustoms_RemovePlushies,
+}
+
+option HCustoms.RemoveClothing
+{
+	type = boolean,
+	default = false,
+	page = HCustoms_Loot,
+	translation = HCustoms_RemoveClothing,
+}
+
+option HCustoms.RemoveBags
+{
+	type = boolean,
+	default = false,
+	page = HCustoms_Loot,
+	translation = HCustoms_RemoveBags,
+}
+
+option HCustoms.Recipes
+{
+	type = integer,
+	default = 3,
+	min = 1,
+	max = 10,
+	page = HCustoms_Loot,
+	translation = HCustoms_Recipes,
+}
+
+option HCustoms.GasMasks
+{
+	type = integer,
+	default = 3,
+	min = 1,
+	max = 10,
+	page = HCustoms_Loot,
+	translation = HCustoms_GasMasks,
+}
+
+option HCustoms.Accessories
+{
+	type = integer,
+	default = 3,
+	min = 1,
+	max = 10,
+	page = HCustoms_Loot,
+	translation = HCustoms_Accessories,
+}
+
+option HCustoms.Spiffo
+{
+	type = integer,
+	default = 3,
+	min = 1,
+	max = 10,
+	page = HCustoms_Loot,
+	translation = HCustoms_Spiffo,
+}
+
+option HCustoms.Plushies
+{
+	type = integer,
+	default = 3,
+	min = 1,
+	max = 10,
+	page = HCustoms_Loot,
+	translation = HCustoms_Plushies,
+}
+
+option HCustoms.BagsSpawn
+{
+	type = boolean,
+	default = false,
+	page = HCustoms_Loot,
+	translation = HCustoms_BagsSpawn,
+}
+
+option HCustoms.CazadorSpawn
+{
+	type = boolean,
+	default = true,
+	page = HCustoms_Loot,
+	translation = HCustoms_CazadorSpawn,
+}
+
+option HCustoms.PlushiesSpawn
+{
+	type = boolean,
+	default = true,
+	page = HCustoms_Loot,
+	translation = HCustoms_PlushiesSpawn,
+}
+
+option HCustoms.NerfSuits
+{
+	type = boolean,
+	default = false,
+	page = HCustoms_Loot,
+	translation = HCustoms_NerfSuits,
+}
+
+option HCustoms.NerfPlateArmor
+{
+	type = boolean,
+	default = false,
+	page = HCustoms_Loot,
+	translation = HCustoms_NerfPlateArmor,
+}
+

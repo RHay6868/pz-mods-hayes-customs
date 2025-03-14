@@ -1,0 +1,62 @@
+module Base
+{
+ model ReconRigBlack_Ground
+    {
+        mesh = WorldItems/Clothing/ReconRig_Ground,
+        texture = Clothes/ReconRigBlack,
+    }
+
+    model ReconRigBlue_Ground
+    {
+        mesh = WorldItems/Clothing/ReconRig_Ground,
+        texture = Clothes/ReconRigBlue,
+    }
+
+    model ReconRigRed_Ground
+    {
+        mesh = WorldItems/Clothing/ReconRig_Ground,
+        texture = Clothes/ReconRigRed,
+    }
+
+    model ReconRigOlive_Ground
+    {
+        mesh = WorldItems/Clothing/ReconRig_Ground,
+        texture = Clothes/ReconRigOlive,
+    }
+
+    model ReconRigTan_Ground
+    {
+        mesh = WorldItems/Clothing/ReconRig_Ground,
+        texture = Clothes/ReconRigTan,
+    }
+
+    model ReconRigWoodland_Ground
+    {
+        mesh = WorldItems/Clothing/ReconRig_Ground,
+        texture = Clothes/ReconRigWoodland,
+    }
+
+    model ReconRigPink_Ground
+    {
+        mesh = WorldItems/Clothing/ReconRig_Ground,
+        texture = Clothes/ReconRigPink,
+    }
+
+    model ReconRigLeather_Ground
+    {
+        mesh = WorldItems/Clothing/ReconRig_Ground,
+        texture = Clothes/ReconRigLeather,
+    }
+
+    model ReconRigWhite_Ground
+    {
+        mesh = WorldItems/Clothing/ReconRig_Ground,
+        texture = Clothes/ReconRigWhite,
+    }
+
+    model ReconRigZoidberg_Ground
+    {
+        mesh = WorldItems/Clothing/ReconRig_Ground,
+        texture = Clothes/ReconRigZoidberg,
+    }
+}

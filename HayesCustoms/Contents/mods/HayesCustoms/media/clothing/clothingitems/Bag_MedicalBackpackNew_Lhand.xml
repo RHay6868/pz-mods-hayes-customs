@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\Backpacks\MedicalBackpackNew_Lhand</m_MaleModel>
+	<m_FemaleModel>skinned\Backpacks\MedicalBackpackNew_Lhand</m_FemaleModel>
+	<m_GUID>b8283397-f3a7-4eb2-9e1a-8267cb02dae1</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\backpacks\MedicalBackpackNew1</textureChoices>
+	<textureChoices>clothes\backpacks\MedicalBackpackNew2</textureChoices>
+	<textureChoices>clothes\backpacks\MedicalBackpackNew3</textureChoices>
+	<textureChoices>clothes\backpacks\MedicalBackpackNew4</textureChoices>
+	<textureChoices>clothes\backpacks\MedicalBackpackNew5</textureChoices>
+</clothingItem>

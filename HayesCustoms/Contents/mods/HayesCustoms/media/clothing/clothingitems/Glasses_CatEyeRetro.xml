@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_CatEyeRetro</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_CatEyeRetro</m_FemaleModel>
+	<m_GUID>a356d297-5d4c-498e-b4da-886e498987ae</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\CatEyeRetro1</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeRetro2</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeRetro3</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeRetro4</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeRetro5</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeRetro6</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeRetro7</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeRetro8</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeRetro9</textureChoices>
+	<textureChoices>clothes\glasses\CatEyeRetro10</textureChoices>
+</clothingItem>

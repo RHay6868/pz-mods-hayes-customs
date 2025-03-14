@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_ShortKimono</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ShortKimono</m_FemaleModel>
+	<m_GUID>61e990e0-53fa-4c19-9a12-12de4b1e9e3b</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\ShortKimonoPink</textureChoices>
+	<textureChoices>clothes\ShortKimonoBlue</textureChoices>
+	<textureChoices>clothes\ShortKimonoGreen</textureChoices>
+	<textureChoices>clothes\ShortKimonoOrange</textureChoices>
+	<textureChoices>clothes\ShortKimonoBlack</textureChoices>
+	<textureChoices>clothes\ShortKimonoWhite</textureChoices>
+</clothingItem>

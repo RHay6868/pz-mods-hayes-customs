@@ -1,0 +1,9 @@
+Tooltip_EN = {
+	
+	Tooltip_item_SArmorMagazine = "Recipes for stealthy tactical gear - SArmor",
+	Tooltip_item_CazadorItemsMagazine = "Makeshift armor recipes - Cazador Gear",
+	Tooltip_item_AbsolutistTrenchcoatsMagazine = "Trenchcoat with a hood - recipe for 4 versions",|
+
+	Tooltip_SwapBagtoLite = "Remove some attachments and make bag into Lite Version",
+	Tooltip_SwapBagtoRegular = "Put back old attachment points",
+}

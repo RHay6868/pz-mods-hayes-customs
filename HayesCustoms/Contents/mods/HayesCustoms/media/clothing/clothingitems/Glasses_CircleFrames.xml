@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_CircleFrames</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_CircleFrames</m_FemaleModel>
+	<m_GUID>afb396cb-b056-4cf8-acb4-02af80fd7c7c</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\CircleFrames1</textureChoices>
+	<textureChoices>clothes\glasses\CircleFrames2</textureChoices>
+	<textureChoices>clothes\glasses\CircleFrames3</textureChoices>
+	<textureChoices>clothes\glasses\CircleFrames4</textureChoices>
+	<textureChoices>clothes\glasses\CircleFrames5</textureChoices>
+	<textureChoices>clothes\glasses\CircleFrames6</textureChoices>
+	<textureChoices>clothes\glasses\CircleFrames7</textureChoices>
+	<textureChoices>clothes\glasses\CircleFrames8</textureChoices>
+	<textureChoices>clothes\glasses\CircleFrames9</textureChoices>
+	<textureChoices>clothes\glasses\CircleFrames10</textureChoices>
+	<textureChoices>clothes\glasses\CircleFrames11</textureChoices>
+</clothingItem>

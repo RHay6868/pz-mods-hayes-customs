@@ -1,0 +1,687 @@
+module HCustoms
+{
+   item ModularPackCanteenBlack
+    	{
+        DisplayCategory 		= 	WaterContainer, 		
+       	Weight    		 		= 	0.2,
+		CanStoreWater			= 	TRUE,
+        Type    				= 	Normal,
+        DisplayName     		= 	Modular Canteen,
+		ReplaceOnUseOn			= 	WaterSource-ModularPackCanteenBlackfull,
+        Icon 					= 	ModularCanteenBlack,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenBlack,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask 		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenBlack_Ground,
+		AttachmentType  		= 	CanteenModular,		
+	}
+
+	item ModularPackCanteenBlackfull
+    	{
+        DisplayCategory 		=	WaterContainer, 		
+		IsWaterSource			=	TRUE,
+		Weight					=	1.5,
+		CanStoreWater			=	TRUE,
+		Type					=	Drainable,
+		UseWhileEquipped		=	FALSE,
+		IsCookable				=	TRUE,
+		UseDelta				=	0.03,
+		DisplayName				=	Modular Canteen with Water,
+		ReplaceOnDeplete		=	ModularPackCanteenBlack,
+		ReplaceOnUseOn			=	WaterSource-ModularPackCanteenBlackfull,
+		Icon					=	ModularCanteenBlack,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenBlack,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenBlack_Ground,
+		AttachmentType  		= 	CanteenModular,			
+	}
+
+   item ModularPackCanteenBlue
+    	{
+        DisplayCategory 		= 	WaterContainer, 		
+       	Weight    		 		= 	0.2,
+		CanStoreWater			= 	TRUE,
+        Type    				= 	Normal,
+        DisplayName     		= 	Modular Canteen,
+		ReplaceOnUseOn			= 	WaterSource-ModularPackCanteenBluefull,
+        Icon 					= 	ModularCanteenBlue,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenBlue,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask 		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenBlue_Ground,
+		AttachmentType  		= 	CanteenModular,		
+	}
+
+	item ModularPackCanteenBluefull
+    	{
+        DisplayCategory 		=	WaterContainer, 		
+		IsWaterSource			=	TRUE,
+		Weight					=	1.5,
+		CanStoreWater			=	TRUE,
+		Type					=	Drainable,
+		UseWhileEquipped		=	FALSE,
+		IsCookable				=	TRUE,
+		UseDelta				=	0.03,
+		DisplayName				=	Modular Canteen with Water,
+		ReplaceOnDeplete		=	ModularPackCanteenBlue,
+		ReplaceOnUseOn			=	WaterSource-ModularPackCanteenBluefull,
+		Icon					=	ModularCanteenBlue,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenBlue,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenBlue_Ground,
+		AttachmentType  		= 	CanteenModular,			
+	}
+
+   item ModularPackCanteenRed
+    	{
+        DisplayCategory 		= 	WaterContainer, 		
+       	Weight    		 		= 	0.2,
+		CanStoreWater			= 	TRUE,
+        Type    				= 	Normal,
+        DisplayName     		= 	Modular Canteen,
+		ReplaceOnUseOn			= 	WaterSource-ModularPackCanteenRedfull,
+        Icon 					= 	ModularCanteenRed,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenRed,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask 		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenRed_Ground,
+		AttachmentType  		= 	CanteenModular,		
+	}
+
+	item ModularPackCanteenRedfull
+    	{
+        DisplayCategory 		=	WaterContainer, 		
+		IsWaterSource			=	TRUE,
+		Weight					=	1.5,
+		CanStoreWater			=	TRUE,
+		Type					=	Drainable,
+		UseWhileEquipped		=	FALSE,
+		IsCookable				=	TRUE,
+		UseDelta				=	0.03,
+		DisplayName				=	Modular Canteen with Water,
+		ReplaceOnDeplete		=	ModularPackCanteenRed,
+		ReplaceOnUseOn			=	WaterSource-ModularPackCanteenRedfull,
+		Icon					=	ModularCanteenRed,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenRed,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenRed_Ground,
+		AttachmentType  		= 	CanteenModular,			
+	}
+
+	   item ModularPackCanteenLeather
+    	{
+        DisplayCategory 		= 	WaterContainer, 		
+       	Weight    		 		= 	0.2,
+		CanStoreWater			= 	TRUE,
+        Type    				= 	Normal,
+        DisplayName     		= 	Modular Canteen,
+		ReplaceOnUseOn			= 	WaterSource-ModularPackCanteenLeatherfull,
+        Icon 					= 	ModularCanteenLeather,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenLeather,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask 		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenLeather_Ground,
+		AttachmentType  		= 	CanteenModular,		
+	}
+
+	item ModularPackCanteenLeatherfull
+    	{
+        DisplayCategory 		=	WaterContainer, 		
+		IsWaterSource			=	TRUE,
+		Weight					=	1.5,
+		CanStoreWater			=	TRUE,
+		Type					=	Drainable,
+		UseWhileEquipped		=	FALSE,
+		IsCookable				=	TRUE,
+		UseDelta				=	0.03,
+		DisplayName				=	Modular Canteen with Water,
+		ReplaceOnDeplete		=	ModularPackCanteenLeather,
+		ReplaceOnUseOn			=	WaterSource-ModularPackCanteenLeatherfull,
+		Icon					=	ModularCanteenLeather,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenLeather,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenLeather_Ground,
+		AttachmentType  		= 	CanteenModular,		
+	}
+
+   item ModularPackCanteenOlive
+    	{
+        DisplayCategory 		= 	WaterContainer, 		
+       	Weight    		 		= 	0.2,
+		CanStoreWater			= 	TRUE,
+        Type    				= 	Normal,
+        DisplayName     		= 	Modular Canteen,
+		ReplaceOnUseOn			= 	WaterSource-ModularPackCanteenOlivefull,
+        Icon 					= 	ModularCanteenOlive,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenOlive,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask 		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenOlive_Ground,
+		AttachmentType  		= 	CanteenModular,		
+	}
+
+	item ModularPackCanteenOlivefull
+    	{
+        DisplayCategory 		=	WaterContainer, 		
+		IsWaterSource			=	TRUE,
+		Weight					=	1.5,
+		CanStoreWater			=	TRUE,
+		Type					=	Drainable,
+		UseWhileEquipped		=	FALSE,
+		IsCookable				=	TRUE,
+		UseDelta				=	0.03,
+		DisplayName				=	Modular Canteen with Water,
+		ReplaceOnDeplete		=	ModularPackCanteenOlive,
+		ReplaceOnUseOn			=	WaterSource-ModularPackCanteenOlivefull,
+		Icon					=	ModularCanteenOlive,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenOlive,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenOlive_Ground,
+		AttachmentType  		= 	CanteenModular,			
+	}
+
+   item ModularPackCanteenTan
+    	{
+        DisplayCategory 		= 	WaterContainer, 		
+       	Weight    		 		= 	0.2,
+		CanStoreWater			= 	TRUE,
+        Type    				= 	Normal,
+        DisplayName     		= 	Modular Canteen,
+		ReplaceOnUseOn			= 	WaterSource-ModularPackCanteenTanfull,
+        Icon 					= 	ModularCanteenTan,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenTan,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask 		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenTan_Ground,
+		AttachmentType  		= 	CanteenModular,		
+	}
+
+	item ModularPackCanteenTanfull
+    	{
+        DisplayCategory 		=	WaterContainer, 		
+		IsWaterSource			=	TRUE,
+		Weight					=	1.5,
+		CanStoreWater			=	TRUE,
+		Type					=	Drainable,
+		UseWhileEquipped		=	FALSE,
+		IsCookable				=	TRUE,
+		UseDelta				=	0.03,
+		DisplayName				=	Modular Canteen with Water,
+		ReplaceOnDeplete		=	ModularPackCanteenTan,
+		ReplaceOnUseOn			=	WaterSource-ModularPackCanteenTanfull,
+		Icon					=	ModularCanteenTan,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenTan,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenTan_Ground,
+		AttachmentType  		= 	CanteenModular,			
+	}
+
+   item ModularPackCanteenWoodland
+    	{
+        DisplayCategory 		= 	WaterContainer, 		
+       	Weight    		 		= 	0.2,
+		CanStoreWater			= 	TRUE,
+        Type    				= 	Normal,
+        DisplayName     		= 	Modular Canteen,
+		ReplaceOnUseOn			= 	WaterSource-ModularPackCanteenWoodlandfull,
+        Icon 					= 	ModularCanteenWoodland,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenWoodland,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask 		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenWoodland_Ground,
+		AttachmentType  		= 	CanteenModular,		
+	}
+
+	item ModularPackCanteenWoodlandfull
+    	{
+        DisplayCategory 		=	WaterContainer, 		
+		IsWaterSource			=	TRUE,
+		Weight					=	1.5,
+		CanStoreWater			=	TRUE,
+		Type					=	Drainable,
+		UseWhileEquipped		=	FALSE,
+		IsCookable				=	TRUE,
+		UseDelta				=	0.03,
+		DisplayName				=	Modular Canteen with Water,
+		ReplaceOnDeplete		=	ModularPackCanteenWoodland,
+		ReplaceOnUseOn			=	WaterSource-ModularPackCanteenWoodlandfull,
+		Icon					=	ModularCanteenWoodland,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenWoodland,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenWoodland_Ground,
+		AttachmentType  		= 	CanteenModular,			
+	}
+
+   item ModularPackCanteenPink
+    	{
+        DisplayCategory 		= 	WaterContainer, 		
+       	Weight    		 		= 	0.2,
+		CanStoreWater			= 	TRUE,
+        Type    				= 	Normal,
+        DisplayName     		= 	Modular Canteen,
+		ReplaceOnUseOn			= 	WaterSource-ModularPackCanteenPinkfull,
+        Icon 					= 	ModularCanteenPink,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenPink,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask 		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenPink_Ground,
+		AttachmentType  		= 	CanteenModular,		
+	}
+
+	item ModularPackCanteenPinkfull
+    	{
+        DisplayCategory 		=	WaterContainer, 		
+		IsWaterSource			=	TRUE,
+		Weight					=	1.5,
+		CanStoreWater			=	TRUE,
+		Type					=	Drainable,
+		UseWhileEquipped		=	FALSE,
+		IsCookable				=	TRUE,
+		UseDelta				=	0.03,
+		DisplayName				=	Modular Canteen with Water,
+		ReplaceOnDeplete		=	ModularPackCanteenPink,
+		ReplaceOnUseOn			=	WaterSource-ModularPackCanteenPinkfull,
+		Icon					=	ModularCanteenPink,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenPink,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenPink_Ground,
+		AttachmentType  		= 	CanteenModular,			
+	}
+
+	item ModularPackCanteenWhite
+    	{
+        DisplayCategory 		= 	WaterContainer, 		
+       	Weight    		 		= 	0.2,
+		CanStoreWater			= 	TRUE,
+        Type    				= 	Normal,
+        DisplayName     		= 	Modular Canteen,
+		ReplaceOnUseOn			= 	WaterSource-ModularPackCanteenWhitefull,
+        Icon 					= 	ModularCanteenWhite,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenWhite,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask 		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenWhite_Ground,
+		AttachmentType  		= 	CanteenModular,		
+	}
+
+	item ModularPackCanteenWhitefull
+    	{
+        DisplayCategory 		=	WaterContainer, 		
+		IsWaterSource			=	TRUE,
+		Weight					=	1.5,
+		CanStoreWater			=	TRUE,
+		Type					=	Drainable,
+		UseWhileEquipped		=	FALSE,
+		IsCookable				=	TRUE,
+		UseDelta				=	0.03,
+		DisplayName				=	Modular Canteen with Water,
+		ReplaceOnDeplete		=	ModularPackCanteenWhite,
+		ReplaceOnUseOn			=	WaterSource-ModularPackCanteenWhitefull,
+		Icon					=	ModularCanteenWhite,
+		RainFactor 				= 	1,
+		Tooltip 				= 	Tooltip_item_RainFromGround,
+		StaticModel 			= 	ModularCanteenWhite,
+		primaryAnimMask 		= 	HoldingTorchRight,
+        secondaryAnimMask		= 	HoldingTorchLeft,
+		WorldStaticModel 		= 	ModularCanteenWhite_Ground,
+		AttachmentType  		= 	CanteenModular,			
+	}
+
+	item ModularMedkitBlack
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	50,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	6,
+        DisplayName				=	Modular Medkit Black,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularMedkitBlack,
+        Medical 				= 	TRUE,	
+        AttachmentType  		= 	ModFirstAidKit,	
+		WorldStaticModel 		= 	ModularMedkitBlack_Ground,
+		StaticModel 			= 	ModularMedkitBlack_Ground,
+	}
+
+	item ModularMedkitBlue
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	50,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	6,
+        DisplayName				=	Modular Medkit Blue,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularMedkitBlue,
+        Medical 				= 	TRUE,	
+        AttachmentType  		= 	ModFirstAidKit,	
+		WorldStaticModel 		= 	ModularMedkitBlue_Ground,
+		StaticModel 			= 	ModularMedkitBlue_Ground,
+	}
+
+	item ModularMedkitRed
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	50,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	6,
+        DisplayName				=	Modular Medkit Red,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularMedkitRed,
+        Medical 				= 	TRUE,	
+        AttachmentType  		= 	ModFirstAidKit,	
+		WorldStaticModel 		= 	ModularMedkitRed_Ground,
+		StaticModel 			= 	ModularMedkitRed_Ground,
+	}
+
+	item ModularMedkitLeather
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	50,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	6,
+        DisplayName				=	Modular Medkit Leather,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularMedkitLeather,
+        Medical 				= 	TRUE,	
+        AttachmentType  		= 	ModFirstAidKit,	
+		WorldStaticModel 		= 	ModularMedkitLeather_Ground,
+		StaticModel 			= 	ModularMedkitLeather_Ground,
+	}
+
+	item ModularMedkitOlive
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	50,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	6,
+        DisplayName				=	Modular Medkit Olve,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularMedkitOlive,
+        Medical 				= 	TRUE,	
+        AttachmentType  		= 	ModFirstAidKit,	
+		WorldStaticModel 		= 	ModularMedkitOlive_Ground,
+		StaticModel 			= 	ModularMedkitOlive_Ground,
+	}
+
+	item ModularMedkitTan
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	50,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	6,
+        DisplayName				=	Modular Medkit Tan,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularMedkitTan,
+        Medical 				= 	TRUE,	
+        AttachmentType  		= 	ModFirstAidKit,	
+		WorldStaticModel 		= 	ModularMedkitTan_Ground,
+		StaticModel 			= 	ModularMedkitTan_Ground,
+	}
+
+	item ModularMedkitWoodland
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	50,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	6,
+        DisplayName				=	Modular Medkit Woodland,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularMedkitWoodland,
+        Medical 				= 	TRUE,		
+        AttachmentType  		= 	ModFirstAidKit,
+		WorldStaticModel 		= 	ModularMedkitWoodland_Ground,
+		StaticModel 			= 	ModularMedkitWoodland_Ground,
+	}
+
+	item ModularMedkitPink
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	50,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	6,
+        DisplayName				=	Modular Medkit Pink,
+        Icon					=	ModularMedkitPink,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Medical 				= 	TRUE,		
+        AttachmentType  		= 	ModFirstAidKit,
+		WorldStaticModel 		= 	ModularMedkitPink_Ground,
+		StaticModel 			= 	ModularMedkitPink_Ground,
+	}
+
+	item ModularMedkitWhite
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	50,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	6,
+        DisplayName				=	Modular Medkit White,
+        Icon					=	ModularMedkitWhite,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Medical 				= 	TRUE,		
+        AttachmentType  		= 	ModFirstAidKit,
+		WorldStaticModel 		= 	ModularMedkitWhite_Ground,
+		StaticModel 			= 	ModularMedkitWhite_Ground,
+	}
+
+	item ModularPackExtraBlack
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	60,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	20,
+        DisplayName				=	Modular Pack Addition Black,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularPackExtraBlack,
+        AttachmentType  		= 	PackExtraModular,	
+		WorldStaticModel 		= 	ModularPackExtraBlack_Ground,
+		StaticModel 			= 	ModularPackExtraBlack_Ground,
+	}
+
+	item ModularPackExtraBlue
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	60,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	20,
+        DisplayName				=	Modular Pack Addition Blue,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularPackExtraBlue,
+        AttachmentType  		= 	PackExtraModular,	
+		WorldStaticModel 		= 	ModularPackExtraBlue_Ground,
+		StaticModel 			= 	ModularPackExtraBlue_Ground,
+	}
+
+	item ModularPackExtraRed
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	60,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	20,
+        DisplayName				=	Modular Pack Addition Red,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularPackExtraRed,
+        AttachmentType  		= 	PackExtraModular,	
+		WorldStaticModel 		= 	ModularPackExtraRed_Ground,
+		StaticModel 			= 	ModularPackExtraRed_Ground,
+	}
+
+	item ModularPackExtraLeather
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	60,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	20,
+        DisplayName				=	Modular Pack Addition Leather,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularPackExtraLeather,
+        AttachmentType  		= 	PackExtraModular,	
+		WorldStaticModel 		= 	ModularPackExtraLeather_Ground,
+		StaticModel 			= 	ModularPackExtraLeather_Ground,
+	}
+
+
+		item ModularPackExtraOlive
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	60,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	20,
+        DisplayName				=	Modular Pack Addition Olve,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularPackExtraOlive,
+        AttachmentType  		= 	PackExtraModular,	
+		WorldStaticModel 		= 	ModularPackExtraOlive_Ground,
+		StaticModel 			= 	ModularPackExtraOlive_Ground,
+	}
+
+	item ModularPackExtraTan
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	60,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	20,
+        DisplayName				=	Modular Pack Addition Tan,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularPackExtraTan,
+        AttachmentType  		= 	PackExtraModular,	
+		WorldStaticModel 		= 	ModularPackExtraTan_Ground,
+		StaticModel 			= 	ModularPackExtraTan_Ground,
+	}
+
+	item ModularPackExtraWoodland
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	60,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	20,
+        DisplayName				=	Modular Pack Addition Woodland,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,
+        Icon					=	ModularPackExtraWoodland,	
+        AttachmentType  		= 	PackExtraModular,
+		WorldStaticModel 		= 	ModularPackExtraWoodland_Ground,
+		StaticModel 			= 	ModularPackExtraWoodland_Ground,
+	}
+
+	item ModularPackExtraPink
+	{
+		DisplayCategory 		= 	Container,		
+        WeightReduction			=	60,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	20,
+        DisplayName				=	Modular Pack Addition Pink,
+        Icon					=	ModularPackExtraPink,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,		
+        AttachmentType  		= 	PackExtraModular,
+		WorldStaticModel 		= 	ModularPackExtraPink_Ground,
+		StaticModel 			= 	ModularPackExtraPink_Ground,
+	}
+
+	item ModularPackExtraWhite
+	{
+		DisplayCategory 		= 	Container,	
+        WeightReduction			=	60,
+        Weight					=	0.5,
+        Type					=	Container,
+        Capacity				=	20,
+        DisplayName				=	Modular Pack Addition White,
+        Icon					=	ModularPackExtraWhite,
+        OpenSound   			=   OpenBag,
+        CloseSound   			=   CloseBag,
+        PutInSound   			=   PutItemInBag,		
+        AttachmentType  		= 	PackExtraModular,
+		WorldStaticModel 		= 	ModularPackExtraWhite_Ground,
+		StaticModel 			= 	ModularPackExtraWhite_Ground,
+	}
+}

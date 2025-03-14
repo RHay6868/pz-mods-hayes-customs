@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_DentistApprenticeApron</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_DentistApprenticeApron</m_FemaleModel>
+	<m_GUID>f0d6b15f-3c7e-409a-960c-e4cd9a35c720</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\DentistApprenticeApron</textureChoices>
+</clothingItem>

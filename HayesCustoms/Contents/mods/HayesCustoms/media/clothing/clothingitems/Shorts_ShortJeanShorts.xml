@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_ShortJeanShorts</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ShortJeanShorts</m_FemaleModel>
+	<m_GUID>30830450-93f1-494b-be81-5df2f6a9233f</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\ShortJeanShortsLight</textureChoices>
+	<textureChoices>clothes\ShortJeanShortsDark</textureChoices>
+	<textureChoices>clothes\ShortJeanShortsBlue</textureChoices>
+	<textureChoices>clothes\ShortJeanShortsPurple</textureChoices>
+	<textureChoices>clothes\ShortJeanShortsGold</textureChoices>
+</clothingItem>

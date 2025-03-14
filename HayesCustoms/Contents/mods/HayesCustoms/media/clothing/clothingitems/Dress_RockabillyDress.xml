@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_RockabillyDress</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_RockabillyDress</m_FemaleModel>
+	<m_GUID>b9b72544-9aad-4592-b609-5d634c37da98</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\RockabillyDressWhite</textureChoices>
+	<textureChoices>clothes\RockabillyDressBlack</textureChoices>
+	<textureChoices>clothes\RockabillyDressRed</textureChoices>
+	<textureChoices>clothes\RockabillyDressBlue</textureChoices>
+</clothingItem>

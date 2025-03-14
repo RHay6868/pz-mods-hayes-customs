@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\Clothes\M_LeatherHuntingCap</m_MaleModel>
+	<m_FemaleModel>static\Clothes\F_LeatherHuntingCap</m_FemaleModel>
+	<m_GUID>a210c2b3-e559-4c84-a4d9-8a70f895f56e</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\headwear\LeatherHuntingCap1</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap2</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap3</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap4</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap5</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap6</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap7</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap8</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap9</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap10</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap11</textureChoices>
+	<textureChoices>clothes\headwear\LeatherHuntingCap12</textureChoices>
+</clothingItem>

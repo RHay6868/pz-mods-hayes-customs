@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_TieLooseFancy</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_TieLooseFancy</m_FemaleModel>
+	<m_GUID>91854f93-7ac7-44d7-b4a5-5bc3e6495704</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\ties\TieFullFancy1</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy2</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy3</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy4</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy5</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy6</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy7</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy8</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy9</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy10</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy11</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy12</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy13</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy14</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy15</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy16</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy17</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy18</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy19</textureChoices>
+	<textureChoices>clothes\ties\TieFullFancy20</textureChoices>
+</clothingItem>

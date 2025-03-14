@@ -1,0 +1,202 @@
+module HCustoms
+{
+	/************************ SWAP BAGS ************************/
+
+	recipe Swap to Lite Version Black
+  	{
+		ModularPackBlackMax,
+
+		OnCreate:KeepContents,
+		Result:ModularPackBlackMaxLite,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Black
+  	{
+		ModularPackBlackMaxLite,
+
+		OnCreate:KeepContents,
+		Result:ModularPackBlackMax,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Blue
+  	{
+		ModularPackBlueMax,
+
+		OnCreate:KeepContents,
+		Result:ModularPackBlueMaxLite,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Blue
+  	{
+		ModularPackBlueMaxLite,
+
+		OnCreate:KeepContents,
+		Result:ModularPackBlueMax,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Red
+  	{
+		ModularPackRedMax,
+
+		OnCreate:KeepContents,
+		Result:ModularPackRedMaxLite,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Red
+  	{
+		ModularPackRedMaxLite,
+
+		OnCreate:KeepContents,
+		Result:ModularPackRedMax,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Leather
+  	{
+		ModularPackLeatherMax,
+
+		OnCreate:KeepContents,
+		Result:ModularPackLeatherMaxLite,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Leather
+  	{
+		ModularPackLeatherMaxLite,
+
+		OnCreate:KeepContents,
+		Result:ModularPackLeatherMax,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Olive
+  	{
+		ModularPackOliveMax,
+
+		OnCreate:KeepContents,
+		Result:ModularPackOliveMaxLite,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Olive
+  	{
+		ModularPackOliveMaxLite,
+
+		OnCreate:KeepContents,
+		Result:ModularPackOliveMax,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Pink
+  	{
+		ModularPackPinkMax,
+
+		OnCreate:KeepContents,
+		Result:ModularPackPinkMaxLite,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Pink
+  	{
+		ModularPackPinkMaxLite,
+
+		OnCreate:KeepContents,
+		Result:ModularPackPinkMax,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Tan
+  	{
+		ModularPackTanMax,
+
+		OnCreate:KeepContents,
+		Result:ModularPackTanMaxLite,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Tan
+  	{
+		ModularPackTanMaxLite,
+
+		OnCreate:KeepContents,
+		Result:ModularPackTanMax,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version White
+  	{
+		ModularPackWhiteMax,
+
+		OnCreate:KeepContents,
+		Result:ModularPackWhiteMaxLite,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version White
+  	{
+		ModularPackWhiteMaxLite,
+
+		OnCreate:KeepContents,
+		Result:ModularPackWhiteMax,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+
+	recipe Swap to Lite Version Woodland
+  	{
+		ModularPackWoodlandMax,
+
+		OnCreate:KeepContents,
+		Result:ModularPackWoodlandMaxLite,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoLite,
+		IsHidden: true,
+  	}
+
+	recipe Swap Back to Regular Version Woodland
+  	{
+		ModularPackWoodlandMaxLite,
+
+		OnCreate:KeepContents,
+		Result:ModularPackWoodlandMax,
+		Time:25.0,
+		Tooltip:Tooltip_SwapBagtoRegular,
+		IsHidden: true,
+  	}
+}

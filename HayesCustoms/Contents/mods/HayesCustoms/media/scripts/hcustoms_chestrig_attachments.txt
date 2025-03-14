@@ -1,0 +1,445 @@
+module Base
+{
+	model FemaleBody
+	{
+		mesh = Skinned/FemaleBody,
+
+		attachment Chest_Rig_Flashlight
+		{
+			offset = 0.152 0.0610 -0.0180,
+			rotate = 82.0000 27.0000 17.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Flashlight2
+		{
+			offset = 0.152 0.0610 -0.0180,
+			rotate = 82.0000 27.0000 17.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Prepper_Flashlight
+		{
+			offset = 0.0550 0.0540 0.0500,
+			rotate = -128.0000 79.0000 -156.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Prepper_Flashlight2
+		{
+			offset = 0.0550 0.0540 0.0500,
+			rotate = -128.0000 79.0000 -156.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Military_Flashlight
+		{
+			offset = 0.0530 0.0520 0.0690,
+			rotate = 88.0000 6.0000 67.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Military_Flashlight2
+		{
+			offset = 0.0530 0.0520 0.0690,
+			rotate = 88.0000 6.0000 67.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Walkie
+		{
+			offset = 0.0540 0.0700 0.0480,
+			rotate = -136.0000 3.0000 -89.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_Walkie2
+		{
+			offset = 0.0540 0.0700 0.0480,
+			rotate = -136.0000 3.0000 -89.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_Holster
+		{
+			offset = 0.0000 -0.0640 0.0630,
+			rotate = 177.0000 -81.0000 179.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_FlareGun
+		{
+			offset = 0.1510 -0.0840 0.0510,
+			rotate = 129.0000 6.0000 97.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_GasMask
+		{
+			offset = 0.0130 -0.0790 0.0670,
+			rotate = 169.0000 -76.0000 -127.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_Hammer
+		{
+			offset = -0.0380 -0.0790 0.0320,
+			rotate = -60.0000 -7.0000 -99.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_Screwdriver
+		{
+			offset = 0.1960 -0.0470 0.0660,
+			rotate = -65.0000 -5.0000 85.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_Knife
+		{
+			offset = 0.212 -0.0850 0.0700,
+			rotate = 131.0000 3.0000 98.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_Wrench
+		{
+			offset = -0.0490 -0.0950 0.0320,
+			rotate = -140.0000 3.0000 -101.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_Cleaver
+		{
+			offset = 0.0270 -0.0780 -0.0410,
+			rotate = 145.0000 11.0000 -88.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_MaskRH
+		{
+			offset = 0.0530 -0.050 0.0470,
+			rotate = -52.0000 1.0000 5.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_PackExtra
+		{
+			offset = 0.0460 -0.0010 -0.0580,
+			rotate = -159.0000 -76.0000 107.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_ModFirstAidKit
+		{
+			offset = 0.0460 -0.0010 -0.0580,
+			rotate = -159.0000 -76.0000 107.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_FirstAidKit
+		{
+			offset = -0.0020 -0.0010 -0.0840,
+			rotate = -91.0000 0.0000 80.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_L4DeadMedkit
+		{
+			offset = 0.0480 -0.0040 -0.0800,
+			rotate = 86.0000 -1.0000 9.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_FlareGun
+		{
+			offset = 0.1280 0.0610 0.0860,
+			rotate = -103.0000 -23.0000 87.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_GasMask
+		{
+			offset = 0.0080 0.0790 0.1010,
+			rotate = -103.0000 -79.0000 35.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Hammer
+		{
+			offset = -0.0290 0.0420 0.0890,
+			rotate = -105.0000 0.0000 -85.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Screwdriver
+		{
+			offset = 0.1820 0.0700 0.0830,
+			rotate = 90.0000 1.0000 99.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Knife
+		{
+			offset = 0.2010 0.0380 0.0810,
+			rotate = -108.0000 -2.0000 91.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Wrench
+		{
+			offset = -0.0640 0.0120 0.0830,
+			rotate = -17.0000 -3.0000 -87.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Cleaver
+		{
+			offset = -0.0110 0.0350 0.0900,
+			rotate = -99.0000 0.0000 -87.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_MaskRH
+		{
+			offset = 0.0560 0.0550 0.060,
+			rotate = -119.0000 -2.0000 7.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Canteen
+		{
+			offset = 0.0530 0.0350 0.0910,
+			rotate = -9.0000 -1.0000 -90.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_CanteenModular
+		{
+			offset = 0.0970 0.0210 0.0770,
+			rotate = -107.0000 -13.0000 -93.0000,
+			bone = Bip01_Spine,
+		}
+	}
+	model MaleBody
+	{
+		mesh = Skinned/MaleBody,
+
+		attachment Chest_Rig_Flashlight
+		{
+			offset = 0.152 0.0610 -0.0180,
+			rotate = 82.0000 27.0000 17.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Flashlight2
+		{
+			offset = 0.152 0.0610 -0.0180,
+			rotate = 82.0000 27.0000 17.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Prepper_Flashlight
+		{
+			offset = 0.0490 0.0640 0.0470,
+			rotate = -99.0000 84.0000 -170.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Prepper_Flashlight2
+		{
+			offset = 0.0490 0.0640 0.0470,
+			rotate = -99.0000 84.0000 -170.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Military_Flashlight
+		{
+			offset = 0.0530 0.0560 0.0700,
+			rotate = 96.0000 3.0000 67.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Military_Flashlight2
+		{
+			offset = 0.0530 0.0560 0.0700,
+			rotate = 96.0000 3.0000 67.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment Chest_Rig_Walkie
+		{
+			offset = 0.0540 0.0920 0.0560,
+			rotate = -132.0000 1.0000 -86.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_Walkie2
+		{
+			offset = 0.0490 0.0630 0.0750,
+			rotate = -120.0000 4.0000 -96.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_Holster
+		{
+			offset = 0.0030 -0.0600 0.0810,
+			rotate = 177.0000 -81.0000 179.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_FlareGun
+		{
+			offset = 0.1450 -0.1090 0.0650,
+			rotate = 129.0000 3.0000 93.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_GasMask
+		{
+			offset = 0.0130 -0.1030 0.0810,
+			rotate = 169.0000 -76.0000 -127.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_Hammer
+		{
+			offset = -0.0290 -0.0800 0.0520,
+			rotate = -60.0000 -4.0000 -92.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_Screwdriver
+		{
+			offset = 0.1930 -0.0700 0.0720,
+			rotate = -64.0000 -1.0000 93.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_Knife
+		{
+			offset = 0.214 -0.1030 0.0830,
+			rotate = 123.0000 3.0000 98.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_Wrench
+		{
+			offset = -0.0640 -0.0960 0.0440,
+			rotate = -131.0000 -1.0000 -95.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_Cleaver
+		{
+			offset = 0.0100 -0.0860 0.0680,
+			rotate = 146.0000 -6.0000 -85.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_MaskRH
+		{
+			offset = 0.0590 -0.0770 0.0690,
+			rotate = -52.0000 3.0000 7.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_PackExtra
+		{
+			offset = 0.0590 0.0010 -0.0730,
+			rotate = -64.0000 -84.0000 -157.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_ModFirstAidKit
+		{
+			offset = 0.0590 0.0010 -0.0730,
+			rotate = -64.0000 -84.0000 -157.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_FirstAidKit
+		{
+			offset = 0.0100 -0.0050 -0.0910,
+			rotate = -91.0000 0.0000 94.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_1_L4DeadMedkit
+		{
+			offset = 0.0540 -0.0030 -0.0870,
+			rotate = 90.0000 0.0000 0.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_FlareGun
+		{
+			offset = 0.1280 0.0620 0.0980,
+			rotate = -103.0000 -23.0000 87.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_GasMask
+		{
+			offset = 0.0080 0.1010 0.1140,
+			rotate = -103.0000 -79.0000 35.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Hammer
+		{
+			offset = 0.0560 0.0700 0.0710,
+			rotate = -127.0000 -2.0000 8.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Screwdriver
+		{
+			offset = 0.1920 0.0220 0.0910,
+			rotate = 90.0000 1.0000 88.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Knife
+		{
+			offset = 0.2020 0.0530 0.0930,
+			rotate = -127.0000 0.0000 94.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Wrench
+		{
+			offset = -0.1130 0.0520 0.1120,
+			rotate = -17.0000 2.0000 -86.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Cleaver
+		{
+			offset = -0.0100 0.0500 0.1000,
+			rotate = -99.0000 0.0000 -90.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_MaskRH
+		{
+			offset = 0.0560 0.0700 0.0710,
+			rotate = -127.0000 -2.0000 8.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_Canteen
+		{
+			offset = 0.0350 0.0470 0.1010,
+			rotate = -9.0000 -6.0000 -91.0000,
+			bone = Bip01_Spine,
+		}
+
+		attachment Chest_Rig_2_CanteenModular
+		{
+			offset = 0.0850 0.0350 0.0940,
+			rotate = -108.0000 -12.0000 -98.0000,
+			bone = Bip01_Spine,
+		}
+	}
+}

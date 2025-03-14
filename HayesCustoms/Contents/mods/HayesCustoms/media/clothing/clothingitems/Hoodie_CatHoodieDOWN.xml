@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_CatHoodieDOWN</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_CatHoodieDOWN</m_FemaleModel>
+	<m_GUID>ef0d5e8e-18b3-4059-a1d2-49bc06741659</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>13</m_Masks>
+	<m_Masks>14</m_Masks>
+	<m_Masks>3</m_Masks>
+	<m_Masks>5</m_Masks>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\CatHoodieYellow</textureChoices>
+	<textureChoices>clothes\CatHoodiePurple</textureChoices>
+	<textureChoices>clothes\CatHoodieBlue</textureChoices>
+	<textureChoices>clothes\CatHoodieGreen</textureChoices>
+	<textureChoices>clothes\CatHoodieOrange</textureChoices>
+	<textureChoices>clothes\CatHoodiePink</textureChoices>
+	<textureChoices>clothes\CatHoodieWhite</textureChoices>
+	<textureChoices>clothes\CatHoodieBlack</textureChoices>
+</clothingItem>

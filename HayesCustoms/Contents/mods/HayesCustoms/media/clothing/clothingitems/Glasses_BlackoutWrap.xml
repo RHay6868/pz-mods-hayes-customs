@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\M_BlackoutWrap</m_MaleModel>
+	<m_FemaleModel>static\clothes\F_BlackoutWrap</m_FemaleModel>
+	<m_GUID>914078ab-0c56-45b1-a38d-bb226044a2d6</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>none</m_MasksFolder>
+	<textureChoices>clothes\glasses\BlackoutWrap1</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap2</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap3</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap4</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap5</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap6</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap7</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap8</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap9</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap10</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap11</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap12</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap13</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap14</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap15</textureChoices>
+	<textureChoices>clothes\glasses\BlackoutWrap16</textureChoices>
+</clothingItem>

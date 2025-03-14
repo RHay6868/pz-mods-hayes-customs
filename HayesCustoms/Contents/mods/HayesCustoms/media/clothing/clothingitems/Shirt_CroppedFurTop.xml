@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_CroppedFurTop</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_CroppedFurTop</m_FemaleModel>
+	<m_GUID>31b052b5-a7e5-4f33-8429-375d55a22b60</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\CroppedFurTop</textureChoices>
+</clothingItem>

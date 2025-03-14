@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\BigFootHead</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\BigFootHead</m_FemaleModel>
+	<m_GUID>c12145c4-cf4a-4fb8-8823-348aac4b91fc</m_GUID>
+	<m_Static>False</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>0</m_Masks>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\headwear\BigFootHead</textureChoices>
+</clothingItem>

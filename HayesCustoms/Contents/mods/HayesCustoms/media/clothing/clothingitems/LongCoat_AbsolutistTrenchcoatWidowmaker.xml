@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_AbsolutistTrenchcoat</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_AbsolutistTrenchcoat</m_FemaleModel>
+	<m_GUID>72696ad9-a8fc-4e83-96a6-7bb4f748805c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\AbsolutistTrenchcoatWidowmaker</textureChoices>
+</clothingItem>

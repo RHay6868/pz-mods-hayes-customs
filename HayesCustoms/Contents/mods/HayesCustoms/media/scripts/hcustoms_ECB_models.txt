@@ -1,0 +1,128 @@
+module Base
+{
+    model EliteCombatBagGraffiti_Ground
+    {
+        mesh    =   WorldItems/Backpacks/EliteCombatBackPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatBackPackGraffiti,
+    }
+
+    model EliteCombatSmallPackGraffiti_Ground
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatSmallBagGraffiti,
+    }
+
+    model EliteCombatSmallPackGraffiti_Bag
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Bag,
+        texture =   Clothes/backpacks/EliteCombatSmallBagGraffiti,
+    }
+
+    model EliteCombatBagRetro_Ground
+    {
+        mesh    =   WorldItems/Backpacks/EliteCombatBackPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatBackPackRetro,
+    }
+
+    model EliteCombatSmallPackRetro_Ground
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatSmallBagRetro,
+    }
+
+    model EliteCombatSmallPackRetro_Bag
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Bag,
+        texture =   Clothes/backpacks/EliteCombatSmallBagRetro,
+    }
+
+    model EliteCombatBagSunrise_Ground
+    {
+        mesh    =   WorldItems/Backpacks/EliteCombatBackPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatBackPackSunrise,
+    }
+
+    model EliteCombatSmallPackSunrise_Ground
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatSmallBagSunrise,
+    }
+
+    model EliteCombatSmallPackSunrise_Bag
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Bag,
+        texture =   Clothes/backpacks/EliteCombatSmallBagSunrise,
+    }
+
+    model EliteCombatBagCeladon_Ground
+    {
+        mesh    =   WorldItems/Backpacks/EliteCombatBackPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatBackPackCeladon,
+    }
+
+    model EliteCombatSmallPackCeladon_Ground
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatSmallBagCeladon,
+    }
+
+    model EliteCombatSmallPackCeladon_Bag
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Bag,
+        texture =   Clothes/backpacks/EliteCombatSmallBagCeladon,
+    }
+
+    model EliteCombatBagGamboge_Ground
+    {
+        mesh    =   WorldItems/Backpacks/EliteCombatBackPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatBackPackGamboge,
+    }
+
+    model EliteCombatSmallPackGamboge_Ground
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatSmallBagGamboge,
+    }
+
+    model EliteCombatSmallPackGamboge_Bag
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Bag,
+        texture =   Clothes/backpacks/EliteCombatSmallBagGamboge,
+    }
+
+    model EliteCombatBagWatchet_Ground
+    {
+        mesh    =   WorldItems/Backpacks/EliteCombatBackPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatBackPackWatchet,
+    }
+
+    model EliteCombatSmallPackWatchet_Ground
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatSmallBagWatchet,
+    }
+
+    model EliteCombatSmallPackWatchet_Bag
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Bag,
+        texture =   Clothes/backpacks/EliteCombatSmallBagWatchet,
+    }
+
+    model EliteCombatBagLaguna_Ground
+    {
+        mesh    =   WorldItems/Backpacks/EliteCombatBackPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatBackPackLaguna,
+    }
+
+    model EliteCombatSmallPackLaguna_Ground
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Ground,
+        texture =   Clothes/backpacks/EliteCombatSmallBagLaguna,
+    }
+
+    model EliteCombatSmallPackLaguna_Bag
+    {
+        mesh    =   WorldItems/EliteCombatSmallPack_Bag,
+        texture =   Clothes/backpacks/EliteCombatSmallBagLaguna,
+    }
+}

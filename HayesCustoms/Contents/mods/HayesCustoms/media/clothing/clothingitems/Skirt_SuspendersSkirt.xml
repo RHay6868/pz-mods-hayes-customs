@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_SuspendersSkirt</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_SuspendersSkirt</m_FemaleModel>
+	<m_GUID>5a52ddb7-879e-4ceb-8ea4-1a999bf288ee</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\SuspendersSkirt</textureChoices>
+</clothingItem>

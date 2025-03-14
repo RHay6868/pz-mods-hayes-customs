@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_ManhunterBelt</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_ManhunterBelt</m_FemaleModel>
+	<m_GUID>d290b8fc-1794-4d32-a048-6c8eb7235d4e</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_MasksFolder></m_MasksFolder>
+	<textureChoices>clothes\ManhunterNCR</textureChoices>
+</clothingItem>

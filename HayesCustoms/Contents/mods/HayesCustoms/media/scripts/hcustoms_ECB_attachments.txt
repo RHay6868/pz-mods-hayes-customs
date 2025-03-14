@@ -1,0 +1,907 @@
+module Base
+{
+	model FemaleBody
+	{
+		mesh = Skinned/FemaleBody,
+
+		attachment ECB_Patch
+		{
+			offset = 0.1180 -0.0110 -0.1760,
+			rotate = -179.0000 -51.0000 91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PillBottle_Left
+		{
+			offset = 0.0130 0.0760 -0.1380,
+			rotate = 93.0000 -12.0000 -76.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Waterbottle_Left
+		{
+			offset = 0.0540 0.0660 -0.1240,
+			rotate = 179.0000 7.0000 -87.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Canteen_Left
+		{
+			offset = 0.0560 0.0800 -0.1300,
+			rotate = 92.0000 -8.0000 -76.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_CanteenModular_Left
+		{
+			offset = 0.0750 0.0690 -0.1070,
+			rotate = 179.0000 -1.0000 -87.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Sodacan_Left
+		{
+			offset = 0.0800 0.0700 -0.1220,
+			rotate = 179.0000 -1.0000 -87.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Bottle_Left
+		{
+			offset = 0.0230 0.0650 -0.1180,
+			rotate = 179.0000 13.0000 -87.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PillBottle_Right
+		{
+			offset = 0.0290 -0.0940 -0.1530,
+			rotate = -4.0000 -24.0000 -89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Waterbottle_Right
+		{
+			offset = 0.0580 -0.0840 -0.1340,
+			rotate = -4.0000 -18.0000 -89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Canteen_Right
+		{
+			offset = 0.0690 -0.1050 -0.1440,
+			rotate = 90.0000 8.0000 -77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_CanteenModular_Right
+		{
+			offset = 0.0830 -0.0830 -0.1160,
+			rotate = -4.0000 -24.0000 -89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Sodacan_Right
+		{
+			offset = 0.0890 -0.0830 -0.1400,
+			rotate = -4.0000 -24.0000 -89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Bottle_Right
+		{
+			offset = 0.0250 -0.0850 -0.1250,
+			rotate = -4.0000 -18.0000 -89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Flashlight
+		{
+			offset = 0.1530 -0.0710 -0.0130,
+			rotate = -77.0000 66.0000 164.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Big_Flashlight
+		{
+			offset = 0.1460 0.0680 -0.0090,
+			rotate = 49.0000 67.0000 35.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Prepper_Flashlight
+		{
+			offset = 0.0530 -0.0770 0.0600,
+			rotate = -60.0000 79.0000 147.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Military_Flashlight
+		{
+			offset = 0.0060 -0.0970 0.0540,
+			rotate = 84.0000 14.0000 110.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Lantern
+		{
+			offset = -0.1040 0.0930 -0.1450,
+			rotate = 174.0000 12.0000 -81.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Rope
+		{
+			offset = -0.0680 -0.0140 -0.2350,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_SheetRope
+		{
+			offset = -0.0100 -0.0050 -0.2280,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_FlareGun
+		{
+			offset = 0.0460 -0.0050 -0.2210,
+			rotate = -90.0000 -5.0000 77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Explosive
+		{
+			offset = -0.0740 -0.0050 -0.2480,
+			rotate = 90.0000 0.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_AuthenticExplosive
+		{
+			offset = -0.0760 -0.0070 -0.2550,
+			rotate = 179.0000 9.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_GasMask
+		{
+			offset = -0.0450 -0.0090 -0.2550,
+			rotate = -177.0000 -74.0000 93.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Walkie
+		{
+			offset = -0.0390 -0.0050 -0.2460,
+			rotate = 90.0000 1.0000 -78.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Hammer
+		{
+			offset = -0.1130 -0.0140 -0.2590,
+			rotate = 90.0000 0.0000 -75.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Screwdriver
+		{
+			offset = 0.0610 -0.0070 -0.2190,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Knife
+		{
+			offset = 0.0730 -0.0080 -0.2150,
+			rotate = -89.0000 1.0000 77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Wrench
+		{
+			offset = -0.1150 -0.0060 -0.2570,
+			rotate = 0.0000 -15.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Cleaver
+		{
+			offset = -0.0960 -0.0250 -0.2590,
+			rotate = 89.0000 -1.0000 -75.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_MaskRH
+		{
+			offset = -0.0090 -0.0140 -0.2080,
+			rotate = 89.0000 2.0000 20.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Rope
+		{
+			offset = -0.0800 -0.0960 -0.2200,
+			rotate = -135.0000 7.0000 82.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_SheetRope
+		{
+			offset = -0.0120 -0.0870 -0.2020,
+			rotate = -139.0000 8.0000 84.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_FlareGun
+		{
+			offset = 0.0450 -0.0820 -0.1940,
+			rotate = 151.0000 12.0000 94.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Explosive
+		{
+			offset = -0.0790 -0.0720 -0.2140,
+			rotate = 87.0000 0.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_AuthenticExplosive
+		{
+			offset = -0.0440 -0.0610 -0.2970,
+			rotate = 179.0000 9.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Walkie
+		{
+			offset = -0.0530 -0.0900 -0.2180,
+			rotate = 47.0000 -12.0000 -81.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Hammer
+		{
+			offset = -0.1110 -0.0790 -0.2210,
+			rotate = 83.0000 -4.0000 -80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Screwdriver
+		{
+			offset = 0.0920 -0.0730 -0.1870,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Knife
+		{
+			offset = -0.0820 -0.0900 -0.2190,
+			rotate = -45.0000 -10.0000 -97.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Wrench
+		{
+			offset = 0.1310 -0.0850 -0.1770,
+			rotate = 122.0000 6.0000 101.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Cleaver
+		{
+			offset = -0.0700 -0.0870 -0.2360,
+			rotate = -51.0000 -8.0000 -103.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Container_Lunchbox
+		{
+			offset = -0.2100 -0.0060 -0.2030,
+			rotate = 91.0000 2.0000 105.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Container_PistolCase
+		{
+			offset = -0.2180 -0.0110 -0.1980,
+			rotate = -180.0000 7.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Container_PackExtra
+		{
+			offset = -0.1050 -0.0160 -0.1750,
+			rotate = -180.0000 7.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Container_Pack
+		{
+			offset = -0.1040 -0.0060 -0.1650,
+			rotate = -180.0000 7.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Container
+		{
+			offset = -0.2110 -0.0070 -0.2030,
+			rotate = 89.0000 0.0000 102.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_GarbageBag
+		{
+			offset = -0.2500 0.0030 -0.1620,
+			rotate = 91.0000 -1.0000 36.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Seedbag
+		{
+			offset = -0.1730 -0.0110 -0.2410,
+			rotate = 0.0000 -11.0000 90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Handbag
+		{
+			offset = -0.3070 -0.0050 -0.2390,
+			rotate = 91.0000 0.0000 104.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Toolbox
+		{
+			offset = -0.2410 -0.0080 -0.1930,
+			rotate = 91.0000 0.0000 105.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Cooler
+		{
+			offset = -0.3000 -0.0060 -0.2020,
+			rotate = 91.0000 0.0000 99.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_L4DeadMedkit
+		{
+			offset = -0.1300 -0.1140 -0.1690,
+			rotate = 0.0000 73.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Bedroll
+		{
+			offset = 0.2410 -0.0040 -0.0750,
+			rotate = -180.0000 7.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Handgun
+		{
+			offset = 0.1150 0.0770 -0.1620,
+			rotate = -64.0000 -6.0000 77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Rifle
+		{
+			offset = 0.1160 0.0940 -0.1530,
+			rotate = 128.0000 13.0000 102.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieSpiffoL
+		{
+			offset = -0.2580 0.0480 -0.2010,
+			rotate = 43.0000 1.0000 89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieDollL
+		{
+			offset = -0.2580 0.0480 -0.2010,
+			rotate = 43.0000 1.0000 89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieTeddyBearL
+		{
+			offset = -0.2580 0.0480 -0.2010,
+			rotate = 43.0000 1.0000 89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieRubberDuckL
+		{
+			offset = -0.2580 0.0480 -0.2010,
+			rotate = 43.0000 1.0000 89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieSpiffoR
+		{
+			offset = -0.2560 -0.0750 -0.2010,
+			rotate = -39.0000 0.0000 80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieDollR
+		{
+			offset = -0.2560 -0.0750 -0.2010,
+			rotate = -39.0000 0.0000 80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieTeddyBearR
+		{
+			offset = -0.2560 -0.0750 -0.2010,
+			rotate = -39.0000 0.0000 80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieRubberDuckR
+		{
+			offset = -0.2560 -0.0750 -0.2010,
+			rotate = -39.0000 0.0000 80.0000,
+			bone = Bip01_Spine1,
+		}
+	}
+	model MaleBody
+	{
+		mesh = Skinned/MaleBody,
+
+		attachment ECB_Patch
+		{
+			offset = 0.1200 -0.0110 -0.1810,
+			rotate = -179.0000 -51.0000 91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PillBottle_Left
+		{
+			offset = 0.0460 0.0770 -0.1310,
+			rotate = 93.0000 -12.0000 -76.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Waterbottle_Left
+		{
+			offset = 0.0540 0.0660 -0.1240,
+			rotate = 179.0000 7.0000 -87.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Canteen_Left
+		{
+			offset = 0.0560 0.0800 -0.1300,
+			rotate = 92.0000 -8.0000 -76.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_CanteenModular_Left
+		{
+			offset = 0.0800 0.0700 -0.1220,
+			rotate = 179.0000 -1.0000 -87.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Sodacan_Left
+		{
+			offset = 0.0800 0.0700 -0.1220,
+			rotate = 179.0000 -1.0000 -87.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Bottle_Left
+		{
+			offset = 0.0540 0.0660 -0.1240,
+			rotate = 179.0000 7.0000 -87.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PillBottle_Right
+		{
+			offset = 0.0610 -0.0930 -0.1460,
+			rotate = -4.0000 -24.0000 -89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Waterbottle_Right
+		{
+			offset = 0.0580 -0.0840 -0.1340,
+			rotate = -4.0000 -18.0000 -89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Canteen_Right
+		{
+			offset = 0.0690 -0.1050 -0.1440,
+			rotate = 90.0000 8.0000 -77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_CanteenModular_Right
+		{
+			offset = 0.0890 -0.0830 -0.1400,
+			rotate = -4.0000 -24.0000 -89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Sodacan_Right
+		{
+			offset = 0.0890 -0.0830 -0.1400,
+			rotate = -4.0000 -24.0000 -89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Bottle_Right
+		{
+			offset = 0.0580 -0.0840 -0.1340,
+			rotate = -4.0000 -18.0000 -89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Flashlight
+		{
+			offset = 0.1610 -0.0700 -0.0190,
+			rotate = -77.0000 66.0000 164.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Big_Flashlight
+		{
+			offset = 0.1480 0.0710 0.0090,
+			rotate = 66.0000 71.0000 17.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Prepper_Flashlight
+		{
+			offset = 0.0530 -0.0770 0.0600,
+			rotate = -60.0000 79.0000 147.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Military_Flashlight
+		{
+			offset = 0.0060 -0.0970 0.0540,
+			rotate = 84.0000 14.0000 110.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Lantern
+		{
+			offset = -0.1040 0.0930 -0.1450,
+			rotate = 174.0000 12.0000 -81.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Rope
+		{
+			offset = -0.0660 -0.0140 -0.2400,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_SheetRope
+		{
+			offset = -0.0080 -0.0050 -0.2370,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_FlareGun
+		{
+			offset = 0.0480 -0.0050 -0.2280,
+			rotate = -90.0000 -5.0000 77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Explosive
+		{
+			offset = -0.0730 -0.0050 -0.2530,
+			rotate = 90.0000 0.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_AuthenticExplosive
+		{
+			offset = -0.0740 -0.0070 -0.2600,
+			rotate = 179.0000 9.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_GasMask
+		{
+			offset = -0.0430 -0.0090 -0.2640,
+			rotate = -177.0000 -74.0000 93.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Walkie
+		{
+			offset = -0.0370 -0.0050 -0.2530,
+			rotate = 90.0000 1.0000 -78.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Hammer
+		{
+			offset = -0.1100 -0.0140 -0.2700,
+			rotate = 90.0000 0.0000 -75.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Screwdriver
+		{
+			offset = 0.0630 -0.0070 -0.2260,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Knife
+		{
+			offset = 0.0750 -0.0080 -0.2220,
+			rotate = -89.0000 1.0000 77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Wrench
+		{
+			offset = -0.1120 -0.0060 -0.2680,
+			rotate = 0.0000 -15.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_Cleaver
+		{
+			offset = -0.0940 -0.0250 -0.2640,
+			rotate = 89.0000 -1.0000 -75.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT1_MaskRH
+		{
+			offset = -0.0070 -0.0140 -0.2130,
+			rotate = 89.0000 2.0000 20.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Rope
+		{
+			offset = -0.0800 -0.0960 -0.2200,
+			rotate = -135.0000 7.0000 82.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_SheetRope
+		{
+			offset = -0.0120 -0.0870 -0.2020,
+			rotate = -139.0000 8.0000 84.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_FlareGun
+		{
+			offset = 0.0450 -0.0820 -0.1940,
+			rotate = 151.0000 12.0000 94.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Explosive
+		{
+			offset = -0.0790 -0.0720 -0.2140,
+			rotate = 87.0000 0.0000 -83.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_AuthenticExplosive
+		{
+			offset = -0.0440 -0.0610 -0.2970,
+			rotate = 179.0000 9.0000 -90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Walkie
+		{
+			offset = -0.0530 -0.0900 -0.2180,
+			rotate = 47.0000 -12.0000 -81.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Hammer
+		{
+			offset = -0.1110 -0.0790 -0.2210,
+			rotate = 83.0000 -4.0000 -80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Screwdriver
+		{
+			offset = 0.0920 -0.0730 -0.1870,
+			rotate = -89.0000 -1.0000 79.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Knife
+		{
+			offset = -0.0820 -0.0900 -0.2190,
+			rotate = -45.0000 -10.0000 -97.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Wrench
+		{
+			offset = 0.1310 -0.0850 -0.1770,
+			rotate = 122.0000 6.0000 101.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_UT2_Cleaver
+		{
+			offset = -0.0700 -0.0870 -0.2360,
+			rotate = -51.0000 -8.0000 -103.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Container_Lunchbox
+		{
+			offset = -0.2100 -0.0060 -0.2030,
+			rotate = 91.0000 2.0000 105.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Container_PistolCase
+		{
+			offset = -0.2180 -0.0110 -0.1980,
+			rotate = -180.0000 7.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Container_PackExtra
+		{
+			offset = -0.1050 -0.0160 -0.1750,
+			rotate = -180.0000 7.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Container_Pack
+		{
+			offset = -0.1050 -0.0160 -0.1760,
+			rotate = -180.0000 7.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Container
+		{
+			offset = -0.2110 -0.0070 -0.2030,
+			rotate = 89.0000 0.0000 102.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_GarbageBag
+		{
+			offset = -0.2500 0.0030 -0.1620,
+			rotate = 91.0000 -1.0000 36.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Seedbag
+		{
+			offset = -0.1730 -0.0110 -0.2410,
+			rotate = 0.0000 -11.0000 90.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Handbag
+		{
+			offset = -0.3070 -0.0050 -0.2390,
+			rotate = 91.0000 0.0000 104.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Toolbox
+		{
+			offset = -0.2410 -0.0080 -0.1930,
+			rotate = 91.0000 0.0000 105.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Cooler
+		{
+			offset = -0.3000 -0.0060 -0.2020,
+			rotate = 91.0000 0.0000 99.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_L4DeadMedkit
+		{
+			offset = -0.1300 -0.1140 -0.1690,
+			rotate = 0.0000 73.0000 0.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Bedroll
+		{
+			offset = 0.2410 -0.0040 -0.0750,
+			rotate = -180.0000 7.0000 -91.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Handgun
+		{
+			offset = 0.1170 0.0840 -0.1710,
+			rotate = -64.0000 -6.0000 77.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_Rifle
+		{
+			offset = 0.1210 0.0940 -0.1760,
+			rotate = 121.0000 3.0000 95.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieSpiffoL
+		{
+			offset = -0.2580 0.0480 -0.2010,
+			rotate = 43.0000 1.0000 89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieDollL
+		{
+			offset = -0.2580 0.0480 -0.2010,
+			rotate = 43.0000 1.0000 89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieTeddyBearL
+		{
+			offset = -0.2580 0.0480 -0.2010,
+			rotate = 43.0000 1.0000 89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieRubberDuckL
+		{
+			offset = -0.2580 0.0480 -0.2010,
+			rotate = 43.0000 1.0000 89.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieSpiffoR
+		{
+			offset = -0.2560 -0.0750 -0.2010,
+			rotate = -39.0000 0.0000 80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieDollR
+		{
+			offset = -0.2560 -0.0750 -0.2010,
+			rotate = -39.0000 0.0000 80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieTeddyBearR
+		{
+			offset = -0.2560 -0.0750 -0.2010,
+			rotate = -39.0000 0.0000 80.0000,
+			bone = Bip01_Spine1,
+		}
+
+		attachment ECB_PlushieRubberDuckR
+		{
+			offset = -0.2560 -0.0750 -0.2010,
+			rotate = -39.0000 0.0000 80.0000,
+			bone = Bip01_Spine1,
+		}
+	}
+}

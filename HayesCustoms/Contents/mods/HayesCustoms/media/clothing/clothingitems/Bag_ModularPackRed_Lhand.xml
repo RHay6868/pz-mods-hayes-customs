@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\Backpacks\ModularPack_Lhand</m_MaleModel>
+	<m_FemaleModel>skinned\Backpacks\ModularPack_Lhand</m_FemaleModel>
+	<m_GUID>463f0e8d-c3c5-4a75-8036-4efbe74942af</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\backpacks\ModularPackRed</textureChoices>
+</clothingItem>
